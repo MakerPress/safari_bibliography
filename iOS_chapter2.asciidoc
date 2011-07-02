@@ -1,0 +1,183 @@
+== Intermediate iOS Development
+
+=== Pro Core Data for iOS: Data Access and Persistence Engine for iPhone, iPad, and iPod touch
+
+_Apress_
+_By Michael Privat & Rob Warner_
+_ISBN: 9781430233558_
+_January 2011_
+_$39.99 US_
+
+Based on the relatively new Cocoa touch set of APIs and libraries, the Core Data framework is now available and accessible for app development and use on iPhone, iPad, and iPod touch devices. This book explains how to use the Core Data framework for iOS, from simple to advanced techniques. Covering common and advanced persistence patterns, this book prepares any iOS developer to store and retrieve data accurately and efficiently for their iOS applications.
+
+
+Professional iPhone® and iPad™ Database Application Programming
+Wrox
+By Patrick Alessi
+ISBN: 9780470636176
+October 2010
+$44.99 pages
+401 pages
+
+An enormous demand exists for getting iPhone applications into the enterprise and this book guides you through all the necessary steps for integrating an iPhone app within an existing enterprise. Experienced iPhone developers will learn how to take advantage of the built-in capabilities of the iPhone to confidently implement a data-driven application for the iPhone. This book gets you up to speed on developing data-driven applications for the iPhone.
+
+
+iPhone Cool Projects
+Apress
+By Wolfgang Ante; Gary Bennett; Benjamin Jackson; Neil Mix; Steven Peterson; Matthew Rosenfeld; Michael Ash
+ISBN: 9781430223573
+August 2009
+$39.99 US
+240 pages
+
+This book is written by authors who have created successful iPhone applications. Follow along and learn about multitouch controls, spatial app interaction, geo-location, cocos2d, 2d gaming, Core Location, streaming audio and how to optimize your use of limited screen real estate. Software development can be hard work. Introductory books lay the foundation, but it can be challenging to understand where to go next. This book shows some of the pieces that can be brought together to make complete, cool applications for all iPhone application developers with any level of experience or coming from any development platform.
+
+
+Programming iOS 4
+O'Reilly Media
+By Matt Neuberg
+ISBN: 9781449388430
+May 2011
+$49.99 US
+834 pages
+
+Whether you're learning Cocoa programming for the first time, or want a reference to bolster the iPhone development skills you already have, this in-depth guide provides a complete learning path -- from language basics and using Xcode and Interface Builder to all of the steps necessary for developing your app with the Cocoa framework. You'll learn everything you need to take an iPhone, iPad, or iPod touch app from initial concept to the App Store.
+
+
+iOS 5 Sensor Programming Rough Cuts Version: Augmented Reality and Location Enabled iPhone and iPad Apps
+O'Reilly Media
+By Alasdair Allan
+ISBN: 9781449382650
+December 2011
+$39.99
+320 pages
+
+Use iPhone's onboard sensors to build cutting-edge location-based and augmented reality apps. With this book, you'll learn how to combine input from the three-axis accelerometer, GPS, digital compass, and camera with outside data sets to create apps that interact with the physical world. It's ideal for experienced iPhone programmers, game programmers, augmented reality programmers, and geo hackers. This book is still in progress, but you can get going on this technology through our Rough Cuts edition, which lets you read the manuscript as it's being written, either online or via PDF.
+
+
+Basic Sensors in iOS
+O'Reilly Media
+By Alasdair Allan
+ISBN: 9781449308469
+July 2011
+$19.99 US
+50 pages
+
+Modern mobile platforms, such as Apple’s iPhone and iPad, come with a growing range of sensors; GPS, accelerometers, magnetometers and gyroscopes. This book guides you through how to make use of these sensors, giving you the necessary tools and experience to develop applications that makes best use of the hardware.
+
+
+Core Audio
+Addison-Wesley Professional
+By Kevin Avila; Chris Adamson
+ISBN: 9780321636843
+September 2011
+300 pages
+
+This book will teach you all you need to know about Core Audio. Core Audio lets you write applications that work directly with the uncompressed audio data captured from a microphone, perform effects on it, mix it with other audio, and play the result out to the speakers and/or convert it into a compressed format that you can then write to the file system or send over the network. Or, if you’re not developing full applications, Core Audio lets you write just the custom effect and wrap it in a plug-in called an audio unit, which lets users add your effect to their Core Audio-based applications. By the time you get to the end of this book, you’ll have an appreciation for just how much Core Audio does for you. This book assumes a working knowledge of C, including pointers, malloc(), and the usual hazards of low-level memory management. The book also assumes that you're familiar and comfortable with Xcode and programming in Objective-C.
+
+
+Learning Quartz Composer: A Hands-on Guide to Creating Motion Graphics with Quartz Composer
+Addison-Wesley Professional
+By Graham Robinson, Surya Buchwald
+ISBN: 9780321636942
+October 2011
+$39.99 US
+250 pages
+
+(no description)
+
+
+Learning Cocos2D: A Hands-On Guide to Building iOS Games with Cocos2D, Box2D, and Chipmunk
+Addison-Wesley Professional
+By Rod Strougo; Ray Wenderlich
+ISBN: 9780321735621
+July 2011
+$44.99 US
+640 pages
+
+Follow along in this book to learn how to build the next great iOS game with Cocos2D. Cocos2D is the powerhouse framework behind some of the most popular games in the App Store. If you’ve played Tiny Wings, Angry Birds, Mega Jump, Trainyard, or even Super Turbo Action Pig, then you’ve played a game that uses Cocos2D or Box2D physics. The beauty of Cocos2D is its simplicity, and how it makes game development fun and easy. This book walks you through the process of building Space Viking (which is free on the App Store), a 2D scrolling game that leverages Cocos2D, Box2D, and Chipmunk. As you build Space Viking, you’ll learn everything you need to know about Cocos2D so you can create the next killer iOS game.
+
+
+Programming iOS Sensors
+Addison-Wesley Professional
+By Eric Busch
+ISBN: 9780321775047
+August 2011
+$34.99
+300 pages
+
+(no description)
+
+Learning MonoTouch: A Hands-On Guide to Building iOS Applications with C# and .NET
+Addison-Wesley Professional
+By Michael Bluestein
+ISBN: 9780321719928
+July 2011
+$44.99 US
+448 pages
+
+Many .NET developers and many enterprises would like to target iOS devices, yet the learning curve and cost of moving to Objective-C precludes the practicality of this in many cases. MonoTouch brings the best of CocoaTouch and .NET under a single, extensible technology, providing the only way to develop iOS applications using .NET that can be published to the iOS App Store. This book assumes the reader is familiar with C# and .NET at least on an intermediate level and focuses on making use of existing skills, while presenting iOS-specific information in detail. After the basics are covered, the book quickly moves into more complex examples that address common use cases encountered in iOS development.
+
+
+iPhone in Practice
+Manning
+By Bear P. Cahill
+ISBN: 9781935182658
+November 2011
+$44.99 US
+325 pages
+
+Forums, blogs and even the Apple Develop site are full of hard questions and murky answers. Navigating the iOS Dev Center, iOS Provisioning Portal, and iTunes Connect can be equally frustrating. When you're building an app, you don't want vague ideas and untested theory-you want real answers to real problems. You want iPhone in Practice.
+iPhone in Practice is a book written from the hard-won experience of expert mobile app developer Bear Cahill. In this unique hands-on guide, you'll explore seven real, working iPhone and iPad apps and uncover nearly 100 specific techniques to solve the specific problems you'll encounter over and over. You'll dig into the practical nuts and bolts of applying views, view controllers, table views and cells, audio, graphics, images, file structure, and so on-the foundations of almost all your apps. You'll also crack some of the more difficult issues that will set you apart from the pack.
+
+iOS4 in Action
+Manning
+By Jocelyn Harrington, Brandon Trebitowski, Christopher Allen, and Shannon Appelcline
+ISBN: 9781617290015
+June 2011
+$44.99
+504 pages
+
+iOS 4 in Action, written for Xcode 4 and using the iOS SDK 4.3, is a detailed, hands-on guide that goes from setting up your development environment, through your first coding steps, all the way to creating a polished, commercial iOS 4 application. You'll run through examples from a variety of areas including a chat client, a video game, an interactive map, and background audio. You'll also learn how the new iOS 4 features apply to your existing iOS 3 based apps. This book will help you become a confident, well-rounded iOS 4 developer.
+
+
+More iPhone 3 Development: Tackling iPhone SDK 3
+Apress
+By Dave Mark; Jeff LaMarche
+ISBN: 9781430225058
+January 2010
+$39.99
+552 pages
+
+This book digs deeper into Apple’s latest SDK. Best-selling authors Dave Mark and Jeff LaMarche explain concepts as only they can, covering topics like Core Data, peer-to-peer networking using GameKit and network streams, working with data from the web, MapKit, in-application e-mail, and more. All the concepts and APIs are clearly presented with code snippets you can customize and use, as you like, in your own apps. Jeff and Dave carefully step through each of the Core Data concepts and show you techniques and tips specifically for writing larger applications—offering a breadth of coverage you won't find anywhere else. This book covers a variety of networking mechanisms, from GameKit’s relatively simple BlueTooth peer-to-peer model, to the addition of Bonjour discovery and network streams, through the complexity of accessing files via the web. Whether you are a relative newcomer to iPhone development or an old hand looking to expand your horizons, there’s something for everyone in this book.
+
+
+iPhone and iOS 4 Advanced App Development: Learn by Video (video)
+Peachpit Press
+By Turrall video2brain
+ISBN: 9780132808651
+July 2011
+
+This innovative product uses interactive video to show iOS developers how to integrate rich features that end-users have come to expect from apps, using the iOS Core Location and Mapping features and camera data. This video reviews the main features of XCode 4 as well as the more advanced APIs available to developers. Creating Universal Apps will let users broaden their audiences to the iPhone, iPod Touch, and iPad. Experienced instructor Robert Turall presents up to four hours of exceptional video training, complete with lesson files, assessment quizzes, and review materials. The video is wrapped in a unique interface that allows the viewer to jump to any topic and also bookmark individual sections for later review.
+
+
+Geolocation in iOS
+O'Reilly Media
+By Alasdair Allan
+ISBN: 9781449308445
+July 2011
+$19.99 US
+50 pages
+
+The iPhone and iPad allow user positioning via multiple methods, including GPS. The growing number of location-aware, and location-fenced, applications now arriving in the App Store make heavy use of these abilities. This book walks you through the basic tools you need to build geo-aware applications before diving into the available third-party geo-SDKs available for the iOS platform.
+
+
+iOS and Sensor Networks
+O'Reilly Media
+By Alasdair Allan
+ISBN: 9781449308483
+August 2011
+$19.99 US
+50 pages
+
+This book looks at how to integrate iOS devices into distributed sensors network, both to make use of its own on-board sensors in such networks, but also as a hub. Beyond the discussion of basic client-server architectures, and making use of the existing wireless capabilities, this book examines how to connect iOS devices to microcontroller platforms via serial connections.
