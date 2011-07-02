@@ -1,0 +1,130 @@
+== Beginning Android Development
+
+
+=== Learning Android
+
+_O'Reilly Media, Inc._
+_By Marko Gargenta_
+_ISBN: 9781449390501_
+_March 2011_
+_$34.99_
+_268 pages_
+
+If you're new to the Android mobile operating system, Learning Android is the perfect way to master the fundamentals. This gentle introduction shows you how to use Android's basic building blocks to develop user interfaces, store data, and more. You'll build an example application throughout the course of book, adding new features with each chapter. You'll also build your own toolbox of code patterns that will help you program any type of Android application with ease.
+
+_http://my.safaribooksonline.com/book/programming/android/9781449304881?cid=1107-bibilio-android-link[Read it on Safari Books Online]_
+
+=== Beginning Android Application Development
+
+_Wrox_
+_By Wei-Meng Lee_
+_ISBN: 9781118017111_
+_April 2011_
+_$39.99_
+_448 pages_
+
+The Android OS is a popular and flexible platform for many of today's most in-demand mobile devices. This full-color guide offers you a hands-on introduction to creating Android applications for the latest mobile devices. Veteran author Wei Meng Lee accompanies each lesson with real-world examples to drive home the content he covers. Beginning with an overview of core Android features and tools, he moves at a steady pace while teaching everything you need to know to successfully develop your own Android applications. This book pares down the most essential steps you need to know so you can start creating Android applications today.
+
+_http://my.safaribooksonline.com/book/programming/android/9781118017111?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+=== Sams Teach Yourself Android™ Application Development in 24 Hours, 3rd Edition
+
+_Sams_
+_By Shane Conder & Lauren Darcey_
+_ISBN: 9780672335693_
+_August 2011_
+_$39.99_
+_510 pages_
+
+Android is the world's #1 mobile development platform, and with the new Android 3.0, it's becoming as popular for tablets as it is for smartphones. If you are a beginner, in just 24 lessons of one hour or less, this friendly, full-color book will help you master modern Android development. You can build a fully-featured app from scratch, learning all the skills you'll need to create your own. Each lesson builds on prior chapters, providing a solid foundation for success. This edition is thoroughly updated for Android's newest features and development tools, while still supporting the popular Android 2.0. By the time you're finished with this book, you won't just understand core Android concepts, you'll be comfortable writing, testing, and publishing your own new apps.
+
+_http://my.safaribooksonline.com/book/programming/android/9780132786904?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+Android Apps for Absolute Beginners
+Apress
+By Wallace Jackson
+ISBN: 9781430234463
+April 2011
+$29.99 US
+
+Anybody can start building simple apps for the Android platform, and this book will show you how. This book takes you through the process of getting your first Android applications up and running using plain English and practical examples. It cuts through the fog of jargon and mystery that surrounds Android application development, and gives you simple, step-by-step instructions to get you started. If you have a great idea for an Android app, but have never programmed before, then this book is for you. You don't need to have any previous computer programming skills—as long as you have a desire to learn, and you know which end of the mouse is which, the world of Android app development awaits.
+
+
+Beginning Android 2
+Apress
+By Mark L. Murphy
+ISBN: 9781430226291
+March 2010
+$44.99
+
+The Android development platform, created by Google and the Open Handset Alliance, is a platform in its truest sense, encompassing hundreds of classes beyond the traditional Java classes and open source components that ship with the SDK. With this book, you'll learn how to develop applications for Android 2.x mobile devices, using simple examples that are ready to run with your copy of the SDK. Author, Android columnist, writer, developer, and community advocate Mark L. Murphy will show you what you need to know to get started programming Android applications, including how to craft GUIs, use GPS, and access web services.
+
+Learn Java for Android Development
+Apress
+By Jeff Friesen
+ISBN: 9781430231561
+September 2010
+$39.99
+
+This book teaches programmers of any skill level the essential Java language and foundational Java API skills that must be learned to improve the programmer's chances of succeeding as an Android app developer. Each of the book's ten chapters provides an exercise section that gives you the opportunity to reinforce your understanding of the chapter's material. Answers to the book's approximately 300+ exercises are provided in an appendix. Once you complete this book, you will be ready to dive into Android, and you can start that journey by obtaining a copy of Beginning Android 2.
+
+
+Web Geek’s Guide to the Android-Enabled Phone
+Que
+By Jerri Ledford, Bill Zimmerly & Prasanna Amirthalingam
+ISBN: 9780768691993
+September 2009
+$24.99 US
+
+With this book, you’ll unlock every bit of power that’s built into the Android phone and learn how to take advantage of the incredibly innovative Android applications pouring into the marketplace. You’ll even learn how to build (and sell) your own new applications. You won’t just learn how to use your Android phone’s built-in applications, you’ll also learn tips and tricks that’ll make you a power user, fast! From email and YouTube to Google Maps and GPS, if Android can do it, this book will help you do it even better. Are you inspired by Android’s great apps? Create your own! This book gets you started with a complete introduction to Google’s powerful, free Android development toolset!
+
+
+Intro to Android Application Development (Video)
+Addison-Wesley Professional
+By Dan Galpin
+ISBN: 9780321685926
+April 2010
+
+Mobile application developer Dan Galpin takes you through a streamlined, fast-paced introduction into developing applications for the latest Android platform. Developers will learn how to create a series of simple, functional, Android applications that take advantage of features unique to the Android platform. It details aspects of handling application resources, creating Android user interfaces, networking, and important concepts such as application lifecycle, interoperation, and multithreading. The target audience for the video is developers familiar with the Java programming language, but who may not have previous experience with mobile development.
+
+
+Developing Android Applications with Java, Part 1 (Video)
+O'Reilly Media, Inc.
+By Tony Hillerson
+ISBN: 9781449382261
+January 2010
+
+Learn to build mobile applications for the exciting new Android platform. In this dynamic, online workshop, you'll get up to speed on the basics of Android development, including the Android SDK and the Eclipse IDE. As you learn, you'll build a simple Android app from start to finish.
+
+Creating List-Based Android Apps in App Inventor (Video)
+O'Reilly Media, Inc.
+By
+ISBN: 9781449303495
+February 2011
+
+Google's App Inventor for Android is poised to turn just about anyone into a developer. You don't need years of school or on-the-job experience to start programming Android apps. With an easy interface that doesn't require writing any actual code, you'll be able to jump in and start building a list-based Quiz app right away. Dave Wolber, professor of computer science at UCSF, takes you through the ins and outs of App Inventor in this O’Reilly Breakdown live video. You'll learn how to create a basic user interface and create the functionality for the app by dragging around App Inventor's unique and intuitive blocks.
+
+
+AppInventor Fundamentals
+Addison-Wesley Professional
+Coming 2012
+
+
+Head First Android Development
+O'Reilly Media
+By
+ISBN: 9781449393304
+January 2011
+
+Creating Android Applications: Develop and Design
+Peachpit
+By
+ISBN: 9780132776622
+November 2011
+
+
+
+Building Your First Android App
+O'Reilly Media
+By
+ISBN: 9781449306496
+July 2011
