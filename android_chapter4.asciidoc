@@ -1,0 +1,66 @@
+== Cross Platform
+
+=== Professional Flash® Mobile Development: Creating Android™ and iPhone® Applications
+
+_Wrox_
+_By Richard Wagner_
+_ISBN: 9780470620076_
+_January 2011_
+_$39.99_
+_336 pages_
+
+This Wrox guide shows Flash developers how to create native applications for Android and iPhone mobile devices using Flash. Packed with practical examples, it shows how to build a variety of apps and integrate them with core mobile services such as Accelerometer, GPS, Photo Library,and more. This book shows you how to design a user interface optimized for Android and iOS and offers plenty of examples for building native Android and iPhone apps with Flash, migrating existing Flash media, testing and debugging applications, and more. This book answers the demand for Flash-capable Android and iPhone applications.
+
+_http://my.safaribooksonline.com/book/programming/android/9780470620076?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+=== Developing Android Applications with Adobe AIR
+
+_O'Reilly Media, Inc._
+_By Véronique Brossier_
+_ISBN: 9781449394820_
+_May 2011_
+_$39.99 US_
+_316 pages_
+
+If you want to use your ActionScript skills to build mobile applications for the Android OS, this thorough guide will show you how to use the unique programming environment, architecture, and tools in the Adobe AIR for Android SDK. You'll get practical hands-on experience on a wide range of development topics, from device-specific features to optimization techniques and best practices -- including how expand your mobile development experience beyond Android to other platforms. This book takes you through the entire development process, with ready-to-run example code.
+
+_http://my.safaribooksonline.com/book/programming/android/9781449398682?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+=== Pro Smartphone Cross-Platform Development: iPhone, BlackBerry, Windows Mobile, and Android Development and Distribution
+
+_Apress_
+_By Sarah Allen, Vidal Graupera & Lee Lundrigan_
+_ISBN: 9781430228684_
+_September 2010_
+_$49.99 US_
+_285 pages_
+
+Learn the theory behind cross-platform development, and put the theory into practice with code using the invaluable information presented in this book. With in-depth coverage of development and distribution techniques for iPhone, BlackBerry, Windows Mobile, and Android, you'll learn the native approach to working with each of these platforms. With detailed coverage of emerging frameworks like PhoneGap and Rhomobile, you'll learn the art of creating applications that will run across all devices. You'll also be introduced to the code-signing process and the distribution of applications through the major application stores, including RIM, Apple, and Microsoft.
+
+_http://my.safaribooksonline.com/book/programming/android/9781430228684?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+=== Developing Android Applications with Flex 4.5
+
+_O'Reilly Media, Inc._
+_By Rich Tretola_
+_ISBN: 9781449305376_
+_May 2011_
+_$24.99 US_
+_112 pages_
+
+Developing Android applications using Adobe Flex 4.5 for mobile will walk you through creating your first AIR on Android application. You will also learn how to interact with the devices camera, gallery, accelerometer, GPS, multi touch display and native services using Adobe Flex 4.5. Finally, you will learn how to compile your application and deploy it to the Android market.
+
+_http://my.safaribooksonline.com/book/programming/android/9781449308001?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+=== Multimobile Development: Building Applications for the iPhone and Android Platforms
+
+_Apress_
+_By Matthew Baxter-Reynolds_
+_ISBN: 9781430231981_
+_September 2010_
+_$54.99 US_
+_478 pages_
+
+In this book you'll learn how to quickly retool between the iPhone and Android platforms and broaden the interest and audience of your app, without working with burdensome and error-prone compatibility layers and toolkits. You’ll learn the differences between and the relative strengths and weaknesses of each platform as you go. No magic intermediate layers of obfuscation—by the time you get to the end you'll be an expert at developing for any of the major smartphone platforms using each vendor's preferred toolset and approach.
+
+_http://my.safaribooksonline.com/book/programming/android/9781430231981?cid=1107-bibilio-android-link[Read in on Safari Online Books]_
