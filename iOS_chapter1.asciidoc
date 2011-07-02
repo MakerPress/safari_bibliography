@@ -1,0 +1,327 @@
+== Beginning iOS Development
+
+=== Head First iPhone Development
+
+_O'Reilly Media_
+_By Dan Pilone; Tracey Pilone_
+_ISBN: 9780596803544_
+_October 2009_
+_$44.99 US_
+_560 pages_
+
+This book will help you get your first application up and running in no time. You'll quickly learn to use iPhone SDK tools, including Interface Builder and Xcode, and master Objective-C programming principles that will make your app stand out. It's a complete learning experience for creating eye-catching, top-selling iPhone applications. We think your time is too valuable to waste struggling with new concepts. Using the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, Head First iPhone Development provides a visually-rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep.
+
+
+
+=== Beginning iPhone 4 Development: Exploring the iOS SDK
+
+_Apress_
+_By Dave Mark; Jack Nutting; Jeff LaMarche_
+_ISBN: 9781430230243_
+_January 2011_
+_$39.99 US_
+_674 pages_
+
+The authors of the bestselling Beginning iPhone 3 Development are back, with the same excellent material completely updated for iOS 4 and written from the ground up using the latest version of Apple's Xcode 3. You'll master techniques that work on iPhone, iPad, and iPod touch. You'll learn to draw using Quartz 2D and OpenGL ES, add multitouch gestural support (pinches and swipes) to your applications, and work with the camera, photo library, accelerometer, and built-in GPS. You'll discover the fine points of application preferences and learn how to localize your apps for multiple languages. You'll also learn how to use the new concurrency APIs included in iOS 4, and make robust multithreaded applications using Grand Central Dispatch.
+
+
+
+=== iPhone Programming: The Big Nerd Ranch Guide
+
+_Big Nerd Ranch Guides_
+_By Joe Conway; Aaron Hillegass_
+_ISBN: 9780321706485_
+_April 2010_
+_$49.99 US_
+_480 pages_
+
+Based on Big Nerd Ranch’s popular iPhone Bootcamp class, this book leads you through the essential tools and techniques for developing applications for the iPhone, iPad, and iPod Touch. In each chapter, you will learn programming concepts and apply them immediately as you build an application or enhance one from a previous chapter. These applications have been carefully designed and tested to teach the associated concepts and to provide practice working with the standard development tools Xcode, Interface Builder, and Instruments. The guide’s learn-while-doing approach delivers the practical knowledge and experience you need to design and build real-world applications. 
+
+
+
+=== Sams Teach Yourself iPhone Application Development in 24 Hours, Second Edition
+
+_Que_
+_By John Ray_
+_ISBN: 9780672330841_
+_October 2009_
+_$39.99 US_
+_696 pages_
+
+In just 24 sessions of one hour or less, learn how to build powerful applications for today’s hottest mobile device: the iPhone! Using this book’s straightforward, step-by-step approach, you’ll master every skill and technology you need, from setting up your iPhone development environment to building great user interfaces, sensing motion to writing multitasking applications. Each lesson builds on what you’ve already learned, giving you a rock-solid foundation for real-world success and the book is printed in full color—figures and code appear as they do in Xcode!
+
+
+=== Learning iPhone Programming
+
+_O'Reilly Media_
+_By Alasdair Allan_
+_ISBN: 9780596806439_
+_March 2010_
+_$29.99 US_
+_384 pages_
+
+Get the hands-on experience you need to program for the iPhone and iPod touch. With this easy-to-follow guide, you'll learn how to use Xcode tools, the Objective-C programming language, and the core frameworks by writing a number of sample apps. Before you know it, you'll not only have the skills to develop your own apps, you'll also be ready to handle the complex details of preparing and submitting apps to Apple's App Store. This book helps you through the genuinely tricky process involved in developing apps for Apple's popular devices. Whether you're a developer new to Mac programming, or an experienced Mac developer ready to tackle the iPhone and iPod Touch, this book will take you from Xcode to the App Store. 
+
+
+
+=== iPhone App Development: The Missing Manual
+
+_O'Reilly Media: Pogue Press_
+_By Craig Hockenberry_
+_ISBN: 9780596809997_
+_May 2010_
+_$39.99 US_
+_352 pages_
+
+Ready to create your own iPhone app? This book walks you through the entire iPhone app development process. You'll learn how to download the tools, build the app, successfully navigate Apple's approval process, and then market and maintain the finished product. Written by Mac guru Craig Hockenberry, creator of the wildly popular Twitterific iPhone app, this book includes illustrated, step-by-step tutorials and real-world examples.
+
+
+
+=== The iPhone™ Developer’s Cookbook: Building Applications with the iPhone 3.0 SDK, Second Edition
+
+_Addison-Wesley Professional_
+_By  Erica Sadun_
+_ISBN: 9780321670168_
+_December 2009_
+_$49.99 US_
+_888 pages_
+
+Completely revised and expanded to cover the iPhone 3.0 SDK, this book is the essential resource for developers building apps for the iPhone and iPod touch. Taking you further than before, this new edition starts out with an introduction to Objective-C 2.0 for developers who might be new to the platform. You’ll learn about Xcode and Interface Builder and learn how to set up and configure your iPhone Developer account. The unique format of this book presents the code you need to create feature-rich applications that leverage the latest features of the iPhone 3.0 SDK. Over 30,000 iPhone developers turned to the first edition, and so should you!
+
+
+
+=== Professional Flash Mobile Development: Creating Android and iPhone Applications
+
+_Wrox_
+_By  Richard Wagner_
+_ISBN: 9780470620076_
+_January 2011_
+_$39.99 US_
+_336 pages_
+
+This Wrox guide shows Flash developers how to create native applications for Android and iPhone mobile devices using Flash. Packed with practical examples, it shows how to build a variety of apps and integrate them with core mobile services such as Accelerometer, GPS, Photo Library,and more. This book Shows how to design a user interface optimized for Android and iOS and offers plenty of examples for building native Android and iPhone apps with Flash, migrating existing Flash media, testing and debugging applications, and more.
+
+
+=== Beginning iPhone 3 Development: Exploring the iPhone SDK
+
+_Apress_
+_By Dave Mark; Jeff LaMarche_
+_ISBN: 9781430224594_
+_July 2009_
+_$39.99 US_
+_584 pages_
+
+Updated and revised for iPhone SDK 3, many of the discussions in the original book have been clarified to make some of the more complex topics easier to understand. In addition, all of the projects have been rebuilt from scratch using the SDK 3 templates. Assuming only a minimal working knowledge of Objective-C and written in a friendly, easy-to-follow style, this book offers a complete soup-to-nuts course in iPhone and iPod touch programming.
+
+
+=== Sams Teach Yourself iPhone™ Application Development in 24 Hours
+
+_Sams_
+_By John Ray; Sean Johnson_
+_ISBN: 9780768695656_
+_October 2009_
+_696 pages_
+
+In just 24 lessons of one hour or less, this book will help beginning iPhone and mobile developers gain true mastery, so you can construct virtually any iPhone application. Coverage includes: preparing for iPhone development; navigating the development environment; mastering Objective-C and the MVC paradigm; using widgets and webviews; implementing multiple views; reading and writing data; building user interfaces; generating graphics; playing media; using maps; networking; using the touch interface; sensing motion; pushing application updates; debugging; optimization; distributing software via the App Store; and more. By the time you are finished you'll be comfortable enough to write real-world apps that sell.
+
+
+Deitel® Developer Series iPhone® for Programmers: An App-Driven Approach
+Prentice Hall
+By Paul Deitel; Harvey Deitel; Abbey Deitel; Eric Kern; Michael Morgano
+ISBN: 9780137058556
+October 2009
+$39.99 US
+456 pages
+
+More than 1.5 billion iPhone apps were downloaded from Apple’s App Store in just one year! This book gives you everything you’ll need to start developing great iPhone apps quickly and–once you’ve joined Apple’s fee-based iPhone Developer Program–to get them up and running on the App Store. The book uses an app-driven approach–each new technology is discussed in the context of 14 fully tested iPhone apps (7700 lines of code), complete with syntax shading, code walkthroughs and sample outputs. 
+
+
+iPhone Application Development for iOS 4: Visual QuickStart Guide
+Peachpit Press
+By  Duncan Campbell
+ISBN: 9780131389717
+September 2010
+$34.99 US
+504 pages
+
+With a rich set of over 1,000 APIs, iPhone SDK 4 provides an amazing range of technologies to enhance and create applications for the iPhone. This book focuses on the parts of the SDK that are specifically geared toward the iPhone. Everything is covered to create a complete application. This book is designed in an attractive tutorial and reference format, guiding you with a friendly and supportive approach. The visual presentation (with copious screenshots) and focused discussions by topic and tasks make learning a breeze and take you to exactly what you want to learn.
+
+
+Professional iPhone® Programming with MonoTouch and .NET/C#
+Wrox
+By Wallace B. McClure; Martin Bowling; Craig Dunn; Chris Hardy; Rory Blyth
+ISBN: 9780470637821
+July 2010
+$44.99
+383 pages
+
+This book is what .NET C# developers need to enter the hot field of iPhone applications. Until the open source MonoTouch project, this field was limited to those familiar with Apple's programming languages. Now .NET and C# developers can join the party. Professional iPhone Programming with MonoTouch and .NET/C#is the first book to cover MonoTouch, preparing developers to take advantage of this lucrative opportunity. This book is designed to help you get up to speed with the iPhone, not to really teach you about the .NET Framework or C# language, which we assume you already know.
+
+
+iPhone® Application Development All-In-One For Dummies®
+For Dummies
+By Neal Goldstein; Tony Bove
+ISBN: 9780470542934
+February 2010
+$39.99 US
+882 pages
+
+Whether you're a beginning programmer who wants to build an application for your iPhone or you're a professional developer looking to leverage the marketing power of the open iPhone SDK, this helpful guide has your needs covered. iPhone enthusiast and developer Neal Goldstein shows you the ins and outs of developing applications for the iPhone and iPod Touch and explains how to get your apps into the AppStore and market and sell them. You'll learn the basics of getting started, download the SDK, context-based design, and fill your toolbox. Clear, easy-to-understand steps walk you through programming with Objective C or Cocoa and show you how to develop games and graphics. Plus, you'll discover how to design specifically for mobile apps.
+
+
+iPhone® Application Development For Dummies®, 2nd Edition
+For Dummies
+By Neal Goldstein
+ISBN: 9780470568439
+November 2009
+432 pages
+
+This book will help you create iPhone and iPad applications. Make the most of the new 3.1 OS and Apple's Xcode 3.2! Neal Goldstein shows you how to do this, and even illustrates the process with one of his own apps that's currently being sold. Even if you're not a programming pro, you can turn your bright idea into an app you can market, and Neal even shows you how to get it into the App Store!
+
+
+iPhone App Development Fundamentals LiveLessons (Video)
+Prentice Hall
+By Paul J. Deitel
+ISBN: 9780132122184
+March 2010
+
+This LiveLesson video training course gives you everything you’ll need to start developing great iPhone apps quickly and to get them up and running on the App Store. The LiveLesson uses an app-driven approach–each new technology is discussed in the context of 14 fully tested iPhone apps (7700 lines of code), complete with syntax shading, code walkthroughs and sample outputs. By Lesson 3 you’ll be building apps using Xcode®, Cocoa® and Interface Builder. You’ll learn object-oriented programming in Objective-C® and build apps using the latest iPhone 3.x technologies including the Game Kit, iPod library access and more.
+
+
+Beginning iPhone Development Exploring the iPhone SDK
+Apress
+By Dave Mark; Jeff LaMarche
+ISBN: 9781430216261
+November 2008
+$39.99 US
+536 pages
+
+Assuming only a minimal working knowledge of Objective-C, and written in a friendly, easy-to-follow style, this book offers a complete soup-to-nuts course in iPhone and iPod Touch programming. You'll master a variety of design patterns, from the simplest single view to complex hierarchical drill-downs. You'll learn how to draw using Quartz 2D and OpenGL ES. You'll even add MultiTouch Gestural Support (pinches and swipes) to your applications, and work with the Camera, Photo Library, and Accelerometer. Apple's iPhone SDK, this book, and your imagination are all you'll need to start building your very own best-selling iPhone applications.
+
+
+Beginning iPhone® SDK Programming with Objective-C®
+Wrox
+By Wei-Meng Lee
+ISBN: 9780470500972
+January 2010
+$39.99 US
+542 pages
+
+This information-packed book presents a complete introduction to the iPhone SDK and the Xcode tools, as well as the Objective-C language that is necessary to create native applications. The hands-on approach shows you how to develop your first iPhone application while getting you acquainted with the iPhone SDK and the array of Xcode tools. A thorough tutorial on the features and syntax of the Objective-C language helps you get the most out of the iPhone SDK, and an in-depth look at the features of the iPhone SDK enables you to maximize each of these features in your applications. With this hands-on guide, you'll quickly get started developing applications for the iPhone with both the iPhone SDK and the latest Xcode tools.
+
+
+iPhone SDK 3: Visual QuickStart Guide
+Peachpit Press
+By Duncan Campbell
+ISBN: 9780321678553
+September 2009
+$34.99 US
+336 pages
+
+With a rich set of over 1,000 new APIs, iPhone SDK for iPhone OS 3 provides an amazing range of technologies to enhance the functionality of iPhone and iPod touch applications. This book takes an introductory look at Objective-C and Cocoa before moving on to the tools you'll use to create iPhone applications. Starting with common and tasks and UI elements, the book covers using tabs and tables, files and networking, the multi-touch display, and the built-in GPS hardware. This book will appeal to both current developers needing to understand and update their apps to the iPhone OS 3.0 and for those developers just starting out who need a complete tutorial and reference to the iPhone SDK 3.
+
+
+Professional iPhone® and iPad™ Application Development
+Wrox
+By Gene Backlin
+ISBN: 9780470878194
+November 2010
+$44.99 US
+600 pages
+
+Developers have demanded an advanced guide to using the very latest version of the iPhone and iPad SDK to develop applications-and this book answers that call! Packed with over twenty complete standalone applications that are designed to be recreated, rebuilt, and reused by the professional developer, this resource delves into the increasingly popular world of application development and presents step-by-step guidance for creating superior apps for the iPhone and iPad. You'll explore the many developer tools and learn how to use them and you'll also discover how to apply the techniques learned, to real world situations. With coverage of the latest version of the iPhone and iPad SDK and the quantity of standalone applications, this book will serve as a tremendous go-to reference in the future.
+
+
+The Complete Idiot's Guide® To iPad and iPhone App Development
+Alpha Books
+By  Troy Brant
+ISBN: 9781615640102
+September 2010
+384 pages
+
+This book is the perfect introduction for aspiring iPhone app creators, offering a step-by-step approach exploring all of the tools and key aspects of programming using the iPhone software development kit, including getting the finished product distributed through the App Store.
+
+
+Learning iOS 5 Programming
+O'Reilly Media
+By Alasdair Allan
+ISBN: 9781449303778
+December 2011
+$34.99
+
+This easy-to-follow book guides you through the development of your first iPhone, iPad, or iPod touch app. You learn the entire development process, from opening Xcode for the first time to submitting an application to the App Store. Ideal for beginning programmers, each chapter in Learning iOS 4 Programming is a self-contained lesson that helps you master the topic, with plenty of annotated examples, illustrations, and a concise summary.
+
+
+Quick & Easy iPhone Programming
+Manning Publications
+By Bintu Harwani
+ISBN: 9781935182931
+November 2011
+$34.99 US
+325 pages
+
+Even if you've never written a program for a mobile device, you can learn to build iPhone apps quickly and easily! Quick & Easy iPhone Programming is a no-nonsense book for beginners who want to get started with iPhone programming without getting lost in the inner workings of the iPhone SDK or the Objective-C language. Your skills and confidence will increase as you move from your first "Hello World" app to programs that include the fun and friendly features that iPhone users love.
+
+
+iOS Programming: The Big Nerd Ranch Guide, Second Edition
+BNR
+By Joe Conway, Aaron Hillegass
+ISBN: 9780321773777
+June 2011
+$49.99 US
+432 pages
+
+In this book, the world's leading Apple platform development trainers offer a complete, practical, hands-on introduction to iPhone and iPad programming. The authors walk through all the Apple tools and technologies needed to build successful iPhone/iPad/iPod touch Apps, including the iOS4.3 SDK, the Objective-C language, Xcode 4 tools, Foundation framework, and the classes that make up the iPhone UI framework. 
+
+
+The iOS Developer’s Cookbook, 3/e
+Addison-Wesley Professional
+By Erica Sadun
+ISBN: 9780321754257
+July 15, 2011
+$39.99 US
+544 pages
+
+
+Beginning iPad Development for iPhone Developers: Mastering the iPad SDK
+Apress
+By Jack Nutting; Dave Wooldridge; David Mark
+ISBN: 9781430230212
+July 2010
+$39.99 US
+272 pages
+
+This book, written by best selling authors, provides the easy-to-follow style and thorough coverage for developing great iPhone and iPad apps. Apple's new iPad SDKs are explained, demonstrated in action, and put through their paces with good-humored clarity that, as Steve Jobs has said of the iPad itself, "just works." Every iPhone and iPod touch app developer looking to take the next step and move into the iPad arena will want to read this book from cover to cover. You'll get a detailed understanding of the new feature set and gain every possible advantage in the iTunes App Store. And it's time for all you Mac OS X programmers to join in as well to take advantage of a whole new class of touch-based productivity apps just waiting to be developed.
+
+
+iPhone and iPad Apps for Absolute Beginners
+Apress
+By Rory Lewis
+ISBN: 9781430227007
+June 2010
+$29.99 US
+336 pages
+
+Anybody can start building simple applications for the iPhone and iPad, and this book will show you how. This book takes you to getting your first applications up and running using plain English and practical examples. It cuts through the fog of jargon and misinformation that surrounds iPhone and iPad application development, and gives you simple, step-by-step instructions to get you started. The author even offers videos for you to following along with as you learn.
+
+
+From Idea to App: Creating iOS UI, animations, and gestures
+Peachpit Press
+By Shawn Welch
+ISBN: 9780132575355
+March 2011
+$34.99 US
+264 pages
+
+Because iPhone development is so young, right now apps are typically designed, developed and deployed by a single person (or very small development team.) The designers are the developers and vice versa. This book will leverage this distinction by teaching designers how to design on top of native iOS metaphors, tools and UI, while teaching native developers appropriate application design and asset preparation.
+
+
+Sams Teach Yourself iPhone Application Development in 24 Hours, Third Edition
+Que
+By John Ray
+ISBN: 9780672335761
+10/15/11
+$39.99
+704 pages
+
+This book is an accessible guide to iPhone development for every programmer, regardless of experience, completely updated for the new version 4 of the iPhone SDK. In just 24 lessons of one hour or less this book will help beginning iPhone and mobile developers gain true mastery, so they can construct virtually any iPhone application. Each lesson builds on everything that's come before, helping you learn all you need to know without ever becoming overwhelmed. By the time you are finished you'll be comfortable enough to write real-world apps that sell.
