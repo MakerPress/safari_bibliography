@@ -79,77 +79,97 @@ This book delivers all the up-to-date information, tested code, and best practic
 _http://my.safaribooksonline.com/book/programming/android/9780132484473?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
 
 === The Android Developer’s Cookbook: Building Applications with the Android SDK
-Addison-Wesley Professional
-By James Steele & Nelson To
-ISBN: 9780132478014
-October 20102
-$39.99 US
+
+_Addison-Wesley Professional_
+_By James Steele & Nelson To_
+_ISBN: 9780132478014_
+_October 20102_
+_$39.99 US_
+_400 pages_
 
 This book brings together all the expert guidance–and code–you’ll need to build Android applications! This book is the essential resource for developers building apps for any Android device, from phones to tablets. Proven, modular recipes take you from the absolute basics to advanced location-based services, security techniques, and performance optimization. You’ll learn how to write apps from scratch, ensure interoperability, choose the best solutions for common problems, and avoid development pitfalls. Turn to this book for proven, expert answers–and the code you need to implement them. It’s all you need to jumpstart any Android project, and create high-value, feature-rich apps that sell!
 
+_http://my.safaribooksonline.com/book/programming/android/9780132478014?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
 
-Practical Android Projects
-Apress
-By Lucas Jordan & Pieter Greyling
-ISBN: 9781430232438
-February 2011
-$39.99
+=== Practical Android Projects
+
+_Apress_
+_By Lucas Jordan & Pieter Greyling_
+_ISBN: 9781430232438_
+_February 2011_
+_$39.99 US_
+_418 pages_
 
 This book provides you first with a brief and concise introduction to the Android platform. It then dives right into setting up the Android SDK. Starting from scratch, you will learn how to set up the tools and configure Eclipse and Netbeans with their appropriate Android plug-ins on top of the Android SDK. Then you will build and extend fun mobile applications using the Android SDK, Java, Scripting Layer for Android, and languages such as Python, Ruby, Javascript/HTML, Flex/AIR, and Lua.
 
+_http://my.safaribooksonline.com/book/programming/android/9781430232438?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
 
-Android™ Apps Marketing: Secrets to Selling Your Android App
-Que
-By Jeffrey Hughes
-ISBN: 9780132378291
-September 2010
-$24.99
+=== Android Apps Marketing: Secrets to Selling Your Android App
+
+_Que_
+_By Jeffrey Hughes_
+_ISBN: 9780132378291_
+_September 2010_
+_$24.99 US_
+_320 pages_
 
 The Easy, Complete, Step-by-Step Guide to Marketing Your Android Apps!
 
 There are huge profits to be made in selling Android apps! But with so many apps now available, posting your app to the Android Market is no longer enough. You need to market your app effectively. Don’t know much about marketing? Don’t worry: This book gives you all the step-by-step help you’ll need. Top app marketing consultant Jeffrey Hughes walks you through building a winning marketing plan, crafting highly competitive apps, choosing your message, building buzz, and connecting with people who’ll actually buy your app. Packed with examples, this book makes Android apps marketing easy! 
 
+_http://my.safaribooksonline.com/book/programming/android/9780132378291?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
 
-How to Make Money Marketing Your Android Apps
-FT Press
-By Jeffrey Hughes
-ISBN: 9780132732055
-February 2011
+=== How to Make Money Marketing Your Android Apps
+
+_FT Press_
+_By Jeffrey Hughes_
+_ISBN: 9780132732055_
+_February 2011_
+_15 pages_
 
 This FT Press digital short provides you with a complete plan for selling your Android apps — including little-known techniques based on Google’s unique “open selling model”. Unlike Apple, Google allows developers to market their apps from any site, including your own, not just the Android Market. Google’s open sales model, while still maturing, can provide advantages over Apple’s closed model — if you take advantage of the options Google gives you. This digital short identifies key marketing activities that can help you succeed.
 
+_http://my.safaribooksonline.com/book/programming/android/9780132732055?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
 
-Programming Android
-O'Reilly Media, Inc.
-By Zigurd Mednieks, Laird Dornin, G. Blake Meike & Masumi Nakamura 
-ISBN: 9781449389697
-July 2011
+=== Programming Android
+
+_O'Reilly Media_
+_By Zigurd Mednieks, Laird Dornin, G. Blake Meike & Masumi Nakamura_ 
+_ISBN: 9781449389697_
+_July 2011_
+_$49.99 US_
+_496 pages_
 
 This authoritative guide shows experienced application developers what they need to program for the Android operating system – the core building blocks, how to put those blocks together, and how to build compelling apps that work on a full range of Android devices. Buy the print book or early release ebook, which includes Android Package (APK), ePub, Mobi, and PDF.
 
+=== Getting Started with NFC
 
-Getting Started with NFC
-O'Reilly Media, Inc.
-By Brian Jepson & Tom Igoe
-ISBN: 9781449308520
-August 2011
-$19.99
+_O'Reilly Media_
+_By Brian Jepson & Tom Igoe_
+_ISBN: 9781449308520_
+_August 2011_
+_$19.99 US_
+_30 pages_
 
 NFC, or Near Field Communication, is a protocol for the contactless exchange of data between devices (such as the Android-powered Nexus S) and/or certain kinds of tags. NFC also interoperates with certain RFID tags such as the Mifare tags. Where the fun begins is when you throw hobbyist hardware into the mix. The inexpensive ($30) SonMicro RFID reader/writer, when paired with an equally inexpensive antenna, gives you the ability to encode custom messages on RFID tags that you can later read by tapping the tags against your phone. This book shows how you can exchange data between Android, Arduino, and Processing using NFC and RFID.
 
 
-Android App Development & Design: Learn by Video
-Peachpit
-By Ehrenstein video2brain
-ISBN: 9780132808781
-June 2011
+=== Android App Development & Design: Learn by Video
+
+_Peachpit_
+_By Ehrenstein video2brain_
+_ISBN: 9780132808781_
+_June 2011_
 
 This innovative product uses interactive video to give developer/designers a solid understanding of how to design apps that can run on many different Android-based devices, under Android versions up to 2.3. It introduces the process of programming an app's interaction with Activities and Services and explains how to access existing Android system components. It also looks at how to ensure that an app runs on as many Android devices, screen sizes, and form factors as possible. It explains how to package an app and publish it to the Android Marketplace. Experienced instructor Constantin Ehrenstein presents five hours of exceptional quality video tutorials, complete with lesson files, assessment quizzes, and review materials. 
 
+_http://my.safaribooksonline.com/book/programming/android/9780132808781?cid=1107-bibilio-android-link[See it on Safari Online Books]_
 
-Using OpenGL ES 2.0 for Android Development: Develop and Design
-Peachpit
-By Adam Schwem
-ISBN: 978-0321792150
-August 2011
-$29.99
+=== Using OpenGL ES 2.0 for Android Development: Develop and Design
+
+_Peachpit_
+_By Adam Schwem_
+_ISBN: 978-0321792150_
+_August 2011_
+_$29.99_
+_160 pages_
