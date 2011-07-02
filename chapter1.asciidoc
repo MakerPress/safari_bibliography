@@ -9,6 +9,8 @@ _September 2009_
 _$64.99 US_
 _1216 pages_
 
+_http://my.safaribooksonline.com/book/programming/python/9780596805395?cid=1107-bibilio-python-link[Read on Safari Books Online]_
+
 Once you've come to grips with the core Python language, learning how to build Python applications presents a far more interesting challenge. Many critics consider this classic book, now updated for Python 3.x, to be the industry standard tutorial for Python application programming. With clear and concise explanations of Python syntax and programming techniques, and numerous examples that illustrate both correct usage and common idioms, Programming Python shows you the right way to code with Python.
 
 === Head First Python
