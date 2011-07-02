@@ -25,3 +25,171 @@ _744 pages_
 This book is the definitive reference guide to the Python programming language — the one authoritative handbook that reliably untangles and explains both the core Python language and the most essential parts of the Python library. Designed for the professional programmer, the book is concise, to the point, and highly accessible. It also includes detailed information on the Python library and many advanced subjects that is not available in either the official Python documentation or any other single reference source. Thoroughly updated to reflect the significant new programming language features and library modules that have been introduced in Python 2.6 and Python 3, this book is a guide for programmers who need to modernize existing Python code or who are planning an eventual migration to Python 3. Programmers starting a new Python project will find detailed coverage of contemporary Python programming idioms.
 
 _http://my.safaribooksonline.com/book/programming/python/9780768687040?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Pro Python
+
+_Apress_
+_By Marty Alchin_
+_ISBN: 9781430227571_
+_June 2010_
+_$49.99 US_
+_361 pages_
+
+You've learned the basics of Python, but how do you take your skills to the next stage? Even if you know enough to be productive, there are a number of features that can take you to the next level in Python. This book explores concepts and features normally left to experimentation, allowing you to be even more productive and creative. Not only will this book help you to improve your code, it will also help you understand and interact with the many established Python communities, or even start your own. Learn how to write clean, innovative Python code that will do more with introspection and metaprogramming, taking your Python knowledge and skills to the next level.
+
+_http://my.safaribooksonline.com/book/programming/python/9781430227571?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Python in a Nutshell, Second Edition
+
+_O'Reilly Media_
+_By Alex Martelli_
+_ISBN: 9780596100469_
+_July 2006_
+_$39.99 US_
+_742 pages_
+
+This book offers Python programmers one place to look when they need help remembering or deciphering the syntax of this open source language and its many powerful but scantily documented modules. This comprehensive reference guide makes it easy to look up the most frequently needed information--not just about the Python language itself, but also the most frequently used parts of the standard library and the most important third-party extensions. Revised and expanded for Python 2.5, this book now contains the gory details of Python's new subprocess module and breaking news about Microsoft's new IronPython project. This book provides a solid, no-nonsense quick reference to information that Python programmers rely on the most. This book will immediately earn its place in any Python programmer's library.
+
+_http://my.safaribooksonline.com/book/programming/python/9780596100469?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Python Cookbook, Second Edition
+
+_O'Reilly Media_
+_By Alex Martelli, Anna Ravenscroft, & David Ascher_
+_ISBN: 9780596007973_
+_March 2005_
+_$49.95 US_
+_848 pages_
+
+Portable, powerful, and a breeze to use, Python is the popular open source object-oriented programming language used for both standalone programs and scripting applications. Updated for Python 2.4, this book offers a wealth of useful code for all Python programmers, not just advanced practitioners. This edition provides solutions to problems that Python programmers face everyday. It now includes over 200 recipes that range from simple tasks, such as working with dictionaries and list comprehensions, to complex tasks, such as monitoring a network and building a templating system. This revised version also includes new chapters on topics such as time, money, and metaprogramming.  With scores of practical examples and pertinent background information, this is the one source you need if you're looking to build efficient, flexible, scalable, and well-integrated Python systems.
+
+_http://my.safaribooksonline.com/book/programming/python/9780596007973?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Python Algorithms: Mastering Basic Algorithms in the Python Language
+
+_Apress_
+_By Magnus Lie Hetland_
+_ISBN: 9781430232377_
+_November 2010_
+_$49.99 US_
+_332 pages_
+
+This book explains the Python approach to algorithm analysis and design. It is sharply focused on classical algorithms, but it also gives a solid understanding of fundamental algorithmic problem-solving techniques. The book deals with some of the most important and challenging areas of programming and computer science, but in a highly pedagogic and readable manner. ell-known algorithms and data structures that are built into the Python language are explained, and the user is shown how to implement and evaluate others himself.
+
+_http://my.safaribooksonline.com/book/programming/python/9781430232377?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Data Structures and Algorithms Using Python
+
+_John Wiley & Sons_
+_By Rance D. Necaise_
+_ISBN: 9780470618295_
+_December 2010_
+_$92.95 US_
+_538 pages_
+
+More and more programmers are turning to Python and this book will give them the understanding they need. This book introduces the basic array structure and explores the fundamentals of implementing and using multi-dimensional arrays. The underlying mechanisms of many of Python's built-in data structures and constructs are covered. A number of ADTs and applications are discussed as threads throughout the book to allow for multiple implementations as new data structures are introduced. Real-world applications of the various chapter topics are also presented. This gives programmers complete coverage of abstraction and the basic data structures and algorithms in the Python language.
+
+_http://my.safaribooksonline.com/book/programming/python/9780470618295?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Core Python Programming, Second Edition
+
+_Prentice Hall_
+_By Wesley J Chun_
+_ISBN: 9780132269933_
+_September 2006_
+_$59.99 US_
+_1136 pages_
+
+Follow along as leading Python developer and trainer Wesley Chun helps you learn Python quickly and comprehensively so that you can succeed with any Python project. Using practical code examples, Chun introduces all the fundamentals of Python programming: syntax, objects and memory management, data types, operators, files and I/O, functions, generators, error handling and exceptions, loops, iterators, functional programming, and even object-oriented programming. After you learn the core fundamentals of Python, he shows you what you can do with your new skills, delving into advanced topics, such as regular expressions, networking programming with sockets, multithreading, GUI development, Web/CGI programming and extending Python in C. This edition reflects major enhancements in the Python 2.x series, including 2.6 and tips for migrating to 3. It contains new chapters on database and Internet client programming, plus coverage of many new topics, including new-style classes, Java and Jython, Microsoft Office (Win32 COM Client) programming, and much more.
+
+_http://my.safaribooksonline.com/book/programming/python/9780132269933?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Bioinformatics Programming Using Python
+
+_O'Reilly Media_
+_By Mitchell L Model_
+_ISBN: 9780596154509_
+_December 2009_
+_$59.99 US_
+_528 pages_
+
+Powerful, flexible, and easy to use, Python is an ideal language for building software tools and applications for life science research and development. This unique book shows you how to program with Python, using code examples taken directly from bioinformatics. In a short time, you'll be using sophisticated techniques and Python modules that are particularly effective for bioinformatics programming. This book is perfect for anyone involved with bioinformatics -- researchers, support staff, students, and software developers interested in writing bioinformatics applications. You'll find it useful whether you already use Python, write code in another language, or have no programming experience at all. It's an excellent self-instruction tool, as well as a handy reference when facing the challenges of real-life programming tasks.
+
+_http://my.safaribooksonline.com/book/programming/python/9780596804725?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Expert Python Programming: Learn best practices to designing, coding, and distributing your Python software
+
+_Packt Publishing_
+_By Tarek Ziadé_
+_ISBN: 9781847194947_
+_September 2008_
+_$40.49 US_
+_376 pages_
+
+This book shows how Python development should be done with best practices and expert design tips. It is for Python developers who are already building applications, but want to build better ones by applying best practices and new development techniques to their projects. The reader is expected to have a sound background in Python programming.
+
+_http://my.safaribooksonline.com/book/programming/python/9781847194947?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Professional IronPython
+
+_Wrox_
+_By John Paul Mueller_
+_ISBN: 9780470548592_
+_April 2010_
+_$44.99 US_
+_479 pages_
+
+This essential resource provides you with an in-depth understanding of IronPython. A brief introduction walks you through the installation, usage, and tools of IronPython and also explains what makes IronPython different from other programming languages. The coverage quickly moves on to explaining how to use and work with the IronPython language, and an in-depth look at its environment sheds light on how it can be stand alone or used with the .NET Framework. You'll see how IronPython can be used to create either desktop or Web-based applications and you'll witness how it interacts with other existing technologies and how to use IronPython with Mono. You'll want to devour every topic covered in Professional IronPython so you can get started working with this powerful programming language today.
+
+_http://my.safaribooksonline.com/book/programming/python/9780470548592?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Python Pocket Reference, 4th Edition
+
+_O'Reilly Media_
+_By Mark Lutz_
+_ISBN: 9780596158088_
+_August 2009_
+_$14.99 US_
+_208 pages_
+
+This is the book to reach for when you're coding on the fly and need an answer now. It's an easy-to-use reference to the core Python language, with descriptions of commonly used modules and toolkits, and a guide to recent changes, new features, and upgraded built-ins -- all updated to cover Python 3.x as well as version 2.6. Written by Mark Lutz, who is widely recognized as today's leading Python trainer, this book is the perfect companion to O'Reilly's classic Python tutorials: Learning Python and Programming Python. 
+
+_http://my.safaribooksonline.com/book/programming/python/9780596802011?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Python: Create-Modify-Reuse
+
+_Wrox_
+_By Jim Knowlton_
+_ISBN: 9780470259320_
+_July 2008_
+_$39.99 US_
+_287 pages_
+
+This book is designed to show developers how to use Python to accomplish real-world tasks in a more efficient way. The book's main purpose is not to thoroughly cover the Python language, but rather to show how you can use Python to create robust, real-world applications. Along the way, you will learn to create useful, efficient scripts that are easy to maintain and enhance. It is well-suited for developers who like to "learn by doing," rather than exploring a language feature by feature. To get the most out of the book, you should understand basic programming principles. This book will help you have fun with Python and build useful applications, all—unlike my experience with building a deck—without sore thumbs.
+
+_http://my.safaribooksonline.com/book/programming/python/9780470259320?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Python Phrasebook: Essential Code and Commands
+
+_Sams_
+_By Brad Dayley_
+_ISBN: 9780672329104_
+_November 2006_
+_$16.99 US_
+_288 pages_
+
+Follow along and learn the code phrases you need to quickly and effectively complete your programming projects in Python. Given its concise nature, it is easy to carry and use, so you can ditch all those bulky books for one portable guide. The book is packed with more than 100 customizable code snippets—so you can create functional Python code for just about any situation. The author has co-developed an advanced debugging course used to train engineers and customers and is the co-author of several Novell Press books.
+
+_http://my.safaribooksonline.com/book/programming/python/9780672329104?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Core Python Applications Programming, Third Edition
+
+_Prentice Hall_
+_By Wesley Chun_
+_ISBN: 9780132779371_
+_January 2012_
+_504 pages_
+
+Follow along as leading software engineer and professional trainer Wesley Chun teaches you how to expand your Python skills and go beyond the language and its syntax. Each chapter provides a quick dive or high-level intro into a variety of specific areas of application development. This book delivers hundreds of industrial-strength code snippets and examples (in Python 2 and 3), all targeted at professional developers, which contain not only a high-level intro but also provide real-world insights for developing applications in Python. By using a relaxed, conversational, and fun writing style, the author is able to explain complex programming concepts in ways that are easy to understand. If you're a Python developer, this is an invaluable addition to your collection!
+
+_http://my.safaribooksonline.com/book/programming/python/9780132779371?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
