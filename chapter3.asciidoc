@@ -1,0 +1,92 @@
+== Python for the Web
+
+=== Python Web Development with Django
+
+_Addison-Wesley Professional_
+_By Jeff Forcier, Paul Bissex & Wesley Chun_
+_ISBN: 9780321564177_
+_November 2008_
+_$49.99 US_
+_408 pages_
+
+Using the simple, robust, Python-based Django framework, you can build powerful Web solutions with remarkably few lines of code. This book covers all the techniques, tools, and concepts you need to make the most of Django 1.0. The authors teach Django through in-depth explanations, plus provide extensive sample code supported with images and line-by-line explanations. You’ll discover how Django leverages Python’s development speed and flexibility to help you solve a wide spectrum of Web development problems and learn Django best practices covered nowhere else. You’ll build your first Django application in just minutes and deepen your real-world skills through start-to-finish application projects.
+
+_http://my.safaribooksonline.com/book/programming/python/9780321564177?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== MySQL for Python
+
+_Packt Publishing_
+_By Albert Lukaszewski_
+_ISBN: 9781849510189_
+_July 2010_
+_$44.99 US_
+_440 pages_
+
+Integrate the flexibility of Python and the power of MySQL to boost the productivity of your Python applications. With the help of this book, you will learn to implement the outstanding features of Python's MySQL library to their full potential, removing the processing burden from your programs. This book is packed with step-by-step examples to manage your MySQL database efficiently through Python. Learn how to employ Python with MySQL to power your websites and desktop applications and apply this knowledge to real-world problems instead of hypothetical scenarios. 
+
+_http://my.safaribooksonline.com/book/programming/python/9781849510189?cid=1107-bibilio-python-link[Read in on Safari Books Online]_
+
+=== Web Standards Programmer's Reference: HTML, CSS, JavaScript®, Perl, Python®, and PHP
+
+_Wrox_
+_By Steven M. Schafer_
+_ISBN: 9780764588204_
+_August 2005_
+_$41.95_
+_840 pages_
+
+This invaluable resource offers tutorials and real-world examples as well as thorough language references for Web markup languages (HTML/XHTML and CSS), and popular scripting languages (JavaScript, Perl, and PHP). It examines the role of JavaScript, CGI (with examples in Perl and Python), and PHP on the Web and shows how to best use them all. The book even provides a valuable reference section on each technology that can be used for review and consultation.
+
+_http://my.safaribooksonline.com/book/programming/python/9780764588204?cid=1107-bibilio-python-link[Read in on Safari Books Online]_
+
+=== Programming Collective Intelligence
+
+_O'Reilly Media_
+_By Toby Segaran_
+_ISBN: 9780596529321_
+_August 2007_
+_$39.99 US_
+_368 pages_
+
+Want to tap the power behind search rankings, product recommendations, social bookmarking, and online matchmaking? This fascinating book demonstrates how you can build Web 2.0 applications to mine the enormous amount of data created by people on the Internet. With the sophisticated algorithms in this book, you can write smart programs to access interesting datasets from other web sites, collect data from users of your own applications, and analyze and understand the data once you've found it. Each algorithm is described clearly and concisely with code that can immediately be used on your web site, blog, Wiki, or specialized application. Each chapter includes exercises for extending the algorithms to make them more powerful. Go beyond simple database-backed applications and put the wealth of Internet data to work for you. 
+
+_http://my.safaribooksonline.com/book/programming/python/9780596529321?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Rapid Web Applications with TurboGears: Using Python to Create Ajax-Powered Sites
+
+_Prentice Hall_
+_By Mark Ramm, Kevin Dangoor, & Gigi Sayfan_
+_ISBN: 9780132433884_
+_November 2006_
+_$54.99 US_
+_504 pages_
+
+This book harnesses the power of Python to provide a dynamic and easy-to-use Web development framework that increases developer productivity and makes it easier to create dynamic, user-friendly, Ajax-enabled Web applications. This definitive guide is coauthored by Kevin Dangoor, the creator of TurboGears, and will help experienced Web developers get productive with TurboGears. You’ll quickly build your first TurboGears Web application—then extend it one step at a time, mastering the underlying libraries that make these enhancements possible. You will create a real-world application, by examining the code for “WhatWhat Status,” an open source project status tracking application. And, you’ll gain deep insight into the model, view, and controller technologies TurboGears is built upon. This knowledge will help you build robust and capable Python applications.
+
+_http://my.safaribooksonline.com/book/programming/python/9780132433884?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Programming the Semantic Web
+
+_O'Reilly Media_
+_By Toby Segaran, Colin Evans & Jamie Taylor_
+_ISBN: 9780596153816_
+_July 2009_
+_$39.99 US_
+_304 pages_
+
+With this book, the promise of the Semantic Web -- in which machines can find, share, and combine data on the Web -- is not just a technical possibility, but a practical reality. The book demonstrates ways to implement semantic web applications, using current and emerging standards and technologies. You'll learn how to incorporate existing data sources into semantically aware applications and publish rich semantic data. Each chapter walks you through a single piece of semantic technology and explains how you can use it to solve real problems. Whether you're writing a simple mashup or maintaining a high-performance enterprise solution, this book provides you with a standard, flexible approach for integrating and future-proofing systems and data. 
+
+_http://my.safaribooksonline.com/book/programming/python/9780596153816?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Spring Python 1.1
+
+_Packt Publishing_
+_By Greg Lee Turnquist_
+_ISBN: 9781849510660_
+_May 2010_
+_$40.49 US_
+_264 pages]_
+
+Create powerful and versatile Spring Python applications using pragmatic libraries and useful abstractions with this book. You will learn to maximize the use of Spring features in Python and develop impressive Spring Python applications. You will also explore the versatility of Spring Python by integrating it with frameworks, libraries, and tools, thus discovering the non-intrusive Spring way of wiring together Python components. Packed with hands-on-examples, case studies, and clear explanations, this book provides an introduction to Spring Python and steadily takes you towards the advanced features that this integration has to offer.
+
+_http://my.safaribooksonline.com/book/programming/python/9781849510660?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
