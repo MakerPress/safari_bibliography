@@ -1,0 +1,27 @@
+== Graphics
+
+=== Android User Interface Development Beginner's Guide
+
+_Packt Publishing_
+_By Jason Morris_
+_ISBN: 9781849514484_
+_February 2011_
+_$40.49 US_
+_304 pages_
+
+Working through examples, code-snippets, and screenshots this book introduces the fundamentals of good Android user-interface design from a developer's point of view. This book tells you everything you need to know to style your applications from the bottom up. Starting simply, and keeping things easy, this book will take you on a step-by-step journey to understanding the principals of good user-interface design, and how to implement the best user interfaces on an Android mobile device. It aims at building design understanding on a chapter-by-chapter basis, while introducing platform knowledge through examples.
+
+_http://my.safaribooksonline.com/book/programming/android/9781849514484?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+=== Pro Android Media: Developing Graphics, Music, Video, and Rich Media Apps for Smartphones and Tablets
+
+_Apress_
+_By Shawn Van Every_
+_ISBN: 9781430232674_
+_December 2010_
+_$44.99 US_
+_314 pages_
+
+This book provides concise and clear instruction on how to use the media APIs made available through Android to create dynamic apps, from gaining access to the camera to complex video capture. It also covers sound, graphics, painting, and more—everything you need to make your app come "alive." After reading this book, the app you create will showcase the best of multimedia that Android has to offer.
+
+_http://my.safaribooksonline.com/book/programming/android/9781430232674?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
