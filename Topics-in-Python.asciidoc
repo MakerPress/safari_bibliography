@@ -33,158 +33,226 @@ _By Noah Gift & Jeremy M. Jones_
 _ISBN: 9780596515829_
 _August 2008_
 _$49.99 US_
+_464 pages_
 
 Python is an ideal language for solving problems, especially in Linux and Unix networks. With this pragmatic book, administrators can review various tasks that often occur in the management of these systems, and learn how Python can provide a more efficient and less painful way to handle them. Each chapter in the book presents a particular administrative issue, such as concurrency or data backup, and presents Python solutions through hands-on examples. Once you finish this book, you'll be able to develop your own set of command-line utilities with Python to tackle a wide range of problems. 
- 
-Real World Instrumentation with Python
-O'Reilly Media
-By John M. Hughes
-ISBN: 9780596809591
-December 2010
-$54.99 US
+
+_http://my.safaribooksonline.com/book/programming/python/9780596515829?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Real World Instrumentation with Python
+
+_O'Reilly Media_
+_By John M. Hughes_
+_ISBN: 9780596809591_
+_December 2010_
+_$54.99 US_
+_624 pages_
 
 This book shows you how to develop applications instrumentation software with Python that lets you monitor or control devices in the physical world. Whether you need to acquire data from a hardware device or automate its functions, you get step-by-step instructions, clear working examples, hands-on tips and hints for interfacing a PC to instruments and devices, along with advice to help you avoid common pitfalls.
 
+_http://my.safaribooksonline.com/book/programming/python/9780596809591?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
 
-Natural Language Processing with Python	
-O'Reilly Media
-By Steven Bird, Ewan Klein & Edward Loper
-ISBN: 9780596803346
-June 2009
-$44.99
+=== Natural Language Processing with Python	
+
+_O'Reilly Media_
+_By Steven Bird, Ewan Klein & Edward Loper_
+_ISBN: 9780596803346_
+_June 2009_
+_$44.99_
+_512 pages_
 
 This book offers a highly accessible introduction to natural language processing, the field that supports a variety of language technologies, from predictive text and email filtering to automatic summarization and translation. With it, you'll learn how to write Python programs that work with large collections of unstructured text. You'll access richly annotated datasets using a comprehensive range of linguistic data structures, and you'll understand the main algorithms for analyzing the content and structure of written communication. If you're interested in developing web applications, analyzing multilingual news sources, or documenting endangered languages -- or if you're simply curious to have a programmer's perspective on how human language works -- you'll find the book both fascinating and useful.
- 
-Python Testing
-Packt Publishing
-By  Daniel Arbuckle
-ISBN: 9781847198846
-January 2010
-$35.99 US
+
+_http://my.safaribooksonline.com/book/programming/python/9780596803346?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Python Testing
+
+_Packt Publishing_
+_By Daniel Arbuckle_
+_ISBN: 9781847198846_
+_January 2010_
+_$35.99 US_
+_256 pages_
 
 An easy and convenient approach to testing your powerful Python projects, this book covers everything you need to know when testing your code in Python. Learn to write, execute, and understand the results of tests in the unit test framework, through the use of step-by-step examples and clear explanations. With the right techniques and tools, testing can become a simple and gratifying part of the development process. With this helpful guide – from an expert – in your hand, testing will not be a tiresome topic for you anymore.  
- The Python Standard Library by Example	
-Addison-Wesley Professional
-By Doug Hellmann
-ISBN: 9780132778633
-June 2011
-$59.99 US
+
+_http://my.safaribooksonline.com/book/programming/python/9781847198846?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== The Python Standard Library by Example	
+
+_Addison-Wesley Professional_
+_By Doug Hellmann_
+_ISBN: 9780132778633_
+_June 2011_
+_$59.99 US_
+_1344 pages_
 
 One of Python’s most popular features is the “standard library” of modules that serve as the foundation of an application and gives the language its motto: “Batteries Included.” This book provides example programs for over 100 of the most commonly used standard library modules, explaining their purpose and demonstrating how to use them in your daily programming tasks. The features of each module are examined in order, building from basic to complex, or following the order you will need to use them in a real application. The examples are presented as complete working programs, along with their output, leaving no question about how to interpret this reference guide.
 
- Matplotlib for Python Developers
-Packt Publishing
-By Sandro Tosi
-ISBN: 9781847197900
-November 2009
-$40.49 US
+_http://my.safaribooksonline.com/book/programming/python/9780132778633?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Matplotlib for Python Developers
+
+_Packt Publishing_
+_By Sandro Tosi_
+_ISBN: 9781847197900_
+_November 2009_
+_$40.49 US_
+_308 pages_
 
 Providing appealing plots and graphs is an essential part of various fields such as scientific research and data analysis. Matplotlib, the Python 2D plotting library, is used to produce publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. This book explains creating various plots, histograms, power spectra, bar charts, error charts, scatter-plots and much more using the powerful Matplotlib library to get impressive out-of-the-box results. You will discover how easy it is to produce professional-quality plots when you have this book in hand.
 
- wxPython 2.8 Application Development Cookbook
-Packt Publishing
-By Cody Precord
-ISBN: 9781849511780
-December 2010
-$35.99 US
+_http://my.safaribooksonline.com/book/programming/python/9781847197900?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== wxPython 2.8 Application Development Cookbook
+
+_Packt Publishing_
+_By Cody Precord_
+_ISBN: 9781849511780_
+_December 2010_
+_$35.99 US_
+_308 pages_
 
 Currently there are a handful of options available for cross platform frameworks to develop desktop applications in Python. wxPython is one such cross- platform GUI  toolkit for the Python programming language. It allows Python programmers to create programs with a complete, highly functional graphical user interface, simply and easily. This cookbook provides you with over 80 of the latest recipes to quickly create robust, reliable, and reusable wxPython applications. These recipes will guide you from writing simple, basic wxPython scripts all the way through complex concepts, and also feature various design approaches and techniques in wxPython. This book will help you create robust, reliable, and reusable wxPython applications.
 
- Gray Hat Python, 1st Edition
-No Starch Press
-By Justin Seitz
-ISBN: 9781593271923
-April 2009
-$39.95 US
+_http://my.safaribooksonline.com/book/programming/python/9781849511780?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Gray Hat Python, 1st Edition
+
+_No Starch Press_
+_By Justin Seitz_
+_ISBN: 9781593271923_
+_April 2009_
+_$39.95 US_
+_216 pages_
 
 Python is fast becoming the programming language of choice for hackers, reverse engineers, and software testers because it's easy to write quickly, and it has the low-level support and libraries that make hackers happy. But until now, there has been no real manual on how to use Python for a variety of hacking tasks. You had to dig through forum posts and man pages, endlessly tweaking your own code to get everything working. Not anymore. This book explains the concepts behind hacking tools and techniques like debuggers, trojans, fuzzers, and emulators. But author Justin Seitz goes beyond theory, showing you how to harness existing Python-based security tools - and how to build your own when the pre-built ones won't cut it. The world's best hackers are using Python to do their handiwork. Shouldn't you?
 
- Pro Python System Administration
-Apress
-By Rytis Sileika
-ISBN: 9781430226055
-July 2010
-$49.99 US
+_http://my.safaribooksonline.com/book/programming/python/9781593271923?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Pro Python System Administration
+
+_Apress_
+_By Rytis Sileika_
+_ISBN: 9781430226055_
+_July 2010_
+_$49.99 US_
+_416 pages_
 
 As time goes on, system administrators are presented with increasingly complicated challenges. System administrators are gradually replacing their tools with more advanced and flexible ones. One of the choices is Python. Structurally, Python is a modern, high-level language with a very clean syntax. Python comes with many built-in libraries that can make automation tasks easier. It also has an extensive set of third-party libraries and a very active development community. This flexibility makes Python a good choice for a wide variety of tasks, from prototyping science applications to system maintenance and administration jobs. This book explains and shows how to apply Python scripting in practice. In this book, you will find several projects in the categories of network administration, web server administration, and monitoring and database management. 
 
- Python for Bioinformatics
-Jones & Bartlett Learning
-By Jason Kinser
-ISBN: 9780763751869
-June 2008
-$82.95 US
+_http://my.safaribooksonline.com/book/programming/python/9781430226055?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Python for Bioinformatics
+
+_Jones & Bartlett Learning_
+_By Jason Kinser_
+_ISBN: 9780763751869_
+_June 2008_
+_$82.95 US_
+_417 pages_
 
 Bioinformatics is a growing field that attracts researchers from many different backgrounds who are unfamiliar with the algorithms commonly used in the field. This book provides a clear introduction to the Python programming language and instructs beginners on the development of simple programming exercises. Ideal for those with some knowledge of computer programming languages, this book emphasizes Python syntax and methodologies. Follow along and learn about the Python tools typically used in bioinformatics including clustering, associative memories, and mathematical analysis techniques, and how these tools are implemented through numerous applications.
 
- Python Text Processing with NLTK 2.0 Cookbook
-Packt Publishing
-By Jacob Perkins
-ISBN: 9781849513609
-November 2010
-$35.99 US
+_http://my.safaribooksonline.com/book/programming/python/9780763751869?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Python Text Processing with NLTK 2.0 Cookbook
+
+_Packt Publishing_
+_By Jacob Perkins_
+_ISBN: 9781849513609_
+_November 2010_
+_$35.99 US_
+_272 pages_
 
 Natural Language Processing is used everywhere - in search engines, spell checkers, mobile phones, computer games - even your washing machine. Python's Natural Language Toolkit (NTLK) suite of libraries has rapidly emerged as one of the most efficient tools for Natural Language Processing. This book is a handy and illustrative guide, which will walk you through all the Natural Language Processing techniques in a step–by-step manner. It will demystify the advanced features of text analysis and text mining using the comprehensive NTLK suite. This book cuts short the preamble and you dive right into the science of text processing with a practical hands-on approach.
 
+_http://my.safaribooksonline.com/book/programming/python/9781849513609?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
 
-Python 2.6 Graphics Cookbook
-Packt Publishing
-By Mike Ohlson de Fine
-ISBN: 9781849513845
-November 2010
-$40.49 US
+=== Python 2.6 Graphics Cookbook
+
+_Packt Publishing_
+_By Mike Ohlson de Fine_
+_ISBN: 9781849513845_
+_November 2010_
+_$40.49 US_
+_260 pages_
 
 Python is a great object-oriented and interactive programming language that lets you develop graphics, both static and animated, using built-in vector graphics functions that are provided with Python. This book is a collection of over 100 straightforward recipes and illustrative screenshots for creating and animating graphic objects using the Python language. This book makes the process of developing graphics interesting and entertaining by working in a graphic workspace without the burden of mastering complicated language definitions and opaque examples. Take a look at this quick reference for creating interesting graphic animations using Python programming.
 
- Financial Modelling in Python
-John Wiley & Sons
-By Shayne Fletcher & Christopher Gardner
-ISBN: 9780470987841
-August 2009
-$130.00
+_http://my.safaribooksonline.com/book/programming/python/9781849513845?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Financial Modelling in Python
+
+_John Wiley & Sons_
+_By Shayne Fletcher & Christopher Gardner_
+_ISBN: 9780470987841_
+_August 2009_
+_$130.00_
+_244 pages_
 
 This book is directed at both industry practitioners and students interested in designing a pricing and risk management framework for financial derivatives using the Python programming language. It is a practical book complete with working, tested code that guides the reader through the process of building a flexible pricing framework in Python. The pricing frameworks' loosely coupled fundamental components have been designed to facilitate the quick development of new models. Concrete applications to real-world pricing problems are also provided. Topics are introduced gradually, each building on the last. They include basic mathematical algorithms, common algorithms from numerical analysis, trade, market and event data model representations, lattice and simulation based pricing, and model development. The book also provides a host of information on practical technical topics such as C++/Python hybrid development (embedding and extending) and techniques for integrating Python based programs with Microsoft Excel.
 
+_http://my.safaribooksonline.com/book/programming/python/9780470987841?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
 
-Python Programming On Win32
-O'Reilly Media
-By Mark Hammond & Andy Robinson
-ISBN: 9781565926219
-January 2000
-$59.99 US
+=== Python Programming On Win32
+
+_O'Reilly Media_
+_By Mark Hammond & Andy Robinson_
+_ISBN: 9781565926219_
+_January 2000_
+_$59.99 US_
+_672 pages_
 
 Despite Python's increasing popularity on Windows, this book is the first to demonstrate how to use it as a serious Windows development and administration tool. While experienced Windows C++ programmers can find their way through the various objects, most people need some guidance, and this book is it. It addresses all of the basic technologies for common integration tasks on Windows, explaining both the Windows issues and the Python code you need to glue things together. This book is an excellent presentation of Windows application development and a solid illustration of how to use Python in the Windows environment.
- 
-Python & XML
-O'Reilly Media
-By Christopher A. Jones & Fred L. Drake Jr
-ISBN: 9780596001285
-December 2001
-$39.95 US
+
+_http://my.safaribooksonline.com/book/programming/python/9781565926219?cid=1107-bibilio-python-link[Read it on Safari Books Online]_ 
+
+=== Python & XML
+
+_O'Reilly Media_
+_By Christopher A. Jones & Fred L. Drake Jr_
+_ISBN: 9780596001285_
+_December 2001_
+_$39.95 US_
+_384 pages_
 
 If you are a Python programmer who wants to incorporate XML into your skill set, this is the book for you. Python has attracted a wide variety of developers, who use it either as glue to connect critical programming tasks together, or as a complete cross-platform application development language. Yet, because it is object-oriented and has powerful text manipulation abilities, Python is an ideal language for manipulating XML. This book gives you a solid foundation for using these two languages together. Loaded with practical examples, this new volume highlights common application tasks, so that you can learn by doing. Whether you are using Python as an application language, or as an administrative or middleware scripting language, you are sure to benefit from this book. 
 
- Mobile Python: Rapid Prototyping of Applications on the Mobile Platform
-Wiley
-By Jürgen Scheible & Ville Tuulos
-ISBN: 9780470515051
-December 2007
-$55.00 US
+_http://my.safaribooksonline.com/book/programming/python/9780596001285?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Mobile Python: Rapid Prototyping of Applications on the Mobile Platform
+
+_Wiley_
+_By Jürgen Scheible & Ville Tuulos_
+_ISBN: 9780470515051_
+_December 2007_
+_$55.00 US_
+_348 pages_
 
 This practical hands-on book teaches you how to realize your application ideas on the Symbian OS. Programming on the Symbian mobile platform has been difficult and time consuming in the past.  This innovative new title will remedy this problem. Chapters deal with topics that are based on Python S60 features and that are presented in an order that lets the user learn the “simple to code” techniques first, followed with more complexity.
+
+_http://my.safaribooksonline.com/book/programming/python/9780470515051?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
  
-Text Processing in Python
-Addison-Wesley Professional
-By David Mertz
-ISBN: 9780321112545
-June 2003
-$54.99
+=== Text Processing in Python
+
+_Addison-Wesley Professional_
+_By David Mertz_
+_ISBN: 9780321112545_
+_June 2003_
+_$54.99 US_
+_544 pages_
 
 This book is an example-driven, hands-on tutorial that carefully teaches you how to accomplish numerous text processing tasks using the Python language. This book provides effective solutions to specific text processing problems and practical strategies for dealing with all types of text processing challenges. In addition, exercises throughout the book provide readers with further opportunity to hone their skills either on their own or in the classroom.
 
- MongoDB and Python
-O'Reilly Media
-Forthcoming
-SciPy and NumPy: Up and Running
-O'Reilly Media
-Forthcoming
+_http://my.safaribooksonline.com/book/programming/python/9780321112545?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== MongoDB and Python
+
+_O'Reilly Media_
+_Forthcoming_
+
+=== SciPy and NumPy: Up and Running
+
+_O'Reilly Media_
+_Forthcoming_
