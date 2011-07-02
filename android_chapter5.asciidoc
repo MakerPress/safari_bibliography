@@ -1,0 +1,40 @@
+== Games
+
+=== Beginning Android Games
+
+_Apress_
+_By Mario Zechner_
+_ISBN: 9781430230427_
+_April 2011_
+_$39.99 US_
+_686 pages_
+
+This book offers everything you need to join the ranks of successful Android game developers. You'll start with game design fundamentals and programming basics, and then progress towards creating your own basic game engine and playable games. This will give you everything you need to branch out and write your own Android games. This book will guide you through the process of making several example games for the Android platform, including 2d and 3d games. For people with a basic knowledge of Java who want to write games on the Android platform, it also offers information for experienced game developers about the pitfalls and peculiarities of the platform.
+
+_http://my.safaribooksonline.com/book/programming/android/9781430230427?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+=== Pro Android Games
+
+_Apress_
+_By Vladimir Silva_
+_ISBN: 9781430226475_
+_December 2009_
+_$39.99 US_
+_300 pages_
+
+This book teaches you how to build cool games like Space Blaster and the classic Asteroids from scratch on the latest Android platform. It also shows you how to port other classic freeware/shareware games like Doom and Wolfenstein 3D from C using the Java Native Interface (JNI) for Android. By combining the elegant object-oriented features of Java and the raw power of C, there is no limit to the types of games that you can build for the Android platform. With actionable real-world source code in hand, this book allows you to dive right into games development on Android. 
+
+_http://my.safaribooksonline.com/book/programming/android/9781430226475?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+=== Learning Android Game Programming: A Hands-On Guide to Building Your First Android Game
+
+_Addison-Wesley Professional_
+_By Richard A. Rogers_
+_ISBN: 9780321769626_
+_December 2011_
+_$39.99 US_
+_600 pages_
+
+Professional game development of complex 3D games is difficult and expensive, and it is beyond the reach of the individual developer. But there is also a class of games that a single developer can easily build using only Java/Dalvik and the standard APIs offered by the Android SDK. This book provides the knowledge and example code that will allow a relatively junior Android developer to develop their own games in Java and XML. It will also show you how to make your game available for download on Android Market.
+
+_http://my.safaribooksonline.com/book/programming/android/9780132711913?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
