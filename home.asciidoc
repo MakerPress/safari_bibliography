@@ -8,6 +8,4 @@ This is the Python Bibliography for Safari Books online!
 
 * [[Intermediate-Advanced Python Development | chapter2]]
 
-* [[Advanced Python Development | chapter3]]
-
 * [[Colophon | colophon]]
