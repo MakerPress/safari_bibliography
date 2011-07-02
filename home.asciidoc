@@ -6,6 +6,8 @@ This is the Python Bibliography for Safari Books online!
 
 * [[Learning Python Development | chapter1]]
 
-* [[Chapter 2 | chapter2]]
+* [[Intermediate-Advanced Python Development | chapter2]]
+
+* [[Advanced Python Development | chapter3]]
 
 * [[Colophon | colophon]]
