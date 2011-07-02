@@ -1,0 +1,113 @@
+==Beginning Python Development
+
+===Learning Python, Fourth Edition
+_O'Reilly Media_
+_By Mark Lutz_
+_ISBN: 9780596805395_
+_September 2009_
+_$64.99 US_
+_1216 pages_
+
+Once you've come to grips with the core Python language, learning how to build Python applications presents a far more interesting challenge. Many critics consider this classic book, now updated for Python 3.x, to be the industry standard tutorial for Python application programming. With clear and concise explanations of Python syntax and programming techniques, and numerous examples that illustrate both correct usage and common idioms, Programming Python shows you the right way to code with Python.
+
+===Head First Python
+_O'Reilly Media_
+_By Paul Barry_
+_ISBN: 9781449397524_
+_November 2010_
+_$49.99 US_
+_496 pages_
+
+Add Python to your programming skills and have some fun at the same time. Head First Python takes you beyond typical how-to manuals with an engaging visual format that includes images, puzzles, stories, and quizzes that are proven to stimulate learning and retention. You'll not only learn how Python differs from other programming languages and how it's similar, you'll learn how to be a great programmer.
+
+===Python Programming for the Absolute Beginner, Third Edition
+_Course Technology PTR_
+_By Michael Dawson_
+_ISBN: 9781435455009_
+_December 2009_
+_$34.99 US_
+_479 pages_
+If you are new to programming with Python and are looking for a solid introduction, this is the book for you. Developed by computer science instructors, this book teaches the principles of programming through simple game creation. You will acquire the skills that you need for programming practical Python applications, and will learn how these skills can be put to use in real-world scenarios. At the end of each chapter, you will find a complete game that demonstrates the key ideas in the chapter, a summary of the chapter, and a set of challenges that tests your newfound knowledge. By the time you finish this book, you'll be well versed in Python and you'll be able to apply the basic programming principles you've learned to the next programming language you tackle.
+
+===The Quick Python Book, Second Edition
+_Manning Publications_
+_By Vern Ceder_
+_ISBN: 9781935182207_
+_January 2010_
+_$39.95 US_
+_400 pages_
+
+This book is a clear and concise introduction to Python 3, aimed at programmers new to Python. The book begins with basic but useful programs that teach the core features of syntax, control flow, and data structures. It then moves to larger applications involving code management, object-oriented programming, web development, and converting code from earlier versions of Python.
+
+===Beginning Python: Using Python 2.6 and Python 3.1
+_Wrox_
+_By James Payne_
+_ISBN: 9780470414637_
+_February 2010_
+_$39.99 U.S._
+_622 pages_
+
+This book enables you to quickly create robust, reliable, and reusable Python applications by teaching the basics so you can develop Web and scientific applications, incorporate databases, and master systems tasks on various operating systems, including Linux, MAC OS, and Windows. You'll get a comprehensive tutorial that guides you from writing simple, basic Python scripts all the way through complex concepts, and also features a reference of the standard modules with examples illustrating how to implement features in the various modules.
+
+===Programming in Python 3: A Complete Introduction to the Python Language, Second Edition
+_Addison-Wesley Professional_
+_By Mark Summerfield_
+_ISBN: 9780321699909_
+_November 2009_
+_$44.99 US_
+_648 pages_
+
+Python 3 is more powerful, convenient, consistent, and expressive than previous versions. Follow along as Mark Summerfield demonstrates how to write code that takes full advantage of Python 3’s features and idioms. This book brings together all the knowledge you need to write any program, use any standard or third-party Python 3 library, and create new library modules of your own. Summerfield covers the eight key elements of Python required to write robust, high-performance programs. Building on these core elements, he introduces new topics designed to strengthen your practical expertise–one concept and hands-on example at a time. Coverage includes developing in Python using procedural, object-oriented, and functional programming paradigms. This book serves as both tutorial and language reference and it is accompanied by extensive downloadable example code–all of it tested with Python 3 on Windows, Linux, and Mac OS X.
+
+===Head First Programming
+_O'Reilly Media_
+_By David Griffiths and Paul Barry_
+_ISBN: 9780596802370_
+_December 2009_
+_$49.99 US_
+_448 pages_
+Head First Programming introduces the core concepts of writing computer programs -- variables, decisions, loops, functions, and objects -- which apply regardless of the programming language. This book offers concrete examples and exercises in the dynamic and versatile Python language to demonstrate and reinforce these concepts. Learn the basic tools to start writing the programs that interest you, and get a better understanding of what software can (and cannot) do. When you're finished, you'll have the necessary foundation to learn any programming language or tackle any software project you choose. This book uses the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, using a visually rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep.
+
+===Python Fundamentals LiveLessons (Video Training)
+_Prentice Hall_
+_By Wesley Chun_
+_ISBN: 9780137021130_
+_December 2008_
+For any student or professional interested in learning the fundamentals of Python you can take advantage of this one-of-a-kind video package, created by leading Python developer and trainer Wesley Chun. He helps you learn Python quickly and comprehensively, so that you can immediately succeed with any Python project. Just click and watch, and one step at a time, you will master Python fundamentals. If you already have Python experience, these videos will help further develop your skills.
+
+===IronPython in Action
+_Manning Publications_
+_By Michael Foord and Christian Muirhead_
+_ISBN: 9781933988337_
+_March 2009_
+_$44.99 US_
+_480 pages_
+IronPython is ready for real-world use, blending the simplicity, elegance, and dynamism of Python with the power of the .NET framework. This book approaches IronPython as a first class .NET language, fully integrated with  the .NET environment, Visual Studio, and even the open-source Mono implementation. You'll learn how IronPython can be embedded as a ready-made scripting language into C# and VB.NET programs, used for writing full applications or for web development with ASP. Even better, you'll see how IronPython works in Silverlight for client-side web programming. This book explores the world of functional programming, live introspection, dynamic typing and duck typing,  and metaprogramming. The book also shows how to extend IronPython with C# and VB.NET applications and uses IronPython with .NET 3.0 and Powershell.
+
+===Python Programming in Context
+_Jones & Bartlett Learning_
+_By Bradley Miller & David Ranum_
+_ISBN: 9780763746025_
+_September 2008_
+_$117.95 US_
+_492 pages_
+A user-friendly, object-oriented language, Python is quickly becoming the favorite introductory programming language among students and instructors. Many find Python to be a more lucid language than Java but with much of the functionality and therefore the ideal first language for those entering the world of Computer Science. This book is a clear, accessible introduction to the fundamental programming and problem solving concepts necessary for students at this level. The authors carefully build upon the many important computer science concepts and problem solving techniques throughout the text and offer relevant, real-world examples and exercises to reinforce key material. Programming skills throughout the text are linked to applied areas such as Image Processing, Cryptography, Astronomy, Music, the Internet, and Bioinformatics, giving students a well rounded look of its capabilities.
+
+===The Definitive Guide to Jython: Python for the Java Platform
+_Apress_
+_By Josh Juneau, Jim Baker, Victor Ng, Leo Soto, and Frank Wierzbicki_
+_ISBN: 9781430225270_
+_March 2010_
+_$54.99 US_
+_544 pages_
+
+This book provides a general overview of the Jython language itself, but it also includes intermediate and advanced topics regarding database, web, and GUI applications; Web services/SOA; and integration, concurrency, and parallelism, to name a few.
+
+===Python: Visual QuickStart Guide, Second Edition
+_Peachpit Press_
+_By Toby Donaldson_
+_ISBN: 9780321590985_
+_December 2008_
+_$24.99 US_
+_192 pages_
+Python is a remarkably powerful dynamic programming language that is used in a wide variety of application domains such as Web, database access, desktop GUIs, game and software development, and network programming. Fans of Python use the phrase "batteries included" to describe the standard library, which covers everything from asynchronous processing to zip files. The language itself is a flexible powerhouse that can handle practically any application domain. This task-based tutorial is for students with no programming experience as well as those programmers who have some experience with the programming language and now want to take their skills to the next level. The book walks a reader through all the fundamentals and then moves on to more advanced topics. It's a complete end-to-end tutorial and reference.
