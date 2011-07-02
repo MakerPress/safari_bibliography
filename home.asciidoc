@@ -1,5 +1,3 @@
-image::attachments/logo.png[]
-
 * [[Frontmatter | frontmatter]]
 
 * [[Introduction / Foreword | introduction]]
