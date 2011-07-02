@@ -2,9 +2,9 @@ This is the Python Bibliography for Safari Books online!
 
 * [[Frontmatter | frontmatter]]
 
-* [[Introduction / Foreword | introduction]]
+* [[Introduction | introduction]]
 
-* [[Chapter 1 | chapter1]]
+* [[Learning Python Development | chapter1]]
 
 * [[Chapter 2 | chapter2]]
 
