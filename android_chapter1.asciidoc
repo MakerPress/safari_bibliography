@@ -134,22 +134,29 @@ _Coming 2012_
 _O'Reilly Media_
 _By Jonathan Simon_
 _ISBN: 9781449393304_
-_January 2011_
+_September 2011_
 _$44.99 US_
 _608 pages_
 
 Android devices are stealing market share from the iPhone with dramatic speed, and you have a killer app idea. Where to begin? Head First Android Development will help you get your first application up and running in no time with the Android SDK and Eclipse plug-in. You'll learn how to design for devices with a variety of different screen sizes and resolutions, along with mastering core programming and design principles that will make your app stand out.
 
-Creating Android Applications: Develop and Design
-Peachpit
-By
-ISBN: 9780132776622
-November 2011
+=== Creating Android Applications: Develop and Design
+
+_Peachpit_
+_By Chris Haseman_
+_ISBN: 9780132776622_
+_November 2011_
+_$44.99 US_
+_320 pages_
 
 
+=== Building Your First Android App
 
-Building Your First Android App
-O'Reilly Media
-By
-ISBN: 9781449306496
-July 2011
+_O'Reilly Media_
+By Faisal Abid_
+_ISBN: 9781449306496_
+_July 2011_
+_$24.99 US_
+_100 pages_
+
+Google's Android Mobile operating system has exploded on the scene and is on its way to become the top mobile operating system. In Rags to Robots you will learn how Android works, how to get started developing applications, explore the vast android library and learn how to publish your application to the various Android Marketplaces.
