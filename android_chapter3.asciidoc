@@ -1,6 +1,6 @@
 == Mobile Web
 
-== Pro Android Web Apps: Develop for Android Using HTML5, CSS3 & JavaScript
+=== Pro Android Web Apps: Develop for Android Using HTML5, CSS3 & JavaScript
 
 _Apress_
 _By Damon Oehlman & Sébastien Blanc_
