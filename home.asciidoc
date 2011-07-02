@@ -1,3 +1,5 @@
+image:attachments/mytest.svg[]
+
 * [[Frontmatter | frontmatter]]
 
 * [[Introduction / Foreword | introduction]]
