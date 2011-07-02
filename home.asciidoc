@@ -1,3 +1,5 @@
+This is the Python Bibliography for Safari Books online!
+
 * [[Frontmatter | frontmatter]]
 
 * [[Introduction / Foreword | introduction]]
