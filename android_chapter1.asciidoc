@@ -39,81 +39,106 @@ _510 pages_
 Android is the world's #1 mobile development platform, and with the new Android 3.0, it's becoming as popular for tablets as it is for smartphones. If you are a beginner, in just 24 lessons of one hour or less, this friendly, full-color book will help you master modern Android development. You can build a fully-featured app from scratch, learning all the skills you'll need to create your own. Each lesson builds on prior chapters, providing a solid foundation for success. This edition is thoroughly updated for Android's newest features and development tools, while still supporting the popular Android 2.0. By the time you're finished with this book, you won't just understand core Android concepts, you'll be comfortable writing, testing, and publishing your own new apps.
 
 _http://my.safaribooksonline.com/book/programming/android/9780132786904?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
-Android Apps for Absolute Beginners
-Apress
-By Wallace Jackson
-ISBN: 9781430234463
-April 2011
-$29.99 US
+
+=== Android Apps for Absolute Beginners
+
+_Apress_
+_By Wallace Jackson_
+_ISBN: 9781430234463_
+_April 2011_
+_$29.99 US_
+_344 pages_
 
 Anybody can start building simple apps for the Android platform, and this book will show you how. This book takes you through the process of getting your first Android applications up and running using plain English and practical examples. It cuts through the fog of jargon and mystery that surrounds Android application development, and gives you simple, step-by-step instructions to get you started. If you have a great idea for an Android app, but have never programmed before, then this book is for you. You don't need to have any previous computer programming skills—as long as you have a desire to learn, and you know which end of the mouse is which, the world of Android app development awaits.
 
+_http://my.safaribooksonline.com/book/programming/android/9781430234463?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
 
-Beginning Android 2
-Apress
-By Mark L. Murphy
-ISBN: 9781430226291
-March 2010
-$44.99
+=== Beginning Android 2
+
+_Apress_
+_By Mark L. Murphy_
+_ISBN: 9781430226291_
+_March 2010_
+_$44.99_
+_416 pages_
 
 The Android development platform, created by Google and the Open Handset Alliance, is a platform in its truest sense, encompassing hundreds of classes beyond the traditional Java classes and open source components that ship with the SDK. With this book, you'll learn how to develop applications for Android 2.x mobile devices, using simple examples that are ready to run with your copy of the SDK. Author, Android columnist, writer, developer, and community advocate Mark L. Murphy will show you what you need to know to get started programming Android applications, including how to craft GUIs, use GPS, and access web services.
 
-Learn Java for Android Development
-Apress
-By Jeff Friesen
-ISBN: 9781430231561
-September 2010
-$39.99
+_http://my.safaribooksonline.com/book/programming/android/9781430226291?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+=== Learn Java for Android Development
+
+_Apress_
+_By Jeff Friesen_
+_ISBN: 9781430231561_
+_September 2010_
+_$39.99_
+_652 pages_
 
 This book teaches programmers of any skill level the essential Java language and foundational Java API skills that must be learned to improve the programmer's chances of succeeding as an Android app developer. Each of the book's ten chapters provides an exercise section that gives you the opportunity to reinforce your understanding of the chapter's material. Answers to the book's approximately 300+ exercises are provided in an appendix. Once you complete this book, you will be ready to dive into Android, and you can start that journey by obtaining a copy of Beginning Android 2.
 
+_http://my.safaribooksonline.com/book/programming/android/9781430231561?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
 
-Web Geek’s Guide to the Android-Enabled Phone
-Que
-By Jerri Ledford, Bill Zimmerly & Prasanna Amirthalingam
-ISBN: 9780768691993
-September 2009
-$24.99 US
+=== Web Geek’s Guide to the Android-Enabled Phone
+
+_Que_
+_By Jerri Ledford, Bill Zimmerly & Prasanna Amirthalingam_
+_ISBN: 9780768691993_
+_September 2009_
+_$24.99 US_
+_288 pages_
 
 With this book, you’ll unlock every bit of power that’s built into the Android phone and learn how to take advantage of the incredibly innovative Android applications pouring into the marketplace. You’ll even learn how to build (and sell) your own new applications. You won’t just learn how to use your Android phone’s built-in applications, you’ll also learn tips and tricks that’ll make you a power user, fast! From email and YouTube to Google Maps and GPS, if Android can do it, this book will help you do it even better. Are you inspired by Android’s great apps? Create your own! This book gets you started with a complete introduction to Google’s powerful, free Android development toolset!
 
+_http://my.safaribooksonline.com/book/programming/android/9780768691993?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
 
-Intro to Android Application Development (Video)
-Addison-Wesley Professional
-By Dan Galpin
-ISBN: 9780321685926
-April 2010
+=== Intro to Android Application Development (Video)
+
+_Addison-Wesley Professional_
+_By Dan Galpin_
+_ISBN: 9780321685926_
+_April 2010_
 
 Mobile application developer Dan Galpin takes you through a streamlined, fast-paced introduction into developing applications for the latest Android platform. Developers will learn how to create a series of simple, functional, Android applications that take advantage of features unique to the Android platform. It details aspects of handling application resources, creating Android user interfaces, networking, and important concepts such as application lifecycle, interoperation, and multithreading. The target audience for the video is developers familiar with the Java programming language, but who may not have previous experience with mobile development.
 
+_http://my.safaribooksonline.com/book/programming/android/9780321685926?cid=1107-bibilio-android-link[See it on Safari Online Books]_
 
-Developing Android Applications with Java, Part 1 (Video)
-O'Reilly Media, Inc.
-By Tony Hillerson
-ISBN: 9781449382261
-January 2010
+=== Developing Android Applications with Java, Part 1 (Video)
+
+_O'Reilly Media, Inc._
+_By Tony Hillerson_
+_ISBN: 9781449382261_
+_January 2010_
 
 Learn to build mobile applications for the exciting new Android platform. In this dynamic, online workshop, you'll get up to speed on the basics of Android development, including the Android SDK and the Eclipse IDE. As you learn, you'll build a simple Android app from start to finish.
 
-Creating List-Based Android Apps in App Inventor (Video)
-O'Reilly Media, Inc.
-By
-ISBN: 9781449303495
-February 2011
+_http://my.safaribooksonline.com/book/programming/android/9781449382261?cid=1107-bibilio-android-link[See it on Safari Online Books]_
+
+=== Creating List-Based Android Apps in App Inventor (Video)
+
+_O'Reilly Media, Inc._
+_ISBN: 9781449303495_
+_February 2011_
 
 Google's App Inventor for Android is poised to turn just about anyone into a developer. You don't need years of school or on-the-job experience to start programming Android apps. With an easy interface that doesn't require writing any actual code, you'll be able to jump in and start building a list-based Quiz app right away. Dave Wolber, professor of computer science at UCSF, takes you through the ins and outs of App Inventor in this O’Reilly Breakdown live video. You'll learn how to create a basic user interface and create the functionality for the app by dragging around App Inventor's unique and intuitive blocks.
 
+_http://my.safaribooksonline.com/book/programming/android/9781449303495?cid=1107-bibilio-android-link[See it on Safari Online Books]_
 
-AppInventor Fundamentals
-Addison-Wesley Professional
-Coming 2012
+=== AppInventor Fundamentals
 
+_Addison-Wesley Professional_
+_Coming 2012_
 
-Head First Android Development
-O'Reilly Media
-By
-ISBN: 9781449393304
-January 2011
+=== Head First Android Development
+
+_O'Reilly Media_
+_By Jonathan Simon_
+_ISBN: 9781449393304_
+_January 2011_
+_$44.99 US_
+_608 pages_
+
+Android devices are stealing market share from the iPhone with dramatic speed, and you have a killer app idea. Where to begin? Head First Android Development will help you get your first application up and running in no time with the Android SDK and Eclipse plug-in. You'll learn how to design for devices with a variety of different screen sizes and resolutions, along with mastering core programming and design principles that will make your app stand out.
 
 Creating Android Applications: Develop and Design
 Peachpit
