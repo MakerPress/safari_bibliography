@@ -13,7 +13,7 @@ Based on the relatively new Cocoa touch set of APIs and libraries, the Core Data
 
 _http://my.safaribooksonline.com/book/programming/iphone/9781430233558?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
-=== Professional iPhone® and iPad™ Database Application Programming
+=== Professional iPhone and iPad Database Application Programming
 
 _Wrox_
 _By Patrick Alessi_
@@ -23,6 +23,8 @@ _$44.99 pages_
 _401 pages_
 
 An enormous demand exists for getting iPhone applications into the enterprise and this book guides you through all the necessary steps for integrating an iPhone app within an existing enterprise. Experienced iPhone developers will learn how to take advantage of the built-in capabilities of the iPhone to confidently implement a data-driven application for the iPhone. This book gets you up to speed on developing data-driven applications for the iPhone.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780470636176?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
 
 === iPhone Cool Projects
@@ -36,6 +38,8 @@ _240 pages_
 
 This book is written by authors who have created successful iPhone applications. Follow along and learn about multitouch controls, spatial app interaction, geo-location, cocos2d, 2d gaming, Core Location, streaming audio and how to optimize your use of limited screen real estate. Software development can be hard work. Introductory books lay the foundation, but it can be challenging to understand where to go next. This book shows some of the pieces that can be brought together to make complete, cool applications for all iPhone application developers with any level of experience or coming from any development platform.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9781430223573?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+
 === Programming iOS 4
 
 _O'Reilly Media_
@@ -47,6 +51,7 @@ _834 pages_
 
 Whether you're learning Cocoa programming for the first time, or want a reference to bolster the iPhone development skills you already have, this in-depth guide provides a complete learning path -- from language basics and using Xcode and Interface Builder to all of the steps necessary for developing your app with the Cocoa framework. You'll learn everything you need to take an iPhone, iPad, or iPod touch app from initial concept to the App Store.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9781449397302?cid=1107=bibilio-ios-link[Read it on Safari Online Books]_
 
 === iOS 5 Sensor Programming Rough Cuts Version: Augmented Reality and Location Enabled iPhone and iPad Apps
 
@@ -77,10 +82,12 @@ _Addison-Wesley Professional_
 _By Kevin Avila & Chris Adamson_
 _ISBN: 9780321636843_
 _September 2011_
+_$44.99_
 _300 pages_
 
 This book will teach you all you need to know about Core Audio. Core Audio lets you write applications that work directly with the uncompressed audio data captured from a microphone, perform effects on it, mix it with other audio, and play the result out to the speakers and/or convert it into a compressed format that you can then write to the file system or send over the network. Or, if you’re not developing full applications, Core Audio lets you write just the custom effect and wrap it in a plug-in called an audio unit, which lets users add your effect to their Core Audio-based applications. By the time you get to the end of this book, you’ll have an appreciation for just how much Core Audio does for you. This book assumes a working knowledge of C, including pointers, malloc(), and the usual hazards of low-level memory management. The book also assumes that you're familiar and comfortable with Xcode and programming in Objective-C.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780321636843?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
 === Learning Quartz Composer: A Hands-on Guide to Creating Motion Graphics with Quartz Composer
 
@@ -91,7 +98,6 @@ _October 2011_
 _$39.99 US_
 _250 pages_
 
-(no description)
 
 
 === Learning Cocos2D: A Hands-On Guide to Building iOS Games with Cocos2D, Box2D, and Chipmunk
@@ -105,6 +111,7 @@ _640 pages_
 
 Follow along in this book to learn how to build the next great iOS game with Cocos2D. Cocos2D is the powerhouse framework behind some of the most popular games in the App Store. If you’ve played Tiny Wings, Angry Birds, Mega Jump, Trainyard, or even Super Turbo Action Pig, then you’ve played a game that uses Cocos2D or Box2D physics. The beauty of Cocos2D is its simplicity, and how it makes game development fun and easy. This book walks you through the process of building Space Viking (which is free on the App Store), a 2D scrolling game that leverages Cocos2D, Box2D, and Chipmunk. As you build Space Viking, you’ll learn everything you need to know about Cocos2D so you can create the next killer iOS game.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780321735621?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
 === Programming iOS Sensors
 
@@ -115,7 +122,6 @@ _August 2011_
 _$34.99 US_
 _300 pages_
 
-(no description)
 
 === Learning MonoTouch: A Hands-On Guide to Building iOS Applications with C# and .NET
 
