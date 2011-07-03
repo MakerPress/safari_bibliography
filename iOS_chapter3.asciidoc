@@ -11,7 +11,9 @@ _400 pages_
 
 Objective-C is the language behind Cocoa and Cocoa Touch, which is the Framework of applications written for the Macintosh, iPod touch, iPhone, and iPad platforms. This book covers everything from the basics of the C language to advanced aspects of Apple development. You'll examine Objective-C and high-level subjects of frameworks, threading, networking, and much more. Featuring real-life examples drawn from the author's experience, this book offers an insider look at this amazing programming language.
 
-== Programming in Objective-C, 3/e
+_http://my.safaribooksonline.com/book/programming/iphone/9780470479223?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== Programming in Objective-C, 3/e
 
 _Addison-Wesley Professional_
 _By Stephen G. Kochan_
@@ -32,6 +34,20 @@ _May 2009_
 
 This is the world’s first complete video training course on the basics of Objective-C, the programming language at the heart of Mac OS X and iPhone and iPad application development. Bestselling author and trainer Stephen G. Kochan provides the new programmer with a step-by-step, hands-on introduction to the Objective-C language and the fundamentals of object-oriented programming. The course does not assume any previous programming experience and includes many detailed, practical examples of how to put Objective-C to use in everyday programming tasks for the Mac OS X or iPhone and iPad platforms.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780321670113?cid=1107-bibilio-ios-link[See it on Safari Books Online]_
+
+=== Pro Objective-C Design Patterns for iOS
+
+_Apress_
+_Carlo Chung_
+_ISBN: 9781430233305_
+_April 2011_
+_$49.99 US_
+_390 pages_
+
+It's time to capitalize on your mastery of Cocoa with Pro Objective-C Design Patterns for iOS. You've developed apps that impressed and performed, and now you're ready to jump into development practices that will leave you with more effective, efficient, and professional level apps. This book will teach you to recognize the design patterns that have always been present at some level in your code. Implementation of specific pattern approaches will prove their value to any developer working in the iOS application arena. You'll learn to master classic patterns like singleton, abstract factory, chain of responsibility, and observer. You'll also discover less well-known but useful patterns like memento, composite, command, and mediator.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781430233305?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Learning Objective-C 2.0: A Hands-On Guide to Objective-C for Mac and iOS Developers
 
