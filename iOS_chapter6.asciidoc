@@ -1,0 +1,53 @@
+== iOS Design UI/UX
+
+=== Best iPhone Apps [great gallery of inspiration for developers]
+
+_O'Reilly Media_
+_By Josh Clark_
+_ISBN: 9780596806170_
+_July 2009_
+_$19.99_
+_240 pages_
+
+With over 50,000 iPhone apps to choose from, there's a mind-boggling number of ways to make your favorite device do just about anything you can imagine -- and almost certainly a few things you would never think of. While it's not hard to find apps for your iPhone or iPod Touch, it's frustratingly difficult to find the best ones. This book guides the way, shining the light on over 200 gee-whiz apps that delight, empower, and entertain. Author Josh Clark stress-tested thousands of titles from the App Store emporium to hand-pick apps that will make the biggest difference in every aspect of your life: at work, on the town, at play, at home, and on the road. Capitalize on your time with genius productivity apps, or fritter it away with deliriously fun games. However you use your iPhone or iPod Touch, this book shows you how to unlock its full potential and make the most of your glossy gadget.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780596806170?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+
+=== Tapworthy: Designing Great iPhone Apps
+
+_O'Reilly Media_
+_By Josh Clark_
+_ISBN: 9781449381677_
+_June 2010_
+_$39.99 US_
+_320 pages_
+
+So you've got an idea for an iPhone app -- along with everyone else on the planet. Set your app apart with elegant design, efficient usability, and a healthy dollop of personality. Tapworthy takes you from concept to polished interface design with plain-spoken principles and a rich collection of visual examples for designing exceptional interfaces for the iPhone and iPod Touch.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781449381677?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+
+=== Designing the iPhone User Experience: A User-Centered Approach to Sketching and Prototyping iPhone Apps
+
+_Addison-Wesley Professional_
+_By Suzanne Ginsburg_
+_ISBN: 780321699626_
+_August 2010_
+_336 pages_
+_$44.99 US_
+
+Given the fiercely competitive state of the iPhone app landscape, it has become increasingly challenging for app designers and developers to differentiate their apps. The days are long gone when it was possible to crank out an app over the weekend and refine it after receiving a few not so flattering user reviews. Users now have choices -- lots of them. If your app is difficult to use or doesn’t meet their needs, finding another one is just a tap away.  For most apps, it boils down to one thing: the user experience. The same is true for countless other categories within the App Store; well-designed apps are more likely to attract and retain users. This book will help you tackle the user experience part of the iPhone challenge. Three key themes will be reinforced throughout the book: Know thy user, the Design Lifecycle, and Attention to Detail. Mastering these three areas will help set your app apart from the crowd. You may not have an award-winning app over night. But knowing your users, iterative design, and attention to detail are important first steps.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780321699626?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+
+=== App Savvy
+
+_O'Reilly Media_
+_By Ken Yarmosh_
+_ISBN: 978-1-4493-8976-5_
+_August 2010_
+_$29.99 US_
+_352 pages_
+
+Make your iPhone or iPad app stand out in the highly competitive App Store. Along with a technical overview, App Savvy focuses on the business, product, and marketing elements critical to pursuing, completing, and selling an app. This practical reference explains every step in the process, with guidelines for making your app unique, addressing budget items, and finding the right app developer.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781449389765?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
