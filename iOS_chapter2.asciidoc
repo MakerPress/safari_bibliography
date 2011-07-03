@@ -98,8 +98,6 @@ _October 2011_
 _$39.99 US_
 _250 pages_
 
-
-
 === Learning Cocos2D: A Hands-On Guide to Building iOS Games with Cocos2D, Box2D, and Chipmunk
 
 _Addison-Wesley Professional_
@@ -134,6 +132,7 @@ _448 pages_
 
 Many .NET developers and many enterprises would like to target iOS devices, yet the learning curve and cost of moving to Objective-C precludes the practicality of this in many cases. MonoTouch brings the best of CocoaTouch and .NET under a single, extensible technology, providing the only way to develop iOS applications using .NET that can be published to the iOS App Store. This book assumes the reader is familiar with C# and .NET at least on an intermediate level and focuses on making use of existing skills, while presenting iOS-specific information in detail. After the basics are covered, the book quickly moves into more complex examples that address common use cases encountered in iOS development.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780321719928?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
 === iPhone in Practice
 
@@ -171,6 +170,8 @@ _552 pages_
 
 This book digs deeper into Apple’s latest SDK. Best-selling authors Dave Mark and Jeff LaMarche explain concepts as only they can, covering topics like Core Data, peer-to-peer networking using GameKit and network streams, working with data from the web, MapKit, in-application e-mail, and more. All the concepts and APIs are clearly presented with code snippets you can customize and use, as you like, in your own apps. Jeff and Dave carefully step through each of the Core Data concepts and show you techniques and tips specifically for writing larger applications—offering a breadth of coverage you won't find anywhere else. This book covers a variety of networking mechanisms, from GameKit’s relatively simple BlueTooth peer-to-peer model, to the addition of Bonjour discovery and network streams, through the complexity of accessing files via the web. Whether you are a relative newcomer to iPhone development or an old hand looking to expand your horizons, there’s something for everyone in this book.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9781430225058?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+
 === iPhone and iOS 4 Advanced App Development: Learn by Video (video)
 
 _Peachpit Press_
@@ -179,6 +180,8 @@ _ISBN: 9780132808651_
 _July 2011_
 
 This innovative product uses interactive video to show iOS developers how to integrate rich features that end-users have come to expect from apps, using the iOS Core Location and Mapping features and camera data. This video reviews the main features of XCode 4 as well as the more advanced APIs available to developers. Creating Universal Apps will let users broaden their audiences to the iPhone, iPod Touch, and iPad. Experienced instructor Robert Turall presents up to four hours of exceptional video training, complete with lesson files, assessment quizzes, and review materials. The video is wrapped in a unique interface that allows the viewer to jump to any topic and also bookmark individual sections for later review.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780132808651?cid=1107-bibilio-ios-link[See it on Safari Online Books]_
 
 === Geolocation in iOS
 
