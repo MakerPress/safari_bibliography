@@ -60,6 +60,7 @@ _416 pages_
 
 If you want to learn Objective-C 2.0 to write programs for Mac OS X, iPhone, iPad, or iPod touch, you’ve come to the right place! Concise, readable, and friendly, this book is the perfect beginner’s guide to the latest version of Objective-C. Longtime Mac OS X and iPhone developer Robert Clair covers everything from the absolute basics to Objective-C 2.0’s newest innovations. This book focuses on the features, concepts, and techniques that matter most day to day. The result is an outstanding first book for everyone who wants to begin programming for iPhone, iPod touch, iPad, or Mac OS X.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780321712110?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
 === Cocoa and Objective-C: Up and Running
 
@@ -72,6 +73,7 @@ _416 pages_
 
 Learn the tools most essential for building high-quality applications for Mac OS X, iPhone, and iPod touch. This thorough introduction to Apple's Cocoa programming environment and its Objective-C language quickly gets you up to speed with step-by-step tutorials, hands-on tasks, and numerous examples. With clear instruction from Scott Stevenson, the Cocoa programmer behind Cocoa Dev Central, you'll learn just enough foundation and theory to ground you before jumping right into building applications, managing events, creating GUIs, and more with Cocoa and the Application Kit. You also get skill-building exercises, and key input from a Cocoa expert on the best use of these tools. 
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780596809812?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
 === Objective-C for Absolute Beginners: iPhone, iPad, and Mac Programming Made Easy
 
@@ -84,6 +86,7 @@ _295 pages_
 
 This book will teach you how to write software for your Mac, iPhone, or iPad using Objective-C, an elegant and powerful language with a rich set of developer tools. Using a hands-on approach, you'll learn to think in programming terms, how to use Objective-C to build program logic, and how to write your own applications and apps. With over 50 collective years in software development and based on an approach pioneered at Carnegie Mellon University, the authors have developed a remarkably effective approach to learning Objective-C. Since the introduction of Apple's iPhone, the authors have taught hundreds of absolute beginners how to develop Mac, iPhone, and iPad apps, including many that became popular apps in the iTunes App Store.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9781430228325?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
 === Objective-C For Dummies
 
@@ -96,6 +99,7 @@ _456 pages_
 
 The only thing hotter than the iPhone right now is new apps for the iPhone. Objective-C is the primary language for programming iPhone and Mac OS X applications, and this book makes it easy to learn Objective-C. Even if you have no programming experience, this book will teach you what you need to know to start creating iPhone apps. It provides an understanding of object-oriented programming in an entertaining way that helps you learn.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780470522752?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Objective-C Phrasebook
 
@@ -108,6 +112,7 @@ _352 pages_
 
 This book is a concise, practical guide to Objective-C for iOS and Mac OS X with more than 100 useful code snippets and programming phrases. With more programmers than ever finding they need to learn at least some Objective-C in order to be able to develop iOS apps for iPhone or iPad, this is the book for you.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780132486569?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Objective-C: Visual QuickStart Guide
 
@@ -120,6 +125,7 @@ _240 pages_
 
 Objective C 2.0 is the object-oriented language that is the basis for Cocoa and Cocoa Touch, the development environment for the iPhone/iPod Touch.You'll learn all the basics: from handling data and creating functions to managing memory and handling exceptions. For programmers who want to develop iPhone apps, it's a must, and this title in the Visual QuickStart-style is the easy, fast way to get started.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780321703453?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Learn Objective-C on the Mac
 
@@ -132,6 +138,7 @@ _350 pages_
 
 Take your coding skills to the next level with this extensive guide to Objective-C, the native programming language for developing sophisticated software applications for Mac OS X. Whether you're an experienced C programmer or you're coming from a different language such as C++ or Java, leading Mac experts Mark Dalrymple and Scott Knaster show you how to harness the powers of Objective-C in your applications!
 
+_http://my.safaribooksonline.com/book/programming/iphone/9781430218159?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Learn Objective-C for Java Developers
 
@@ -144,6 +151,7 @@ _520 pages_
 
 This book will guide experienced Java developers into the world of Objective-C. It will show them how to take their existing language knowledge and design patterns and transfer that experience to Objective-C and the Cocoa runtime library. This is the express train to productivity for every Java developer who has dreamed of developing for Mac OS X or iPhone, but felt that Objective-C was too intimidating. So hop on and enjoy the ride! 
 
+_http://my.safaribooksonline.com/book/programming/iphone/9781430223696?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Core Data for iOS: Developing Data-Driven Applications for the iPad, iPhone, and iPod touch
 
@@ -156,6 +164,7 @@ _304 pages_
 
 In this book two leading iOS developers teach you the entire Core Data framework from the ground up. Writing for intermediate-to-advanced iOS developers, Tim Isted and Tom Harrington thoroughly explain how Core Data is used on iOS devices, introduce each of its primary classes, and show how they interact to provide amazing functionality with minimal configuration. You’ll learn how to store, fetch, and validate data; efficiently provide it to views; and much more. Isted and Harrington first give you a firm grounding in the technology, and then present sophisticated real-world examples. They present multiple sample projects, as well as a start-to-finish, chapter-length case study.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780321670625?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Core Animation: Simplified Animation Techniques for Mac® and iPhone® Development
 
@@ -168,6 +177,20 @@ _264 pages_
 
 Apple’s Core Animation framework enables Mac OS X, iPhone, and iPod touch developers to create richer, more visual applications–more easily than ever and with far less code. This book is a comprehensive, example-rich, full-color reference to Core Animation for experienced OS X and iPhone developers who want to make the most of this powerful framework. Marcus Zarra and Matt Long reveal exactly what Core Animation can and can’t do, how to use it most effectively–and how to avoid misusing it. Building on your existing knowledge of Objective-C, Cocoa, and Xcode, they present expert techniques, insights, and downloadable code for all aspects of Core Animation programming, from keyframing to movie playback.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780321617835?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== Programming in Objective-C
+
+_Addison-Wesley Professional_
+_By Steven G. Kochan_
+_ISBN: 9780672325861_
+_December 2003_
+_$31.99_
+_576 pages_
+
+Programming in Objective-C is a concise, carefully written tutorial on the basics of Objective-C and object-oriented programming. The book makes no assumption about prior experience with object-oriented programming languages or with the C language (upon which Objective-C is based). And because of this, both novice and experienced programmers alike can use this book to quickly and effectively learn the fundamentals of Objective-C. Readers can also learn the concepts of object-oriented programming without having to first learn all of the intricacies of the underlying procedural language (C). This approach, combined with many small program examples and exercises at the end of each chapter, makes it ideally suited for either classroom use or self-study. 
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780672325861?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
 === Cocoa Programming Fundamentals LiveLessons (video)
 
@@ -178,6 +201,7 @@ _July 2010_
 
 This book provides a video guided tour of the powerful and elegant Cocoa APIs and programming tools found on Mac OS X. Expert author and developer David Chisnall explains how Cocoa's core frameworks and components work, and then demonstrates how to put them to use in designing and developing sophisticated Mac OS X applications.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780321701442?cid=1107-bibilio-ios-link{See it on Safari Books Online]_
 
 === Objective-C Fundamentals
 
@@ -202,6 +226,8 @@ _936 pages_
 
 To help Mac OS X developers sort through and begin to put to practical use Cocoa’s vast array of tools and technologies, this book provides a guided tour of the Cocoa APIs found on Mac OS X, thoroughly discussing—and showing in action—Cocoa’s core frameworks and other vital components, as well as calling attention to some of the more interesting but often overlooked parts of the APIs and tools. This book provides expert insight into a wide range of key topics, from user interface design to network programming and performance tuning.
 
+_http://my.safaribooksonline.com/book/programming/iphone/9780321639639?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
 === Objective-C Pocket Reference
 
 _O'Reilly Media_
@@ -209,5 +235,8 @@ _By Andrew M. Duncan_
 _ISBN: 9780596004231_
 _December 2002_
 _$9.95 US_
+_128 pages_
 
 Objective-C is easy to learn and has a simple elegance that is a welcome breath of fresh air after the abstruse and confusing C++. To help you master the fundamentals of this language, you'll want to keep this book close at hand. This small book contains a wealth of valuable information to speed you over the learning curve. In this pocket reference, author Andrew Duncan provides a quick and concise introduction to Objective-C for the experienced programmer. In addition to covering the essentials of Objective-C syntax, Andrew also covers important faces of the language such as memory management, the Objective-C runtime, dynamic loading, distributed objects, and exception handling. By providing important details in a succinct, well-organized format, these handy books deliver just what you need to complete the task at hand.
+
+_http://my.safaribooksonline.com/book/programming/iphone/0-596-00423-0?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
