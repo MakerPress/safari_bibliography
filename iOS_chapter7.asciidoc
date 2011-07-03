@@ -1,0 +1,104 @@
+== iOS General
+
+=== iOS Forensic Analysis for iPhone, iPad, and iPod touch
+
+_Apress_
+_By Sean Morrissey_
+_ISBN: 9781430233428_
+_December 2010_
+_$59.99 US_
+_370 pages_
+
+This book provides an in-depth look at investigative processes for the iPhone, iPod Touch, and iPad devices. The methods and procedures outlined in the book can be taken into any courtroom. With iOS information never published before and data sets that are new and evolving, this book gives the examiner and investigator the knowledge to complete a full device examination that will be credible and accepted in the forensic community.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781430233428?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== The Business of iPhone and iPad App Development: Making and Marketing Apps That Succeed, Second Edition
+
+_Apress_
+_By Dave Wooldridge; Michael Schneider_
+_ISBN: 9781430233008_
+_March 2011_
+_$29.99 US_
+_474 pages_
+
+Achieving consumer awareness and sales longevity for your iOS app requires a lot of organization and some strategic planning. Updated and expanded for iOS 4, this bestselling book will show you how to incorporate marketing and business savvy into every aspect of the design and development process, giving your app the best possible chance of succeeding in the App Store. This book was written by experienced developers with business backgrounds, taking you step-by-step through cost effective marketing techniques that have proven successful for professional iOS app creators—perfect for independent developers on shoestring budgets. No prior business knowledge is required. This is the book you wish you had read before you launched your first app!
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781430233008?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== iPhone Hacks
+
+_O'Reilly Media: Make_
+_By David Jurick; Adam Stolarz; Damien Stolarz_
+_ISBN: 9780596801953_
+_April 2009_
+_$34.99 US_
+_480 pages_
+
+With the help from this book you can make your iPhone do all you'd expect of a mobile smartphone -- and more. Learn tips and techniques to unleash little-known features, find and create innovative applications for both the iPhone and iPod touch, and unshackle these devices to run everything from network utilities to video game emulators. This book explains how to set up your iPhone the way you want it, and helps you give it capabilities that will rival your desktop computer. This cunning little handbook is exactly what you need to make the most of your iPhone.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780596801953?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+
+=== Data-Driven iOS Apps for iPad and iPhone with FileMaker Pro, Bento by FileMaker and FileMaker Go
+
+_Que_
+_By Jesse Feiler_
+_ISBN: 9780132652667_
+_April 2011_
+_$39.99 US_
+_400 pages_
+
+In this book, leading FileMaker expert Jesse Feiler shows power users, IT professionals, knowledge workers, and managers exactly how to integrate data from multiple FileMaker sources with iPads, iPhones, and the web. Feiler carefully explains all essential techniques, challenges, and design issues associated with delivering and utilizing data on mobile devices. Learn about using FileMaker Go apps to access FileMaker databases that are hosted on FileMaker Server or FileMaker Pro, or resident on a mobile device. You will also learn how to migrate databases, scripts, and layouts created by FileMaker Pro, and creating customized layouts and scripts along with how to adapt database user interfaces for mobile devices, as well as how to use Bento, and CWP tools to optimally display data on iOS devices.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780132652667?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== The iPad 2 Pocket Guide
+
+_Peachpit Press_
+_By Jeff Carlson_
+_ISBN: 9780132779777_
+_May 2011_
+_$14.99 US_
+_264 pages_
+
+The iPad is a game-changing product that reinvented the way we interact with digital content and the Web. Versitile, portable, powerful, ergonomically and functionally designed, it's the perfect companion for digital media. With Photos, music, movies, email, and hundreds of thousands of apps, the iPad helps you organize, explore, and maximize your digital world. The new iPad 2 includes a thinner/lighter design, a faster chip and superfast graphics performance, two cameras for Facetime video calling, hardware improvements, video mirroring, and much more. Inexpensive and to-the-point, this book is a complete companion to all of the features and functions of the iPad including: Facetime, HD Video, Mail, Safari, Photos and Video, App Store, iBooks, Maps, Notes, Calendar, Contacts, and more. It will help you get up-and-running with easy to understand instructions and then show you hidden gems and tips to make you a true iPad expert.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780132779777?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== iPhone 4 Portable Genius
+
+_John Wiley & Sons_
+_By Paul McFedries_
+_ISBN: 9780470642054_
+_August 2010_
+_$25.00 US_
+_334 pages_
+
+This book is packed with the information you need to make using the iPhone even better. You'll find great iPhone tips at your fingertips—things like the latest hot app from the App Store, novel ways to control calls, and more—and they're all designed to make your life easier, save you time, and help you avoid hassle. Best of all, this book features full-color screenshots, so it's easy to navigate, and it doesn't skip any of the essentials. Get better acquainted with your iPhone 4 in a fun way—as if your friends were showing you what to do—with this book.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780470642054?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+
+=== The iPad 2 Project Book
+
+_Peachpit Press_
+_By Michael E. Cohen, Dennis R. Cohen & Lisa L. Spangenberg_
+_ISBN: 9780132779845_
+_May 2011_
+_$24.99 US_
+_272 pages_
+
+Bridging the gap between the palm-sized iPod touch and a full-sized computer, Apple's iPad 2 offers enough screen area and horsepower to perform the day-to-day tasks most people want to do. Packed with practical knowledge, this book will walk readers through how to manage their most common projects, from the simple (setting up a calendar event) to the complex (planning a vacation) and everything in between. Readers will learn to use the iPad 2 tools and applications by using them to create practical real-world projects and to master everyday tasks.
+
+http://my.safaribooksonline.com/book/programming/iphone/9780132779845?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+
+=== iOS in the Enterprise: A hands-on guide to managing iPhones and iPads
+_Peachpit Press_
+_By John Welch_
+_ISBN: 9780132736015_
+_June 2011_
+_$49.99 US_
+_312 pages_
+
+In this book, readers will learn to how manage iOS in business settings, from small to large, using Apple's iOS configuration and management utilities. The first half of the book provides a strong foundation of managing iOS devices, looking at the various methods of management, from the simple to the complex. The second half of the book covers advanced topics, such as server setup.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780132736015?cid=1107-bibilio-ios-link#taboptions[Read it on Safari Online Books]_
