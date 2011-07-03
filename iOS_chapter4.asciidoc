@@ -1,0 +1,77 @@
+== Mobile Web
+
+=== Beginning iPhone and iPad Web Apps: Scripting with HTML5, CSS3, and JavaScript
+
+_Apress_
+_By Chris Apers & Daniel Paterson_
+_ISBN: 9781430230458_
+_November 2010_
+_$39.99 US_
+_508 pages_
+
+The market for Web apps is expanding and the combination of iPhone and iPad makes this a very hot area—as well as a competitive one. You'll want to know about all the advantages available to get ahead and stay ahead. This book takes you through every aspect of the latest Mobile Web Standards as well as the specific features of the iPhone and iPad. You'll go beyond Web 2.0 and Ajax to learn about WebKit and Mobile Safari, HTML5 and CSS3, Vector Graphics and Multimedia support. You'll discover what built-in hardware features of the iPhone and iPad you can use and how to take advantage of these device-specific capabilities.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781430230458?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== Building iPhone Apps with HTML, CSS, and JavaScript
+
+_O'Reilly Media_
+_By Jonathan Stark_
+_ISBN: 9781449380236_
+_January 2010_
+_$29.99 US_
+_192 pages_
+
+It's a fact: if you know HTML, CSS, and JavaScript, you already have the tools you need to develop your own iPhone apps. With this book, you'll learn how to use these open source web technologies to design and build apps for both the iPhone and iPod Touch, on the platform of your choice -- without using Objective-C, Xcode, or Interface Builder. You'll get guidelines for quickly converting your product into a native iPhone app, using the free PhoneGap framework. And you'll learn why releasing your product as a web app first helps you find, fix, and test bugs much faster than if you went straight to the App Store with a product built with Apple's tools.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781449380236?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== The Web Designer’s Guide to iOS Apps: Create iPhone, iPod touch, and iPad Apps with Web Standards (HTML5, CSS3, and JavaScript)
+New Riders
+
+_By Kristofer Layon_
+_ISBN: 9780132562829_
+_December 2010_
+_$39.99 US_
+_288 pages_
+
+This book teaches web designers how to use HTML, CSS, and JavaScript to build native iPhone, iPod Touch, and iPad applications.  By leveraging their existing skills, web designers can do the same specialized and content-specific work for new platforms. And by combining these skills with a code framework that allows them to bypass the need to learn a lot of Objective-C programming, web designers can focus exclusively on interface and content design. This results in better products for clients and their customers, and also saves the designer both time (by avoiding the need to learn - or subcontract for - unnecessary programming skills) and money (by avoiding the use of more expensive - but less customizable - software-based approaches to designing native apps).
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780132562829?cid=1107-bibilio-ios-link[Read in on Safari Books Online]_
+
+=== Beginning Smartphone Web Development: Building JavaScript, CSS, HTML and Ajax-based Applications for iPhone, Android, Palm Pre, BlackBerry, Windows Mobile, and Nokia S60
+
+_Apress_
+_By Gail Frederick_
+_ISBN: 9781430226208_
+_January 2010_
+_$39.99 US_
+_368 pages_
+
+The mobile Web has become incredibly popular given the success of the iPhone and BlackBerry, the importance of Windows Mobile, and the emergence of Palm Pre (and its webOS platform). In this book, Gail Frederick of the well-known training site Learn the Mobile Web, teaches the web standards and fundamentals specific to smartphones and other feature-driven mobile phones and devices. By the end of this book, you’ll have the training, tools, and techniques for creating robust mobile web experiences on any of these platforms for your favorite smartphone or other mobile device.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781430226208?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== Safari and WebKit Development for iPhone® OS 3.0
+
+_Wrox_
+_By Richard Wagner_
+_ISBN: 9780470549667_
+_November 2009_
+_$44.99 US_
+_407 pages_
+
+The iPhone offers a compelling Web-based application development platform revolving around its built-in browser, Safari, which is built upon the open source WebKit framework. This must-have book serves as a hands-on guide to developing iPhone and iPod touch Web applications. Beginning with an introduction to Web application development for iPhone, this unique book then covers invaluable information on working with mobile and touch technologies, using iPhone UI frameworks, and designing, styling, and programming the interface. You'll discover how to move Web apps to native apps and much, much more. Completely compliant with the new iPhone OS 3.0, as well as latest enhancements to Safari on iPhone, this indispensable book is a must-have resource.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780470549667?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== Tap, Move, Shake
+
+_O'Reilly Media_
+_By Todd Moore_
+_ISBN: 9781449303457_
+_December 2011_
+_$39.99 US_
+_320 pages_
+
+Got a good game idea? Turn your concept into a hot game app for iPhone, iPad, or iPod touch with this do-it-yourself guide. This book helps you build multitouch games that take full advantage of iOS 4, and shows you how to prepare your app for the App Store. Create your first game with just 20 lines of code, then learn how to add graphics, sound effects, and key game algorithms. This book helps you explore practical game examples for iOS devices.
