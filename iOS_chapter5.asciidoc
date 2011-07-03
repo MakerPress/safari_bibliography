@@ -1,0 +1,75 @@
+== Game Development
+
+=== iPhone 3D Programming
+
+_O'Reilly Media_
+_By Philip Rideout_
+_ISBN: 9781449388133_
+_May 2010_
+_$39.99 US_
+_448 pages_
+
+Do you have a great idea for a graphics-intensive iPhone application, but don't know how to bring it to life? This book offers the perfect solution: a crash course on the OpenGL graphics library with an overview of iPhone 3D development. Whether you're an experienced OpenGL developer looking to build iPhone apps for the first time, or an iPhone developer wanting to learn sophisticated graphics, this book brings both of these worlds together in one concise, easy-to-use guide.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781449388133?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== Beginning iPhone Games Development
+
+_Apress_
+_By Peter Bakhirev, PJ Cabrera, Ian Marsh, Scott Penberthy, Ben Britten Smith & Eric Wing_
+_ISBN: 9781430225997_
+_August 2010_
+_$39.99 US_
+_727 pages_
+
+Games make up over 25 percent of total apps and over 70 percent of the most popular iPhone apps. This book provides you with an easy-to-follow, step-by-step approach, with deep technical insights, and that familiar friendly style.With this book, you're going to roll up your sleeves and get your hands dirty with some hardcore coding. While you may have written games before, this book will take you further, immersing you in topics such as game graphics and animation with UIKit, Quartz, Core Animation, and OpenGL ES and game audio with OpenAL, MediaPlayer Framework, AV Foundation, and AudioSession.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781430225997?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== iPhone Game Development
+
+_John Wiley & Sons_
+_By Chris Craft & Jamey McElveen_
+_ISBN: 9780470496664_
+_November 2009_
+_$49.99 US_
+_512 pages_
+
+If you've always wanted to develop a cool iPhone game application and sell it for big bucks, this book is for you. It covers all technical and commercial bases, from how to sign up for the Apple Development Program, master the development tools in the iPhone SDK, publish your game to the App Store, and convince people to buy it. You'll find full coverage of Cocoa Touch and other great features of the iPhone SDK, plus pages of real-world examples with step-by-step explanations. The book also includes loads of royalty-free code you can use for commercial development. Save weeks of development time with the expert guidance you'll find in this book!
+
+_http://my.safaribooksonline.com/book/programming/iphone/9780470496664?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== iPhone 3D Game Programming All in One
+
+_Course Technology PTR_
+_By Jeremy Alessi_
+_ISBN: 9781435454781_
+_June 2010_
+_$39.99 US_
+_432 pages_
+
+This is a complete guide to iPhone and iPod Touch game development. Beginning with the basics and ending with a finished game published in the App store this book covers all the fundamentals. The combined strength of Unity and the iPhone development platform are used to full effect allowing even complete novices to create and publish an iPhone game.
+
+_http://my.safaribooksonline.com/book/programming/iphone/9781435454781?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+=== Building iOS Games: Develop and Design
+
+_Peachpit Press_
+_By James Sugrue_
+_ISBN: 9780132790451_
+_September 2011_
+_$44.99 US_
+_429 pages_
+
+(no description available)
+
+=== Augmented Reality in iOS
+
+_O'Reilly Media_
+_By Alasdair Allan_
+_ISBN: 9781449308506_
+_July 2011_
+_$19.99 US_
+_50 pages_
+
+Augmented Reality has become one of the killer applications for the iOS platform. This book not only walks you through building a simple location-aware AR toolkit, but delves deeper still to look at computer vision and AR. By the end you'll be left with a set of tools and libraries that you can extend and reuse in your own projects and iPhone applications.
