@@ -1,6 +1,5 @@
 == Beginning JavaScript
 
-
 === Eloquent JavaScript
 
 _No Starch Press_
@@ -36,7 +35,6 @@ _December 2008_
 _$34.99 US_
 _400 pages_
 
-
 If you're new to JavaScript, or an experienced web developer looking to improve your skills, this book provides you with complete, no-nonsense coverage of this quirky yet essential language for web development. You'll learn everything from primitive data types to complex features, including JavaScript elements involved with Ajax and dynamic page effects. By the end of the book, you'll be able to work with even the most sophisticated libraries and web applications. Complete with best practices and examples of JavaScript use, this new edition shows you how to integrate the language with the browser environment, and how to practice proper coding techniques for standards-compliant websites. This book follows proven learning principles to help you absorb the concepts at an easy pace, so you'll learn how to create powerful and responsive applications in any browser.
 
 _http://my.safaribooksonline.com/book/programming/javascript/9780596155636?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
@@ -49,7 +47,6 @@ _ISBN: 9780470526910_
 _October 2010_
 _$49.99 US_
 _2,042 pages_
-
 
 As the most comprehensive book on the market, this book is a classic bestseller that keeps you up to date on the latest changes in JavaScript, the leading technology for incorporating interactivity into Web pages. Part tutorial, part reference, this book serves as both a learning tool for building new JavaScript skills as well as a detailed reference for the more experienced JavaScript user. You'll get up-to-date coverage on the latest JavaScript practices that have been implemented since the previous edition, as well as the most updated code listings that reflect new concepts. Plus, you'll learn how to apply the latest JavaScript exception handling and custom object techniques.
 
