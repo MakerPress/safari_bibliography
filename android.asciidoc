@@ -1,10 +1,10 @@
 This is the android book.  I'll need to create a book.asc for it.
 
 * [[Android Introduction | android_introduction]]
-* [[Chapter 1 | android_chapter1]]
-* [[Chapter 2 | android_chapter2]]
-* [[Chapter 3 | android_chapter3]]
-* [[Chapter 4 | android_chapter4]]
-* [[Chapter 6 | android_chapter5]]
-* [[Chapter 6 | android_chapter6]]
+* [[Beginning Android Development | android_chapter1]]
+* [[Intermediate-Advanced Android Development | android_chapter2]]
+* [[Mobile Web | android_chapter3]]
+* [[Cross Platform | android_chapter4]]
+* [[Games | android_chapter5]]
+* [[Graphics | android_chapter6]]
 

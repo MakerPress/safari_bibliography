@@ -1,10 +1,10 @@
 This is the iOS book.
 
 * [[Introduction |  iOS_introduction]]
-* [[Chapter 1 |  iOS_chapter1]]
-* [[Chapter 2 | iOS_chapter2]]
-* [[Chapter 3 | iOS_chapter3]]
-* [[Chapter 4 | iOS_chapter4]]
-* [[Chapter 5 | iOS_chapter5]]
-* [[Chapter 6 | iOS_chapter6]]
-* [[Chapter 7 | iOS_chapter7]]
+* [[Beginning iOS Development |  iOS_chapter1]]
+* [[Intermediate iOS Development | iOS_chapter2]]
+* [[Objective-C / Cocoa & iOS Core | iOS_chapter3]]
+* [[Mobile Web | iOS_chapter4]]
+* [[Game Development | iOS_chapter5]]
+* [[iOS Design UI/UX | iOS_chapter6]]
+* [[iOS General | iOS_chapter7]]
