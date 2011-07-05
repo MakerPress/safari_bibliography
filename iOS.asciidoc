@@ -1,6 +1,6 @@
 This is the iOS book.
 
-* [[Introduction |  iOS]
+* [[Introduction |  iOS]]
 * [[Chapter 1 |  iOS_chapter1]]
 * [[Chapter 2 | iOS_chapter2]]
 * [[Chapter 3 | iOS_chapter3]]
