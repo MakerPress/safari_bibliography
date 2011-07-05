@@ -3,3 +3,4 @@ Here are the books so far.  We'll need to create individual book.asc files for e
 * [[Python Bibliography | python]]
 * [[Android Bibliography | android]]
 * [[iOS Bibliography | iOS]]
+* [[JavaScript Bibliography | JavaScript]]
