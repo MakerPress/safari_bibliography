@@ -1,6 +1,6 @@
 This is the Python Bibliography for Safari Books online!
 
-* [[Introduction | introduction]]
-* [[Learning Python Development | chapter1]]
-* [[Intermediate-Advanced Python Development | chapter2]]
+* [[Introduction | python_introduction]]
+* [[Learning Python Development | python_chapter1]]
+* [[Intermediate-Advanced Python Development | python_chapter2]]
 * [[General Python Topics | python_topics]]
