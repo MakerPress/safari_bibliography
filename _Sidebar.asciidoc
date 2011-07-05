@@ -1,6 +1,8 @@
 [[ http://my.safaribooksonline.com/static/201107-2197-my/images/6.0/logo_sbo.gif ]]
 [[http://oreilly.com/images/oreilly/tarsier.gif]]
 
+= Safari Bibliographies
+
 == Useful Links
 * [[Home / TOC |home]]
 * https://github.com/MakerPress/gettingStartedGuide[View the Getting Started guide]
