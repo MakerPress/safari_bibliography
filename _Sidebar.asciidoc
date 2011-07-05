@@ -1,4 +1,5 @@
 [[ _Logo.png ]]
+[[http://oreilly.com/images/oreilly/tarsier.gif]]
 
 == Useful Links
 * [[Home / TOC |home]]
