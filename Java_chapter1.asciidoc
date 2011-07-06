@@ -12,6 +12,7 @@ _720 pages_
 
 Learning a complex new language is no easy task especially when it s an object-oriented computer programming language like Java. This book combines puzzles, strong visuals, mysteries, and soul-searching interviews with famous Java objects to engage you in many different ways. It's fast, it's fun, and it's effective. You'll learn everything from the Java fundamentals to advanced topics, including threads, network sockets, and distributed programming with RMI.  By exploiting how your brain works, this book compresses the time it takes to learn and retain--complex information. Its unique approach not only shows you what you need to know about Java syntax, it teaches you to think like a Java programmer. If you want to be bored, buy some other book. But if you want to understand Java, this book's for you.
 
+_http://my.safaribooksonline.com/book/programming/java/0596009208?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Sams Teach Yourself Java in 24 Hours, Fifth Edition
 
@@ -24,6 +25,7 @@ _432 pages_
 
 In just 24 lessons of one hour or less, you can learn how to create Java applications with the free NetBeans visual editing tools. Using a straightforward, step-by-step approach, popular author Rogers Cadenhead helps you master the skills and technology you need to create desktop and web programs, web services, and even a browser game in Java. Full-color figures and clear step-by-step instructions visually show you how to program with Java. Quizzes and Exercises at the end of each chapter help you test your knowledge.
 
+_http://my.safaribooksonline.com/book/programming/java/9780672330766?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Java Programming 24-Hour Trainer
 
@@ -49,6 +51,7 @@ _864 pages_
 
 This book is the definitive guide to Java for serious programmers who want to put Java to work on real projects. Fully updated for the new Java SE 6 platform, this no-nonsense tutorial and reliable reference illuminates the most important language and library features with thoroughly tested real-world examples. The example programs have been carefully crafted to be easy to understand as well as useful in practice, so you can rely on them as an outstanding starting point for your own code. The authors concentrate on the fundamental concepts of the Java language, along with the basics of user-interface programming. 
 
+_http://my.safaribooksonline.com/book/programming/java/9780132354769?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Java for Programmers: Deitel® Developer Series, Second Edition
 
@@ -61,6 +64,7 @@ _1168 pages_
 
 Written for programmers with a background in high-level language programming, this book applies the Deitel signature live-code approach to teaching programming and explores the Java language and Java APIs in depth. The book presents the concepts in the context of fully tested programs, complete with syntax shading, code highlighting, line-by-line code descriptions and program outputs. The book features 220 Java applications with over 18,000 lines of proven Java code, and hundreds of tips that will help you build robust applications.
 
+_http://my.safaribooksonline.com/book/programming/java/9780132821544?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Java How to Program, Seventh Edition
 
@@ -78,10 +82,11 @@ _http://my.safaribooksonline.com/book/programming/java/9780136085676?cid=1107-bi
 === Java Fundamentals I and II (Video Training)
 
 _Prentice Hall_
-_By _
+_By Paul Deitel_
 _ISBN: 9780137150021_
 _February 2008_
 
+_http://my.safaribooksonline.com/video/programming/java/9780137131297[See it on Safari Online Books]_
 
 === Learning Java, Third Edition
 
