@@ -12,6 +12,7 @@ _384 pages_
 
 Are you looking for a deeper understanding of the Java™ programming language so that you can write code that is clearer, more correct, more robust, and more reusable? Look no further! This book brings together seventy-eight indispensable programmer’s rules of thumb: working, best-practice solutions for the programming challenges you encounter every day. This highly anticipated new edition of the classic, Jolt Award-winning work has been thoroughly updated to cover Java SE 5 and Java SE 6 features introduced since the first edition. Bloch explores new design patterns and language idioms, showing you how to make the most of features ranging from generics to enums, annotations to autoboxing.
 
+_http://my.safaribooksonline.com/book/programming/java/9780321356680?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Data Structures and Algorithms Using Java
 
@@ -23,6 +24,8 @@ _$82.95 US_
 _580 pages_
 
 This book covers the entire recommended syllabus put forth by the Association of Computing Machinery (ACM) standard curriculum guidelines for "Algorithms and Data Structures." The authors main motivation for writing the text was to produce a text that was more readable and instructional than those currently in print without compromising the scope of the CS103 course material. McAllister does just that with his unique student-friendly pedagogical approach and organizational structure. The pedagogical features of the text, based on the author's 30 years of teaching experience, include succinct code examples, a unique common template used as the organizational basis of each chapter, the use of pseudocode to present the major algorithms developed in the text, 300 carefully designed figures, and a review of Java.
+
+_http://my.safaribooksonline.com/book/programming/java/9780763757564?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Ant in Action: Java Development with Ant, Second Edition
 
