@@ -220,11 +220,12 @@ _656 pages_
 This is the all-in-one HTML, CSS and JavaScript beginner's guide, which covers the three most important languages for web development! It contains everything beginners need to know about the new HTML5 and CSS3 standards and today's JavaScript and Ajax libraries - all in one book. Written by the best-selling author Julie Meloni, it contains short, simple lessons that teach hands-on skills readers can apply immediately. Meloni covers all of the building blocks of practical web design and development, integrating new techniques and features into every chapter. Each lesson builds on what's come before, showing you exactly how to use HTML5, CSS3, and JavaScript together to create great web sites.
 
 
-Javascript Fundamentals I and II (Video Training)
-Prentice Hall
-By Paul J. Deitel
-ISBN: 9780137045167
-June 2009
+=== Javascript Fundamentals I and II (Video Training)
+
+_Prentice Hall_
+_By Paul J. Deitel_
+_ISBN: 9780137045167_
+_June 2009_
 
 This video series is all you need to build world-class web applications. It begins with JavaScript basics, including control statements, functions, arrays, objects, events, CSS, DOM, and more. You’ll also master scripting with XML and RSS, and finish by learning to build the rich Ajax applications that are taking the Web by storm! Your instructor, Paul Deitel, delivers over 14 hours of world-class video training.  Paul teaches by analyzing complete working programs, not trivial code fragments. 
 
