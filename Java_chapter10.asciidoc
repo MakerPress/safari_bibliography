@@ -103,7 +103,6 @@ _500 pages_
 
 As a Java developer, anything that boosts your productivity without compromising the quality of your projects is a GOOD THING. Roo is a GOOD THING. Roo is a lightweight Java development tool that works within your existing processes, rapidly produces high-quality 100% Java code, and then gets out of the way so there's no runtime impact. Roo enforces correct coding practices and patterns and instantly integrates not only with Spring, but also with virtually every mainstream Java technology, from ActiveMQ to JPA to OSGi and more. This is a unique book that teaches you how to code Java in Roo, with a particular focus on Spring-based applications. It starts by getting you into the Roo mindset, covering Aspect Oriented Programming and annotations within a don't-repeat-yourself, convention-over-configuration framework. Through hands-on examples, you'll learn now Roo creates well-formed application structures and supports best practices and tools. Plus, you'll get a quick-and-dirty guide to setting up Roo effectively in your environment.
 
-
 === Spring in a Nutshell
 
 _O'Reilly Media_
@@ -117,7 +116,6 @@ With this book you'll quickly get up to speed on the fundamentals of Spring and 
 
 _http://my.safaribooksonline.com/book/programming/java/9781449389970?cid=1107-biblio-java-link[Read it on Safari Online Books]_
 
-
 === Dependency Injection: Design patterns using Spring and Guice
 
 _Manning_
@@ -129,6 +127,7 @@ _352 pages_
 
 In object-oriented programming, a central program normally controls other objects in a module, library, or framework. With dependency injection, this pattern is inverted—a reference to a service is placed directly into the object which eases testing and modularity. Spring or Google Guice use dependency injection so you can focus on your core application and let the framework handle infrastructural concerns. This book explores the DI idiom in fine detail, with numerous practical examples that show you the payoffs. You'll apply key techniques in Spring and Guice and learn important pitfalls, corner-cases, and design patterns. Readers need a working knowledge of Java but no prior experience with DI is assumed.
 
+_http://my.safaribooksonline.com/book/programming/java/9781933988559?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Spring Enterprise Recipes
 
@@ -141,6 +140,7 @@ _492 pages_
 
 The release of Spring Framework 3.0 has added many improvements and new features for Spring development. Written by Gary Mak, author of the bestseller Spring Recipes, and Josh Long, an expert Spring user and developer, Spring Enterprise Recipes is one of the first books on Spring 3.0. This key book focuses on a framework-related suite of tools, extensions, plug-ins, modules, and more—all of which you may want and need for building three-tier Java EE applications.
 
+_http://my.safaribooksonline.com/book/programming/java/9781430224976?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Beginning Spring Framework 2
 
