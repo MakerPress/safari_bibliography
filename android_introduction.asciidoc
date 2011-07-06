@@ -1,4 +1,4 @@
-Android
+== Android
 
 Android has played a very important role on the Open Source community. It is a prime example of a real successful product that is based on open source – the Linux operating system, “open source” Java, and it has greatly contributed to both the Linux OS project and the Android project via the Open Handset Alliance. The result is enabling both enthutiasts as well as small-and-large 3rd-party vendors who takes advantage of the Android open source projects for their own personal projects, for research and academia, and/or own full-blown Products. 
 
