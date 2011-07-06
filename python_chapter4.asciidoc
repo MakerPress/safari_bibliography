@@ -1,6 +1,6 @@
 == Topics for Python
 
-== Foundations of Python Network Programming: The comprehensive guide to building network applications with Python, Second Edition
+=== Foundations of Python Network Programming: The comprehensive guide to building network applications with Python, Second Edition
 
 _Apress_
 _By Brandon Rhodes & John Goerzen_
@@ -142,6 +142,19 @@ _416 pages_
 As time goes on, system administrators are presented with increasingly complicated challenges. System administrators are gradually replacing their tools with more advanced and flexible ones. One of the choices is Python. Structurally, Python is a modern, high-level language with a very clean syntax. Python comes with many built-in libraries that can make automation tasks easier. It also has an extensive set of third-party libraries and a very active development community. This flexibility makes Python a good choice for a wide variety of tasks, from prototyping science applications to system maintenance and administration jobs. This book explains and shows how to apply Python scripting in practice. In this book, you will find several projects in the categories of network administration, web server administration, and monitoring and database management. 
 
 _http://my.safaribooksonline.com/book/programming/python/9781430226055?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+=== Bioinformatics Programming Using Python
+
+_O'Reilly Media_
+_By Mitchell L Model_
+_ISBN: 9780596154509_
+_December 2009_
+_$59.99 US_
+_528 pages_
+
+Powerful, flexible, and easy to use, Python is an ideal language for building software tools and applications for life science research and development. This unique book shows you how to program with Python, using code examples taken directly from bioinformatics. In a short time, you'll be using sophisticated techniques and Python modules that are particularly effective for bioinformatics programming. This book is perfect for anyone involved with bioinformatics -- researchers, support staff, students, and software developers interested in writing bioinformatics applications. You'll find it useful whether you already use Python, write code in another language, or have no programming experience at all. It's an excellent self-instruction tool, as well as a handy reference when facing the challenges of real-life programming tasks.
+
+_http://my.safaribooksonline.com/book/programming/python/9780596804725?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
 
 === Python for Bioinformatics
 
