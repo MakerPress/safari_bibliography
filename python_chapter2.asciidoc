@@ -104,19 +104,6 @@ Follow along as leading Python developer and trainer Wesley Chun helps you learn
 
 _http://my.safaribooksonline.com/book/programming/python/9780132269933?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
 
-=== Bioinformatics Programming Using Python
-
-_O'Reilly Media_
-_By Mitchell L Model_
-_ISBN: 9780596154509_
-_December 2009_
-_$59.99 US_
-_528 pages_
-
-Powerful, flexible, and easy to use, Python is an ideal language for building software tools and applications for life science research and development. This unique book shows you how to program with Python, using code examples taken directly from bioinformatics. In a short time, you'll be using sophisticated techniques and Python modules that are particularly effective for bioinformatics programming. This book is perfect for anyone involved with bioinformatics -- researchers, support staff, students, and software developers interested in writing bioinformatics applications. You'll find it useful whether you already use Python, write code in another language, or have no programming experience at all. It's an excellent self-instruction tool, as well as a handy reference when facing the challenges of real-life programming tasks.
-
-_http://my.safaribooksonline.com/book/programming/python/9780596804725?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
-
 === Expert Python Programming: Learn best practices to designing, coding, and distributing your Python software
 
 _Packt Publishing_
