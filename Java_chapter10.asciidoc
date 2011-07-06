@@ -12,6 +12,7 @@ _650 pages_
 
 Written by Craig Walls, one of Manning's best writers, this book covers the exciting new features of Spring 2.0, which was released in October 2006. Spring is a lightweight container framework that represents an exciting way to build enterprise components with simple Java objects. By employing dependency injection and AOP, Spring encourages loosely coupled code and enables plain-old Java objects with capabilities that were previously reserved for EJBs. This book is a hands-on, example-driven exploration of the Spring Framework. Combining short code snippets and an ongoing example developed throughout the book, it shows readers how to build simple and efficient J2EE applications, how to solve persistence problems, handle asynchronous messaging, create and consume remote services, build web applications, and integrate with most popular web frameworks. Readers will learn how to use Spring to write simpler, easier to maintain code so they can focus on what really matters-- critical business needs.
 
+_http://my.safaribooksonline.com/book/programming/java/9781933988139?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Spring Recipes
 
@@ -24,6 +25,7 @@ _1200 pages_
 
 With over 3 Million users/developers, Spring Framework is the leading "out of the box" Java framework. Spring addresses and offers simple solutions for most aspects of your Java/Java EE application development, and guides you to use industry best practices to design and implement your applications. This book continues upon the bestselling success of the previous edition but focuses on the latest Spring 3 features for building enterprise Java applications. This book provides elementary to advanced code recipes for Spring 3. 
 
+_http://my.safaribooksonline.com/book/programming/java/9781430224990?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Pro Spring Integration
 
@@ -36,6 +38,7 @@ _663 pages_
 
 This book is written by experts that guide you through the vast world of Enterprise Application Integration and the application of the Spring Integration framework towards solving integration problems. What makes this book unique is its coverage of contemporary technologies and real-world information, with a focus on common problems that users are likely to confront. This book zeros in on extending the Spring Integration framework to meet your custom integration demands. 
 
+_http://my.safaribooksonline.com/book/programming/java/9781430233459?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Spring Persistence with Hibernate
 
@@ -48,6 +51,7 @@ _262 pages_
 
 Today, the Spring Framework is the leading out-of-the-box solution for enterprise Java developers; in it, you can find a number of Java Persistence solutions. This book gets you rolling with fundamental Spring Framework 3 concepts and integrating persistence functionality into enterprise Java applications using Hibernate, the Java™ Persistence API (JPA) 2, and the Grails Object Relational Mapping tool, GORM.
 
+_http://my.safaribooksonline.com/book/programming/java/9781430226321?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Spring Security 3
 
@@ -60,6 +64,7 @@ _396 pages_
 
 Security is of critical importance to all web applications. Vulnerable applications are easy prey for hackers. This book is the perfect tool for Java developers looking to repel attacks against their web applications using the proven Spring Security library to achieve this. You will learn through real world business scenarios how to guard against the latest threats. You will also learn to combine Spring Security 3 with external security providers such as LDAP, OpenID, CAS, Kerberos, and Active Directory. This practical guide will show you how to implement Spring Security 3 and protect your applications from being breached using a combination of real world, straightforward examples.
 
+_http://my.safaribooksonline.com/book/programming/java/9781847199744?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Pro Spring 2.5
 
@@ -72,6 +77,7 @@ _$49.99 US_
 
 The Spring Framework remains the leader in this move and provides a platform on which you can build your own applications and services. This book covers the new features of Spring 2.5, but moreover, it is focused on the best practices and core standards of contemporary Spring development. As members of the Spring development team at Cake Solutions, the author team brings extensive practical experience gained from working with Spring since version 1.0 and delivering successful systems on top of it.
 
+_http://my.safaribooksonline.com/book/programming/java/9781590599211?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Agile Java Development with Spring, Hibernate and Eclipse
 
@@ -84,6 +90,7 @@ _$49.99 US_
 
 This is a book about robust technologies and effective methods that help bring simplicity back into the world of enterprise Java development. The three key technologies covered in this book, the Spring Framework, Hibernate and Eclipse, help reduce the complexity of enterprise Java development significantly. Furthermore, these technologies enable plain old Java objects (POJOs) to be deployed in light-weight containers versus heavy-handed remote objects that require heavy EJB containers. This book also extensively covers technologies such as Ant, JUnit, JSP tag libraries and touches upon other areas such as such logging, GUI based debugging, monitoring using JMX, job scheduling, emailing, and more. Also, Extreme Programming (XP), Agile Model Driven Development (AMDD) and refactoring are methods that can expedite the software development projects by reducing the amount of up front requirements and design; hence these methods are embedded throughout the book but with just enough details and examples to not sidetrack the focus of this book.  By using the technologies and methods covered in this book, you will be able to effectively develop enterprise-class Java applications, in an agile manner!
 
+_http://my.safaribooksonline.com/book/programming/java/9780672328961?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Spring Roo In Action
 
@@ -107,6 +114,8 @@ _$39.99 US_
 _700 pages_
 
 With this book you'll quickly get up to speed on the fundamentals of Spring and how it enables you to write clean and simple applications with code that's portable, reusable, testable, and maintainable. You'll also discover how flexible this framework really is. This book provides techniques that will help you use Spring in a single class within your application, in a single application layer, or throughout your entire application, from the top to the bottom. This book is still in progress, but you can get started with Spring 3.x with our Rough Cuts edition, which lets you read the manuscript as it's being written, either online or via PDF.
+
+_http://my.safaribooksonline.com/book/programming/java/9781449389970?cid=1107-biblio-java-link[Read it on Safari Online Books]_
 
 
 === Dependency Injection: Design patterns using Spring and Guice
