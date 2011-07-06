@@ -124,7 +124,7 @@ _656 pages_
 
 Ajax, or Asynchronous JavaScript and XML, exploded onto the scene in the spring of 2005 and remains the hottest story among web developers. With its rich combination of technologies, Ajax provides a strong foundation for creating interactive web applications with XML or JSON-based web services by using JavaScript in the browser to process the web server response. This book shows you best practices that can dramatically improve your web development projects. It investigates how others have successfully dealt with conflicting design principles in the past and then relays that information directly to you. This book will also get you up to speed with core Ajax technologies, such as XMLHttpRequest, the DOM, and JSON. Technical discussions are followed by code examples so you can see for yourself just what is-and isn't-possible with Ajax. This handy reference will help you to produce high-quality Ajax architectures, streamline web application performance, and improve the user experience.
 
-
+_http://my.safaribooksonline.com/book/programming/javascript/9780596101800?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
 
 === Adding Ajax
 
@@ -136,6 +136,7 @@ _400 pages_
 
 Ajax can bring many advantages to an existing web application without forcing you to redo the whole thing. This book explains how you can add Ajax to enhance, rather than replace, the way your application works. For instance, if you have a traditional web application based on submitting a form to update a table, you can enhance it by adding the capability to update the table with changes to the form fields, without actually having to submit the form. That's just one example. This book is for those of you more interested in extending existing applications than in creating Rich Internet Applications (RIA). You already know the "business-side" of applications-web forms, server-side driven pages, and static content-and now you want to make your web pages livelier, more fun, and much more interactive. 
 
+_http://my.safaribooksonline.com/book/programming/javascript/9780596529369?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
 
 === Unobtrusive Ajax
 
