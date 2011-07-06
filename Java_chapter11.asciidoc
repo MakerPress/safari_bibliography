@@ -72,6 +72,8 @@ _By James Turner_
 _ISBN: 9781449381776_
 _December 2009_
 
+Great Java Web Programming: Level 1 will lay the foundation for getting started creating web applications with a Java backend. Once you've finished the course you'll have all the tools you need to create powerful web applications that are easy to understand and maintain. Even beyond the basics, you'll learn how to leverage advanced language features such as the Java Standard Tag Library to make your applications clean and streamlined, but also secure and fast.
+
 _http://my.safaribooksonline.com/video/programming/java/9781449381776?cid=1107-bibilio-java-link[See it on Safari Online Books]_
 
 === RESTful Java Web Services
@@ -138,6 +140,7 @@ _736 pages_
 Java EE is the technology of choice for e-commerce applications, interactive Web sites, and Web-enabled services. Servlet and JSP technology provides the link between Web clients and server-side applications on this platform. This book is the definitive guide to the advanced features and capabilities provided by servlets and JSP. Like the first volume, it teaches state-of-the-art techniques and best practices illustrated with complete, working, fully documented programs. Complete source code for all examples is available free for unrestricted use at www.volume2.coreservlets.com. For information on Java training from Marty Hall, go to courses.coreservlets.com.
 
 _http://my.safaribooksonline.com/book/programming/java/9780131482609?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
+
 === Patterns of Enterprise Application Architecture
 
 _Addison-Wesley Professional_
@@ -187,7 +190,6 @@ _912 pages_
 Looking to study up for the new J2EE 1.5 Sun Certified Web Component Developer (SCWCD) exam? This book will get you way up to speed on the technology you'll know it so well, in fact, that you can pass the brand new J2EE 1.5 exam. Learn how to write servlets and JSPs, what makes a web container tick (and what ticks it off), how to use JSP's Expression Language (EL for short), and how to write deployment descriptors for your web applications. Master the c:out tag, and get a handle on exactly what's changed since the older J2EE 1.4 exam. You'll interact with servlets and JSPs in ways that help you learn quickly and deeply. And when you're through with the book, you can take a brand-new mock exam, created specifically to simulate the real test-taking experience.
 
 _http://my.safaribooksonline.com/book/programming/java/9780596516680?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
-
 
 === Enterprise JavaBeans 3.1, Sixth Edition
 
