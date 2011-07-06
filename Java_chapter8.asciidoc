@@ -11,8 +11,9 @@ _880 pages_
 
 Persistence -- the ability of data to outlive an instance of a program -- is central to modern applications. Hibernate, the most popular Java persistence tool, provides automatic and transparent object/relational mapping so it's a snap to work with SQL databases in Java applications. Hibernate conforms to the new EJB 3.0 and Java Persistence 1.0 standards.This book explores Hibernate by developing an application that ties together hundreds of individual examples. You'll immediately dig into the rich programming model of Hibernate 3.2 and Java Persistence, working through queries, fetching strategies, caching, transactions, conversations, and more. You'll also appreciate the well-illustrated discussion of best practices in database design, object/relational mapping, and optimization techniques.
 
+_http://my.safaribooksonline.com/book/programming/java/9781932394887?cid=1107-bibilio-java-link[Read in on Safari Online Books]_
 
-=== Pro JPA 2: Mastering the Java™ Persistence API
+=== Pro JPA 2: Mastering the Java Persistence API
 
 _Apress_
 _By Mike Keith & Merrick Schincariol_
@@ -23,6 +24,7 @@ _536 pages_
 
 Pro JPA 2 introduces, explains, and demonstrates how to use the new Java Persistence API (JPA). JPA provides Java developers with both the knowledge and insight needed to write Java applications that access relational databases through JPA. Authors Mike Keith and Merrick Schincariol take a hands-on approach to teaching by giving examples to illustrate each new concept of the API and showing how it is used in practice.
 
+_http://my.safaribooksonline.com/book/programming/java/9781430219569?cid=1107-bibilio-java-link[Read in on Safari Online Books]_
 
 === Hibernate Recipes: A Problem-Solution Approach
 
