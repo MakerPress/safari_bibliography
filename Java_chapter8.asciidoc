@@ -37,8 +37,9 @@ _312 pages_
 
 Hibernate continues to be the most popular out-of-the-box framework solution for Java Persistence and data/database accessibility techniques and patterns. It is used for e-commerce–based web applications as well as heavy-duty transactional systems for the enterprise. Gary Mak, the author of the best-selling Spring Recipes, now brings you this book, which contains a collection of code recipes and templates for learning and building Hibernate solutions for you and your clients. This book is your pragmatic day-to-day reference and guide for doing all things involving Hibernate. There are many books focused on learning Hibernate, but this book takes you further and shows how you can apply it practically in your daily work.
 
+_http://my.safaribooksonline.com/book/programming/java/9781430227960?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
-=== Seam Framework: Experience the Evolution of Java™ EE, Second Edition
+=== Seam Framework: Experience the Evolution of Java EE, Second Edition
 
 _Prentice Hall_
 _By Michael Juntao Yuan, Jacob Orshalick & Thomas Heute_
