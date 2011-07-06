@@ -124,6 +124,19 @@ Google's App Inventor for Android is poised to turn just about anyone into a dev
 
 _http://my.safaribooksonline.com/book/programming/android/9781449303495?cid=1107-bibilio-android-link[See it on Safari Online Books]_
 
+=== App Inventor
+
+_O'Reilly Media_
+_By David Wolber, Hal Abelson, Ellen Spertus & Liz Looney_
+_ISBN: 9781449397487_
+_April 2011_
+_$39.99 US_
+_384 pages_
+
+You can create your own apps for Android phones—and it's easy to do. This extraordinary book introduces App Inventor for Android, a powerful visual tool that lets anyone build apps for Android-based devices. Learn the basics of App Inventor with step-by-step instructions for more than a dozen fun projects, such as creating location-aware apps, data storage, and apps that include decision-making logic.
+
+_http://techbus.safaribooksonline.com/book/-/9781449306786[Read it on Safari Online Books]_
+
 === AppInventor Fundamentals
 
 _Addison-Wesley Professional_
