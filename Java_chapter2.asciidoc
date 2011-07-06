@@ -74,65 +74,79 @@ This edition of Robert Sedgewick's popular work provides current and comprehensi
 
 _http://my.safaribooksonline.com/book/programming/java/9780201361209?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
-Object-oriented Programming Using C++ and Java
-Pearson Education India
-By Ramesh Vasappanavara; Gautam Vasappanavara; Anand Vasappanavara
-Pearson Education India
-ISBN: 9788131754559
-May 2011
-500 pages
+=== Object-oriented Programming Using C++ and Java
+
+_Pearson Education India_
+_By Ramesh Vasappanavara, Gautam Vasappanavara & Anand Vasappanavara_
+_Pearson Education India_
+_ISBN: 9788131754559_
+_May 2011_
+_500 pages_
 
 This book offers contemporary, comprehensive and in-depth coverage of all the concepts of object-oriented technologies, with an emphasis on problem-solving approaches as applied to C++ and Java Programming paradigms.
 
+_http://my.safaribooksonline.com/book/programming/java/9788131754559?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
-Java and XML, Third Edition
-O'Reilly Media
-By Brett McLaughlin, Justin Edelson 
-ISBN: 9780596101497
-December 2006
-480 pages
-$49.99 US
+=== Java and XML, Third Edition
+
+_O'Reilly Media_
+_By Brett McLaughlin & Justin Edelson_ 
+_ISBN: 9780596101497_
+_December 2006_
+_$49.99 US_
+_480 pages_
 
 This third edition covers all major Java XML processing libraries, including full coverage of the SAX, DOM, StAX, JDOM, and dom4j APIs as well as the latest version of the Java API for XML Processing (JAXP) and Java Architecture for XML Binding (JAXB). The chapters on web technology have been entirely rewritten to focus on the today's most relevant topics: syndicating content with RSS and creating Web 2.0 applications.  If you are developing with Java and need to use XML, or think that you will be in the future; if you're involved in the new peer-to-peer movement, messaging, or web services; or if you're developing software for electronic commerce, this book will be an indispensable companion.
 
+_http://my.safaribooksonline.com/book/programming/java/9780596101497?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
-Program Development in Java: Abstraction, Specification, and Object-Oriented Design
-Addison-Wesley Professional
-By Barbara Liskov; John Guttag
-ISBN: 9780201657685
-June 2000
-464 pages
-$69.99
+=== Program Development in Java: Abstraction, Specification, and Object-Oriented Design
+
+_Addison-Wesley Professional_
+_By Barbara Liskov & John Guttag_
+_ISBN: 9780201657685_
+_June 2000_
+_$69.99 US_
+_464 pages_
 
 Written by a world-renowned expert on programming methodology, and the winner of the 2008 Turing Award, this book shows how to build production-quality programs--programs that are reliable, easy to maintain, and quick to modify. Its emphasis is on modular program construction: how to get the modules right and how to organize a program as a collection of modules. The book presents a methodology effective for either an individual programmer, who may be writing a small program or a single module in a larger one; or a software engineer, who may be part of a team developing a complex program comprised of many modules. Both audiences will acquire a solid foundation for object-oriented program design and component-based software development from this methodology. The Java programming language is used for the book's examples. However, the techniques presented are language independent, and an introduction to key Java concepts is included for programmers who may not be familiar with the language.
 
+_http://my.safaribooksonline.com/book/programming/java/9780201657685?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
-Java™ Puzzlers: Traps, Pitfalls, and Corner Cases
-Addison-Wesley Professional
-By Joshua Bloch; Neal Gafter
-ISBN: 9780321336781
-June 2005
-312 pages
-$44.99
+=== Java Puzzlers: Traps, Pitfalls, and Corner Cases
+
+_Addison-Wesley Professional_
+_By Joshua Bloch & Neal Gafter_
+_ISBN: 9780321336781_
+_June 2005_
+_$44.99 US_
+_312 pages_
 
 In this book Bloch and Gafter dive deep into the subtleties of the Java programming language and its core libraries. Illustrated with visually stunning optical illusions, the book features 95 diabolical puzzles that educate and entertain. Anyone with a working knowledge of Java will understand the puzzles, but even the most seasoned veteran will find them challenging. The solutions go well beyond a simple explanation of the program's behavior--they show you how to avoid the underlying traps and pitfalls for good. A handy catalog of traps and pitfalls at the back of the book provides a concise taxonomy for future reference. Solve these puzzles and you'll never again fall prey to the counterintuitive or obscure behaviors that can fool even the most experienced programmers.
 
+_http://my.safaribooksonline.com/book/programming/java/9780321336781?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
-Thinking Recursively with Java
-John Wiley & Sons
-By Eric Roberts
-ISBN: 9780471701460
-November 2005
-187 pages
+=== Thinking Recursively with Java
+
+_John Wiley & Sons_
+_By Eric Roberts_
+_ISBN: 9780471701460_
+_November 2005_
+_$44.54 US_
+_187 pages_
 
 To provide students with a more effective treatment of this difficult topic, John Wiley and Sons, Inc. published Thinking Recursively by Eric Roberts. Since its publication in 1986, Thinking Recursively has become a classic in a field in which books quickly become obsolete. By focusing on effective problem-solving strategies that enable students to "think recursively," this text has helped many students over the conceptual hurdle that recursion so often represents. To celebrate the 20th anniversary of its initial publication, John Wiley and Sons is publishing Thinking Recursively with Java, making the book even more relevant to today's students.
 
+_http://my.safaribooksonline.com/book/programming/java/9780471701460?cid=1107-bibilio-java-link[Read it on Safari Books Online]_
 
-Java 6™ New Features: A Tutorial
-Brainy Software
-By Budi Kurniawan
-ISBN: 9780975212882
-October 2006
-320 pages
+=== Java 6 New Features: A Tutorial
+
+_Brainy Software_
+_By Budi Kurniawan_
+_ISBN: 9780975212882_
+_October 2006_
+_320 pages_
 
 For seasoned Java programmers who want to stay up to date on the latest Java tools, this guide discusses the new features of Java 6. This handbook to the new version includes updated information on Web services, a JavaScript engine that allows access to information in a Java program, JDBC 4.0, JAXB 2.0, XML digital signature APIs, more sophisticated Swing components, and improvements in Java 2D that includes a GIF image writer.
+
+_http://my.safaribooksonline.com/book/programming/java/9780975212882?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
