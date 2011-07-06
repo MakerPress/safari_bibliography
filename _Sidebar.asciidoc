@@ -1,8 +1,8 @@
 [[ http://my.safaribooksonline.com/static/201107-2197-my/images/6.0/logo_sbo.gif ]]
 [[http://oreilly.com/images/oreilly/tarsier.gif]]
 
-= Safari Bibliographies
-These are 4 topic-focused bibliographies for Safari Books online.  We want to distribute these as ebooks and maybe print at OSCON.
+= Safari Pocket Bibliographies
+These are 5 topic-focused bibliographies for Safari Books online.  We want to distribute these as ebooks and maybe print at OSCON.
  
 == Useful Links
 * [[Home / TOC |home]]
