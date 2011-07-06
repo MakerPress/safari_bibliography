@@ -1,7 +1,7 @@
 Here are the books so far.  We'll need to create individual book.asc files for eacj and then generate the docs from that. 
 
-* [[Python Bibliography | python]]
-* [[Android Bibliography | android]]
-* [[iOS Bibliography | iOS]]
-* [[JavaScript Bibliography | JavaScript]]
-* [[Java Bibliography | Java]]
+* [[Python Pocket Bibliography | python]]
+* [[Android Pocket Bibliography | android]]
+* [[iOS Pocket Bibliography | iOS]]
+* [[JavaScript Pocket Bibliography | JavaScript]]
+* [[Java Pocket Bibliography | Java]]
