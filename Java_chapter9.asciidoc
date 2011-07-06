@@ -13,6 +13,7 @@ _320 pages_
 This example-driven book offers a thorough introduction to Java's APIs for XML Web Services (JAX-WS) and RESTful Web Services (JAX-RS). This book takes a clear, pragmatic approach to these technologies by providing a mix of architectural overview, complete working code examples, and short yet precise instructions for compiling, deploying, and executing an application. You'll learn how to write web services from scratch and integrate existing services into your Java applications. Ideal for students as well as experienced programmers, this book is the concise guide you need to start working with these technologies right away.
 
 _http://my.safaribooksonline.com/book/programming/java/9780596521127?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
+
 === Java SOA Cookbook
 
 _O'Reilly Media_
