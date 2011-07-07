@@ -51,3 +51,16 @@ _192 pages_
 How many times have you reached an impasse while writing code because you couldn't remember how something in Java worked? This new pocket guide is designed to keep you moving. Concise, convenient and easy to use, this book gives you Java stripped down to its bare essentials -- in fact, it's the only book on Java that you can actually fit in your pocket. Written by Robert and Patricia Liguori, senior software and lead information engineers for Java-based air traffic management and simulation environments, this book contains everything you really need to know about Java, particularly everything you need to remember. 
 
 _http://my.safaribooksonline.com/book/programming/java/9780596514198?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
+
+=== Java Generics and Collections
+
+_O'Reilly Media_
+_By Maurice Naftalin & Philip Wadler_
+_ISBN: 9780596527754_
+_October 2006_
+_$34.99 US_
+_288 pages_
+
+This comprehensive guide shows you how to master the most important changes to Java since it was first released. Generics and the greatly expanded collection libraries have tremendously increased the power of Java 5 and Java 6. But they have also confused many developers who haven't known how to take advantage of these new features. This book covers everything from the most basic uses of generics to the strangest corner cases. It teaches you everything you need to know about the collections libraries, so you'll always know which collection is appropriate for any given task, and how to use it.
+
+_http://my.safaribooksonline.com/book/programming/java/9780596527754?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
