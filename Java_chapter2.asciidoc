@@ -40,19 +40,6 @@ This book introduces Ant and how to use it for test-driven Java application deve
 
 _http://my.safaribooksonline.com/book/programming/java/9781932394801?cid=1107-bibilio-java-link[Read it on Safari Books Online]_
 
-=== Maven: The Definitive Guide, First Edition
-
-_O'Reilly Media_
-B_y Sonatype Company_
-_ISBN: 9780596517335_
-_September 2008_
-_$34.99 US_
-_480 pages_
-
-For too long, developers have worked on disorganized application projects, where every part seemed to have its own build system, and no common repository existed for information about the state of the project. Now there's help. The long-awaited official documentation to Maven is here. Written by Maven creator Jason Van Zyl and his team at Sonatype, this book clearly explains how this tool can bring order to your software development projects. Maven is largely replacing Ant as the build tool of choice for large open source Java projects because, unlike Ant, Maven is also a project management tool that can run reports, generate a project website, and facilitate communication among members of a working team. This book will help you manage development projects for software, web applications, and enterprise applications. And it comes straight from the source.
-
-_http://my.safaribooksonline.com/book/programming/java/9780596517335?cid=1107-bibilio-java-link[Read it on Safari Books Online]_
-
 === Building and Testing with Gradle
 
 _O'Reilly Media_
@@ -141,15 +128,3 @@ _187 pages_
 To provide students with a more effective treatment of this difficult topic, John Wiley and Sons, Inc. published Thinking Recursively by Eric Roberts. Since its publication in 1986, Thinking Recursively has become a classic in a field in which books quickly become obsolete. By focusing on effective problem-solving strategies that enable students to "think recursively," this text has helped many students over the conceptual hurdle that recursion so often represents. To celebrate the 20th anniversary of its initial publication, John Wiley and Sons is publishing Thinking Recursively with Java, making the book even more relevant to today's students.
 
 _http://my.safaribooksonline.com/book/programming/java/9780471701460?cid=1107-bibilio-java-link[Read it on Safari Books Online]_
-
-=== Java 6 New Features: A Tutorial
-
-_Brainy Software_
-_By Budi Kurniawan_
-_ISBN: 9780975212882_
-_October 2006_
-_320 pages_
-
-For seasoned Java programmers who want to stay up to date on the latest Java tools, this guide discusses the new features of Java 6. This handbook to the new version includes updated information on Web services, a JavaScript engine that allows access to information in a Java program, JDBC 4.0, JAXB 2.0, XML digital signature APIs, more sophisticated Swing components, and improvements in Java 2D that includes a GIF image writer.
-
-_http://my.safaribooksonline.com/book/programming/java/9780975212882?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
