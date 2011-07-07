@@ -14,18 +14,18 @@ Threads are a fundamental part of the Java platform. As multicore processors bec
 
 _http://my.safaribooksonline.com/book/programming/java/9780321349606?cid=1107-bibilio-java-link[Read in Safari Books Online]_
 
-=== Java Threads, 3rd Edition
+=== Java Threads, Third Edition
 
 _O'Reilly Media_
-_Scott Oaks & Henry Wong_
-_ISBN: 9780596007829
-_September 2004
+_By Scott Oaks & Henry Wong_
+_ISBN: 9780596007829_
+_September 2004_
 _$39.95 US_
 _360 pages_
 
-Threads are essential to Java programming, but learning to use them effectively is a nontrivial task. This updated edition of the classic Java Threads shows you how to take full advantage of Java's threading facilities and brings you up-to-date with the watershed changes in Java 2 Standard Edition version 5.0 (J2SE 5.0). It provides a thorough, step-by-step approach to threads programming.
+Threads are essential to Java programming, but learning to use them effectively is a nontrivial task. This new edition shows you how to take full advantage of Java's threading facilities and brings you up-to-date with the watershed changes in Java 2 Standard Edition version 5.0 (J2SE 5.0). It provides a thorough, step-by-step approach to threads programming. Java's threading system is simple relative to other threading systems. In earlier versions of Java, this simplicity came with tradeoffs: some of the advanced features in other threading systems were not available in Java. J2SE 5.0 changes all that: it provides a large number of new thread-related classes that make the task of writing multithreaded programs that much easier. You'll learn where to use threads to increase efficiency, how to use them effectively, and how to avoid common mistakes. This book discusses problems like deadlock, race conditions, and starvation in detail, helping you to write code without hidden bugs. 
 
-_http://techbus.safaribooksonline.com/book/programming/java/0596007825[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/java/9780596007829?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Java Power Tools
 
