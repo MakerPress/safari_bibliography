@@ -65,3 +65,16 @@ _608 pages_
 This book  is a hands-on guide to implementing Web services and Service Oriented Architecture (SOA) with today’s Java EE 5 and Java SE 6 platforms. Author Mark Hansen presents in explicit detail the information that enterprise developers and architects need to succeed, from best-practice design techniques to state-of-the-art code samples. Hansen covers creating, deploying, and invoking Web services that can be composed into loosely coupled SOA applications. He begins by reviewing the “big picture,” including the challenges of Java-based SOA development and the limitations of traditional approaches. Next, he systematically introduces the latest Java Web Services (JWS) APIs and walks through creating Web services that integrate into a comprehensive SOA solution. Finally, he shows how application frameworks based on JWS can streamline the entire SOA development process and introduces one such framework: SOA-J.
 
 _http://my.safaribooksonline.com/book/programming/java/9780130449689?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
+
+=== RESTful Web Services
+
+_Leonard Richardson & Sam Ruby_
+_O'Reilly Media_
+_ISBN: 9780596529260_
+_May 2007_
+_$39.99 US_
+_448 pages_
+
+You've built web sites that can be used by humans. But can you also build web sites that are usable by machines? That's where the future lies, and that's what RESTful Web Services shows you how to do. The World Wide Web is the most popular distributed application in history, and Web services and mashups have turned it into a powerful distributed computing platform. But today's web service technologies have lost sight of the simplicity that made the Web successful. They don't work like the Web, and they're missing out on its advantages. This book puts the "Web" back into web services. It shows how you can connect to the programmable web with the technologies you already use every day. The key is REST, the architectural style that drives the Web.
+
+_http://techbus.safaribooksonline.com/book/web-development/web-services/9780596529260[Read it on Safari Online Books]_
