@@ -143,3 +143,15 @@ _432 pages_
 The Java platform provides a broad and powerful set of APIs, tools, and technologies. One of its most powerful capabilities is the built-in support for threads. This makes concurrent programming an attractive yet challenging option for programmers using the Java programming language. This book shows readers how to use the Java platform's threading model more precisely by helping them to understand the patterns and tradeoffs associated with concurrent programming. You will learn how to initiate, control, and coordinate concurrent activities using the class java.lang.Thread, the keywords synchronized and volatile, and the methods wait, notify, and notifyAll. In addition, you will find detailed coverage of all aspects of concurrent programming, including such topics as confinement and synchronization, deadlocks and conflicts, state-dependent action control, asynchronous message passing and control flow, coordinated interaction, and structuring web-based and computational services.
 
 _http://my.safaribooksonline.com/book/programming/java/9780201310092?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
+
+=== Java Threads, 3rd Edition
+
+_O'Reilly Media_
+_Scott Oaks & Henry Wong_
+_ISBN: 9780596007829
+_September 2004
+_$39.95 US_
+_360 pages_
+
+Threads are essential to Java programming, but learning to use them effectively is a nontrivial task. This updated edition of the classic Java Threads shows you how to take full advantage of Java's threading facilities and brings you up-to-date with the watershed changes in Java 2 Standard Edition version 5.0 (J2SE 5.0). It provides a thorough, step-by-step approach to threads programming.
+
