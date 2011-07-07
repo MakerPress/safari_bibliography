@@ -79,19 +79,6 @@ This book gives you the hands-on practice and deep insight you need to fully lev
 
 _http://my.safaribooksonline.com/book/programming/java/9780321630483?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
-=== Internet Multimedia Communications Using SIP: A Modern Approach Including Java Practice
-
-_Morgan Kaufmann_
-_By Rogelio Martinez Perea_
-_ISBN: 9780123743008_
-_January 2008_
-_$83.95 US_
-_600 pages_
-
-Session Initiation Protocol (SIP) was conceived in 1996 as a signaling protocol for inviting users to multimedia conferences. Internet telephony and, in general, Internet multimedia, is the new revolution today and SIP is the key protocol which allows this revolution to grow. This book explains, in tutorial fashion, the underlying technologies that enable real-time IP multimedia communication services in the Internet (voice, video, presence, instant messaging, online picture sharing, white-boarding, etc). Focus is on session initiation protocol (SIP) but also covers session description protocol (SDP), Real-time transport protocol (RTP), and message session relay protocol (MSRP). The book includes discussion of leading edge theory (which is key to really understanding the technology) accompanied by Java examples that illustrate the theoretical concepts. Throughout the book, in addition to the code snippets, the reader is guided to build a simple but functional IP soft-phone therefore demonstrating the theory with practical examples.
-
-_http://my.safaribooksonline.com/book/programming/java/9780123743008?cid=1107-bibilio-java-link[Read it on Safari Books Online]_
-
 === Real-Time Java Programming with Java RTS
 
 _Prentice Hall_
