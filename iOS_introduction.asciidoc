@@ -1,7 +1,7 @@
 == iOS Introduction
 
 
-Since the release of the iOS SDK in in 2008, there have been over 500,000 apps submitted to the App Store.   The developers of these apps are the ones responsible for the rapid innovation in the mobile space.  It's this innovation that makes the future of iOS extremely exciting.
+Since the release of the iOS SDK in in 2008, there have been over 425,000 apps in the App Store.   The developers of these apps are the ones responsible for the rapid innovation in the mobile space.  It's this innovation that makes the future of iOS extremely exciting.
 
 The iOS SDK originally allowed Objective-C developers to create applications for the iPhone and iPod Touch.  Developers took advantage of hardware features such as location, the accelerometer, camera, bluetooth, multi-touch, etc., which led to many new innovative mobile apps.  iOS developers were then introduced to a new form factor and all new possibilities with the release of the iPad in 2010.  
 
