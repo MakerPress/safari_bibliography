@@ -1,7 +1,7 @@
 == Class Libraries
 
 
-== Data Structures and the Java Collections Framework, Third Edition
+=== Data Structures and the Java Collections Framework, Third Edition
 
 _John Wiley & Sons_
 _By William J. Collins_
@@ -39,19 +39,6 @@ _288 pages_
 This comprehensive guide shows you how to master the most important changes to Java since it was first released. Generics and the greatly expanded collection libraries have tremendously increased the power of Java 5 and Java 6. But they have also confused many developers who haven't known how to take advantage of these new features. This book covers everything from the most basic uses of generics to the strangest corner cases. It teaches you everything you need to know about the collections libraries, so you'll always know which collection is appropriate for any given task, and how to use it.
 
 _http://my.safaribooksonline.com/book/programming/java/9780596527754?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
-
-=== Java Threads, Third Edition
-
-_O'Reilly Media_
-_By Scott Oaks & Henry Wong_
-_ISBN: 9780596007829_
-_September 2004_
-_$39.95 US_
-_360 pages_
-
-Threads are essential to Java programming, but learning to use them effectively is a nontrivial task. This new edition shows you how to take full advantage of Java's threading facilities and brings you up-to-date with the watershed changes in Java 2 Standard Edition version 5.0 (J2SE 5.0). It provides a thorough, step-by-step approach to threads programming. Java's threading system is simple relative to other threading systems. In earlier versions of Java, this simplicity came with tradeoffs: some of the advanced features in other threading systems were not available in Java. J2SE 5.0 changes all that: it provides a large number of new thread-related classes that make the task of writing multithreaded programs that much easier. You'll learn where to use threads to increase efficiency, how to use them effectively, and how to avoid common mistakes. This book discusses problems like deadlock, race conditions, and starvation in detail, helping you to write code without hidden bugs. 
-
-_http://my.safaribooksonline.com/book/programming/java/9780596007829?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
 === Java Swing, Second Edition
 
