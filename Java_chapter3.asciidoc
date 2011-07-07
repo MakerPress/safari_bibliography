@@ -92,19 +92,6 @@ Sun Microsystems’ Java Real-Time System (Java RTS) is proving itself in numero
 
 _http://my.safaribooksonline.com/book/programming/java/9780137153626?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
-=== Java Performance Tuning, 2nd Edition
-
-_O'Reilly Media_
-_By Jack Shirazi_
-_ISBN: 9780596003777_
-_January 2003_
-_$49.99 US_
-_592 pages_
-
-Performance has been an important issue for Java developers ever since the first version hit the streets. Over the years, Java performance has improved dramatically, but tuning is essential to get the best results, especially for J2EE applications. You can never have code that runs too fast. This 2nd edition book provides a comprehensive and indispensable guide to eliminating all types of performance problems. Using many real-life examples to work through the tuning process in detail, JPT shows how tricks such as minimizing object creation and replacing strings with arrays can really pay off in improving your code's performance. This book teaches you to work efficiently and effectively, resulting in code that is robust, maintainable, and fast.
-
-_http://my.safaribooksonline.com/book/programming/java/0596003773?cid=1107-biblio-java-link[Read it on Safari Online Books]_
-
 === Filthy Rich Clients: Developing Animated and Graphical Effects for Desktop Java Applications
 
 _Prentice Hall_
