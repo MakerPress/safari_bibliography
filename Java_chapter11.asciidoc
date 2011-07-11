@@ -204,7 +204,7 @@ Learn how to code, package, deploy, and test functional Enterprise JavaBeans wit
 
 _http://my.safaribooksonline.com/book/programming/java/9780596158026?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
 
-===Eclipse Web Tools Platform: Developing Java™ Web Applications
+=== Eclipse Web Tools Platform: Developing Java Web Applications
 
 _Addison-Wesley Professional_
 _By Naci Dai, Lawrence Mandel & Arthur Ryman_
