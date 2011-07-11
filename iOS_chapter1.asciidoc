@@ -367,3 +367,7 @@ _$39.99 US_
 _704 pages_
 
 This book is an accessible guide to iPhone development for every programmer, regardless of experience, completely updated for the new version 4 of the iPhone SDK. In just 24 lessons of one hour or less this book will help beginning iPhone and mobile developers gain true mastery, so they can construct virtually any iPhone application. Each lesson builds on everything that's come before, helping you learn all you need to know without ever becoming overwhelmed. By the time you are finished you'll be comfortable enough to write real-world apps that sell.
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
