@@ -9,7 +9,7 @@ _December 2010_
 _$49.99 US_
 _365 pages_
 
-This book gives you everything you need to know about network programming using Python 3, the latest version of the Python language. It will benefit both scripters and serious application developers who want a feature-rich, yet simple language. Fully updated, this second edition includes all the new developments in network programming such as WSGI, FastCGI, and asynchronous communication. This book covers multitasking network servers using several models, including forking, threading, and non-blocking sockets. Extensive examples throughout the book demonstrate important concepts and practices, and provide a cadre of fully-functioning stand alone programs. Readers may even use the examples included as building blocks to create their own software.
+This book gives you everything you need to know about network programming using Python 3, the latest version of the Python language. It will benefit both scripters and serious application developers who want a feature-rich, yet simple language. Fully updated, this second edition includes all the new developments in network programming such as WSGI, FastCGI, and asynchronous communication. This book covers multitasking network servers using several models, including forking, threading, and non-blocking sockets. Extensive examples throughout the book demonstrate important concepts and practices, and provide a cadre of fully-functioning stand alone programs. Readers may even use the included examples as building blocks to create their own software.
 
 _http://my.safaribooksonline.com/book/programming/python/9781430230038?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
 
