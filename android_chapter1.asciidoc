@@ -168,3 +168,7 @@ _$24.99 US_
 _100 pages_
 
 Google's Android Mobile operating system has exploded on the scene and is on its way to become the top mobile operating system. In Rags to Robots you will learn how Android works, how to get started developing applications, explore the vast android library and learn how to publish your application to the various Android Marketplaces.
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
