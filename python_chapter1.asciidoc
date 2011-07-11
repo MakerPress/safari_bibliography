@@ -154,4 +154,6 @@ Python is a remarkably powerful dynamic programming language that is used in a w
 
 _http://my.safaribooksonline.com/book/programming/python/9780321590985?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
 
+****
 Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
