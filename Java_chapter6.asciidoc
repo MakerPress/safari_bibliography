@@ -67,7 +67,7 @@ _http://my.safaribooksonline.com/book/programming/java/9781933988931?cid=1107-bi
 === Groovy in Action
 
 _Manning Publications_
-_by Dierk Koenig, Andrew Glover, Paul King, Guillaume Laforge & Jon Skeet
+_by Dierk Koenig, Andrew Glover, Paul King, Guillaume Laforge & Jon Skeet_
 _ISBN: 9781932394849_
 _January 2007_
 _$49.99 US_
