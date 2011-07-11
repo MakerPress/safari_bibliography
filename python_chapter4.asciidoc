@@ -269,3 +269,7 @@ _Forthcoming_
 
 _O'Reilly Media_
 _Forthcoming_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
