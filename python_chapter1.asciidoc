@@ -137,7 +137,7 @@ _March 2010_
 _$54.99 US_
 _544 pages_
 
-This book provides a general overview of the Jython language itself, but it also includes intermediate and advanced topics regarding database, web, and GUI applications; Web services/SOA; and integration, concurrency, and parallelism, to name a few.
+This book provides a general overview of the Jython language. It also includes intermediate and advanced topics, such as the database, web, GUI applications, Web services, SOA, integration, concurrency, and parallelism, to name a few.
 
 _http://my.safaribooksonline.com/book/programming/python/9781430225270?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
 
@@ -150,6 +150,6 @@ _December 2008_
 _$24.99 US_
 _192 pages_
 
-Python is a remarkably powerful dynamic programming language that is used in a wide variety of application domains such as Web, database access, desktop GUIs, game and software development, and network programming. Fans of Python use the phrase "batteries included" to describe the standard library, which covers everything from asynchronous processing to zip files. The language itself is a flexible powerhouse that can handle practically any application domain. This task-based tutorial is for students with no programming experience as well as those programmers who have some experience with the programming language and now want to take their skills to the next level. The book walks a reader through all the fundamentals and then moves on to more advanced topics. It's a complete end-to-end tutorial and reference.
+Python is a remarkably powerful dynamic programming language that is used in a wide variety of application domains such as Web, database access, desktop GUIs, game and software development, and network programming. Fans of Python use the phrase "batteries included" to describe the standard library, which covers everything from asynchronous processing to zip files. The language itself is a flexible powerhouse that can handle practically any application domain. This task-based tutorial is for students with no programming experience as well as those programmers who have some experience with the programming language and now want to take their skills to the next level. The book walks a reader through all the fundamentals and then moves on to more advanced topics. It's a complete end-to-end Python tutorial and reference.
 
 _http://my.safaribooksonline.com/book/programming/python/9780321590985?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
