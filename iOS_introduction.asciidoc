@@ -5,11 +5,9 @@ Since the release of the iOS SDK in 2008, there have been over 425,000 apps in t
 
 The iOS SDK originally allowed Objective-C developers to create applications for the iPhone and iPod Touch.  Developers took advantage of hardware features such as location, the accelerometer, camera, bluetooth, multi-touch, and so on, which led to many new innovative mobile apps.  iOS developers were then introduced to a new form factor and all new possibilities with the release of the iPad in 2010.  
 
-The upcoming release of iOS 5 brings over 1,500 new APIs for developers.  There's iCloud, which will allow developers to sync documents and data to your user's computers automatically.  AirPlay will allow iOS deveices to enhance the application experience by using the Apple TV or other AirPlay compatible devices.  You can pipe audio or video to the Apple TV or enhance the experience on your device by using the Apple TV to output to a second screen.   
+The upcoming release of iOS 5 brings over 1,500 new APIs for developers.  There's iCloud, which will allow developers to sync documents and data to your user's computers automatically.  AirPlay will allow iOS deveices to enhance the application experience by using the Apple TV or other AirPlay compatible devices.  You can pipe audio or video to the Apple TV or enhance the experience on your device by using the Apple TV to output to a second screen.   Apple may one day allow developers to create applications specifically for the Apple TV.  
 
-The Apple TV is also another device that runs on iOS.  Apple may one day allow developers to create applications specifically for the Apple TV.  This would open up many new possibilities for developers.
-
-The release of Mac OS X Lion also lets us know that Apple is moving parts of iOS to the desktop.  The new application launcher, Launchpad, is copied over from iOS.  There's also more support for multi-touch gestures on the desktop with Lion. 
+With the release of Mac OS X Lion we've seen how Apple is moving parts of iOS to the desktop.  The new application launcher, Launchpad, is copied over from iOS.  There's also more support for multi-touch gestures on the desktop with Lion. 
 
 It's only been three years since the release of the iOS SDK.  As the number of iOS developers grow, so will the number of exciting new apps and possibilities. It'll be interesting to look back on iOS in another three years.
 
