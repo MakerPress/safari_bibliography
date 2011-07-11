@@ -228,3 +228,7 @@ _258 pages_
 Thanks to improved web browser support and the advent of HTML5, JavaScript now plays a major role in programming high-performance web graphics. This hands-on book shows you how to create rich web applications for big-screen computers and small-screen mobile devices using JavaScript, jQuery, DHTML, and HTML5's Canvas element—without plugins. By following real-world examples, experienced web developers will learn fun and useful approaches to arcade games, DHTML effects, business dashboards, and more. This book provides a gentle learning curve by serving complex subjects in easily digestible pieces, with each topic acting as a foundation for the next. Learn how to take advantage of JavaScript's growing power and speed to build a new generation of user experiences.
 
 _http://my.safaribooksonline.com/book/programming/javascript/9781449393632?cid=1107-bibilio-jscript-link[Read it on Safari Books Online]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
