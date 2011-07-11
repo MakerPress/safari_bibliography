@@ -154,3 +154,7 @@ _348 pages_
 Java and databases make a powerful combination. Getting the two sides to work together, however, takes some effort--largely because Java deals in objects while most databases do not. This book describes the standard Java interfaces that make portable object-oriented access to relational databases possible and offers a robust model for writing applications that are easy to maintain. It introduces the JDBC and RMI packages and uses them to develop three-tier applications (applications divided into a user interface, an object-oriented logic component, and an information store). The book's key contribution is a set of patterns that let developers isolate critical tasks like object creation, information storage and retrieval, and the committing or aborting of transactions.
 
 _http://my.safaribooksonline.com/book/programming/java/9781565926165?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
