@@ -75,3 +75,7 @@ _$39.99 US_
 _320 pages_
 
 Got a good game idea? Turn your concept into a hot game app for iPhone, iPad, or iPod touch with this do-it-yourself guide. This book helps you build multitouch games that take full advantage of iOS 4, and shows you how to prepare your app for the App Store. Create your first game with just 20 lines of code, then learn how to add graphics, sound effects, and key game algorithms. This book helps you explore practical game examples for iOS devices.
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
