@@ -26,6 +26,7 @@ _928 pages_
 Direct from the creators of the Java programming language, this completely revised fourth edition is an indispensable resource for novice and advanced programmers alike. Developers around the world have used previous editions to quickly gain a deep understanding of the Java programming language, its design goals, and how to use it most effectively in real-world development. Now, Ken Arnold, James Gosling, and David Holmes have updated this classic to reflect the major enhancements in Java™ 2 Standard Edition 5.0 (J2SE™ 5.0). The authors systematically cover most classes in Java’s main packages, java.lang.*, java.util, and java.io, presenting in-depth explanations of why these classes work as they do, with informative examples. Several new chapters and major sections have been added, and every chapter has been updated to reflect today’s best practices for building robust, efficient, and maintainable Java software.
 
 _http://my.safaribooksonline.com/book/programming/java/9780321349804?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
+
 === Java Cookbook, Second Edition
 
 _O'Reilly Media_
