@@ -71,3 +71,7 @@ _$19.99 US_
 _50 pages_
 
 Augmented Reality has become one of the killer applications for the iOS platform. This book not only walks you through building a simple location-aware AR toolkit, but delves deeper still to look at computer vision and AR. By the end you'll be left with a set of tools and libraries that you can extend and reuse in your own projects and iPhone applications.
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
