@@ -102,3 +102,7 @@ _312 pages_
 In this book, readers will learn to how manage iOS in business settings, from small to large, using Apple's iOS configuration and management utilities. The first half of the book provides a strong foundation of managing iOS devices, looking at the various methods of management, from the simple to the complex. The second half of the book covers advanced topics, such as server setup.
 
 _http://my.safaribooksonline.com/book/programming/iphone/9780132736015?cid=1107-bibilio-ios-link#taboptions[Read it on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
