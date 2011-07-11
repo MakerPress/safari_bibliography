@@ -102,3 +102,7 @@ _$29.99 US_
 _250 pages_
 
 This introductory tutorial shows you how to use the jQuery Mobile library to build websites and apps for touch devices such as iPhone, iPad, Android, and BlackBerry. Learn the best way to apply this library's many interface components through a series of hands-on exercises. By the end of the book, you'll have built a complete working mobile application for multiple smartphone and tablet platforms using Web 2.0 APIs and semantic HTML5 code ready for app store distribution. You don’t need programming skills or previous experience with jQuery or HTML5 to get started. This book shows you exactly what you need to know.
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
