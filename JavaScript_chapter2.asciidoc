@@ -180,7 +180,7 @@ _http://my.safaribooksonline.com/book/programming/javascript/9781449308216?cid=1
 
 === JavaScript Testing Beginner's Guide : Test and Debug JavaScript the Easy Way
 
-_Packt Publishing _
+_Packt Publishing_
 _By Liang Yuxian Eugene_
 _ISBN: 9781849510004_
 _August 2010_
