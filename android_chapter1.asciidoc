@@ -137,11 +137,6 @@ You can create your own apps for Android phones—and it's easy to do. This extr
 
 _http://techbus.safaribooksonline.com/book/-/9781449306786[Read it on Safari Online Books]_
 
-=== AppInventor Fundamentals
-
-_Addison-Wesley Professional_
-_Coming 2012_
-
 === Head First Android Development
 
 _O'Reilly Media_
