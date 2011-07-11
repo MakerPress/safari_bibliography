@@ -62,3 +62,7 @@ _368 pages_
 By the end of this book, you'll have the training, tools, and techniques for creating robust mobile web experiences on a wide array of platforms for your favorite smartphone or other mobile device.
 
 _http://my.safaribooksonline.com/book/programming/android/9781430226208?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
