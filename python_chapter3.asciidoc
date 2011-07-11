@@ -90,3 +90,7 @@ _264 pages_
 Create powerful and versatile Spring Python applications using pragmatic libraries and useful abstractions with this book. You will learn to maximize the use of Spring features in Python and develop impressive Spring Python applications. You will also explore the versatility of Spring Python by integrating it with frameworks, libraries, and tools, thus discovering the non-intrusive Spring way of wiring together Python components. Packed with hands-on-examples, case studies, and clear explanations, this book provides an introduction to Spring Python and steadily takes you towards the advanced features that this integration has to offer.
 
 _http://my.safaribooksonline.com/book/programming/python/9781849510660?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
