@@ -6,4 +6,7 @@ Even with technology's fast-moving pace, but Python remains on the cutting edge.
 
 Whether you are working on machine learning or just hacking in your spare time, Python has something for you.
 
+
+****
 Safari Books Online provides full access to all of the resources in this bibliography. A subscription to our “cloud library” gives you unlimited use of more than 16,000 books and videos. For a free trial, go to http://safaribooksonline.com/oscon11.
+****
