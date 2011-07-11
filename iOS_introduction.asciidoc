@@ -11,3 +11,7 @@ With the release of Mac OS X Lion we've seen how Apple is moving parts of iOS to
 
 It's only been three years since the release of the iOS SDK.  As the number of iOS developers grow, so will the number of exciting new apps and possibilities. It'll be interesting to look back on iOS in another three years.
 
+****
+Safari Books Online provides full access to all of the resources in this bibliography. A subscription to our “cloud library” gives you unlimited use of more than 16,000 books and videos. For a free trial, go to http://safaribooksonline.com/oscon11.
+****
+
