@@ -172,3 +172,7 @@ _ISBN: 978-0321792150_
 _August 2011_
 _$29.99_
 _160 pages_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
