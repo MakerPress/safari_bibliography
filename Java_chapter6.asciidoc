@@ -76,3 +76,7 @@ _696 pages_
 Groovy brings to Java many of the features that have made Ruby popular. Groovy in Action is a comprehensive guide to Groovy programming, introducing Java developers to the dynamic features that Groovy provides. To bring you Groovy in Action, Manning again went to the source by working with a team of expert authors including both members and the manager of the Groovy Project team. The result is the true definitive guide to the new Groovy language. Groovy in Action introduces Groovy by example, presenting lots of reusable code while explaining the underlying concepts. Java developers new to Groovy find a smooth transition into the dynamic programming world. Groovy experts gain a solid reference that challenges them to explore Groovy deeply and creatively.
 
 _http://techbus.safaribooksonline.com/book/programming/java/9781932394849[Read it on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
