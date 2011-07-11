@@ -279,7 +279,7 @@ _December 2011_
 _$34.99 US_
 _384 pages_
 
-This easy-to-follow book guides you through the development of your first iPhone, iPad, or iPod touch app. You learn the entire development process, from opening Xcode for the first time to submitting an application to the App Store. Ideal for beginning programmers, each chapter in Learning iOS 4 Programming is a self-contained lesson that helps you master the topic, with plenty of annotated examples, illustrations, and a concise summary.
+This easy-to-follow book guides you through the development of your first iPhone, iPad, or iPod touch app. You learn the entire development process, from opening Xcode for the first time to submitting an application to the App Store. Ideal for beginning programmers, each chapter is a self-contained lesson that helps you master the topic, with plenty of annotated examples, illustrations, and a concise summary.
 
 
 === Quick & Easy iPhone Programming
