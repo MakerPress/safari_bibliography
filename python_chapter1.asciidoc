@@ -153,3 +153,5 @@ _192 pages_
 Python is a remarkably powerful dynamic programming language that is used in a wide variety of application domains such as Web, database access, desktop GUIs, game and software development, and network programming. Fans of Python use the phrase "batteries included" to describe the standard library, which covers everything from asynchronous processing to zip files. The language itself is a flexible powerhouse that can handle practically any application domain. This task-based tutorial is for students with no programming experience as well as those programmers who have some experience with the programming language and now want to take their skills to the next level. The book walks a reader through all the fundamentals and then moves on to more advanced topics. It's a complete end-to-end Python tutorial and reference.
 
 _http://my.safaribooksonline.com/book/programming/python/9780321590985?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
