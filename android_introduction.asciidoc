@@ -5,3 +5,7 @@ Android is the top open source project for in the mobile space, powering million
 The future of Android looks bright. From smartphones to tablets to TVs, to home appliances and Machine-to-Machine (M2M), expect Android to power all of these, while grabbing a large segment of the mobile and embedded market. You can expect Android to enter emerging markets such as Africa via low-cost, Android-powered handsets, extending the reach and business opportunities to all Android developers.
 
 We have chosen a selection of popular books in this bibliography that span the spectrum of Android topics. We cover Android core application concepts, such as getting you up to speed with the Android SDK, using Eclipse, and creating your first Android application. We also cover how to use JavaScript, CSS3 and HTML5 to create mobile web applications that tap into native Android functionality.  Finally, for those ready to take on more advanced topics, we cover 2D and 3D gaming and communications, and using the Native Development Kit to tap into existing C and C++ programs. We even cover making money selling your applications. For these topics and more, dive into the this bibliography and join the Android movement. 
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. A subscription to our “cloud library” gives you unlimited use of more than 16,000 books and videos. For a free trial, go to http://safaribooksonline.com/oscon11.
+****
