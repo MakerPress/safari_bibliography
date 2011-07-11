@@ -38,3 +38,7 @@ _600 pages_
 Professional game development of complex 3D games is difficult and expensive, and it is beyond the reach of the individual developer. But there is also a class of games that a single developer can easily build using only Java/Dalvik and the standard APIs offered by the Android SDK. This book provides the knowledge and example code that will allow a relatively junior Android developer to develop their own games in Java and XML. It will also show you how to make your game available for download on Android Market.
 
 _http://my.safaribooksonline.com/book/programming/android/9780132711913?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
