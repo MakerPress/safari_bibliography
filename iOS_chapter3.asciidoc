@@ -22,7 +22,7 @@ _July 2011_
 _552 pages_
 (not for sale in US or Canada)
 
-This book is a concise, carefully written tutorial on the basics of Objective-C and object-oriented programming for the iOS and Mac platforms. The book makes no assumptions about prior experience with object-oriented programming languages or with the C language (which Objective-C is based upon). Readers can learn the concepts of object-oriented programming without having to first learn all of the intricacies of the underlying procedural language (C). This unique approach to learning, combined with many small program examples and exercises at the end of each chapter (this book uses Xcode 4), makes this book ideally suited for either classroom use or self-study. 
+This book is a concise, carefully written tutorial on the basics of Objective-C and object-oriented programming for the iOS and Mac platforms. The book makes no assumptions about prior experience with object-oriented programming languages or with the C language (which Objective-C is based upon). Readers can learn the concepts of object-oriented programming without having to first learn all of the intricacies of the underlying procedural language. This unique approach to learning, combined with many small program examples and exercises at the end of each chapter (this book uses Xcode 4), makes this book ideally suited for either classroom use or self-study. 
 
 
 === Programming in Objective-C 2.0 LiveLessons, Part I: Language Fundamentals and Part II: iPhone Programming and the Foundation Fra (video)
