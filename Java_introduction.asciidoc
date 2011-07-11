@@ -5,3 +5,8 @@ In the early 1990s, a team of developers at Sun Microsystems, led by James Gosli
 Open source software projects have used Java extensively to create some of the world's most popular software libraries. These libraries have likely been one of the driving forces behind the creation of many of the JVM based language ports. Of course, people have to learn about how to use these libraries and languages, so the books written about Java are also varied in nature. There are a great many excellent learning reference books, class library reference books, and books on enterprise and web development. There are books that cover the Java Virtual Machine based languages mentioned earlier. The Spring Framework is a highly popular, open source, modular, infinitely configurable framework written in Java that is also covered well by technical book writers. Many games are written in Java, and we've included a few books on Game programming. If you are writing web services, you'll want to read about Service Oriented Architecture as well as storing and retrieving data using one of the many Java persistence frameworks.
 
 This bibliography covers the entire Java language, spanning from introductory to advanced topics. We hope you enjoy them and use them to your advantage.
+
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. A subscription to our “cloud library” gives you unlimited use of more than 16,000 books and videos. For a free trial, go to http://safaribooksonline.com/oscon11.
+****
