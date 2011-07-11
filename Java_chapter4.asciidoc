@@ -79,3 +79,7 @@ _304 pages_
 Many serious Java programmers, especially enterprise Java programmers, consider the I/O API--called NIO for New Input/Output--the most important feature in the 1.4 version of the Java 2 Standard Edition. The NIO package includes many things that have been missing from previous editions of Java that are critical to writing high-performance, large-scale applications: improvements in the areas of buffer management, scalable network and file I/O, character-set support, and regular expression matching. Most of all, it boosts performance and speed dramatically. This book explores the new I/O capabilities of version 1.4 in detail and shows you how to put these features to work to greatly improve the efficiency of the Java code you write. This compact volume examines the typical challenges that Java programmers face with I/O and shows you how to take advantage of the capabilities of the new I/O features. You’ll learn how to put these tools to work using examples of common, real-world I/O problems and see how the new features have a direct impact on responsiveness, scalability, and reliability. 
 
 _http://my.safaribooksonline.com/book/programming/java/0596002882?cid=1107-biblio-java-link[Read it on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
