@@ -35,7 +35,7 @@ _June 2010_
 _$49.99 US_
 _361 pages_
 
-You've learned the basics of Python, but how do you take your skills to the next stage? Even if you know enough to be productive, there are a number of features that can take you to the next level in Python. This book explores concepts and features normally left to experimentation, allowing you to be even more productive and creative. Not only will this book help you to improve your code, it will also help you understand and interact with the many established Python communities, or even start your own. Learn how to write clean, innovative Python code that will do more with introspection and metaprogramming, taking your Python knowledge and skills to the next level.
+You've learned the basics of Python, but how do you enhance your skills? Even if you know enough to be productive, there are a number of features that can take you to the next level in Python. This book explores concepts and features normally left to experimentation, allowing you to be even more productive and creative. Not only will this book help you to improve your code, it will also help you understand and interact with the many established Python communities, or even start your own. Learn how to write clean, innovative Python code that will do more with introspection and metaprogramming, taking your Python knowledge and skills to the next level.
 
 _http://my.safaribooksonline.com/book/programming/python/9781430227571?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
 
