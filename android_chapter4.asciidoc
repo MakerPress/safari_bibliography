@@ -64,3 +64,7 @@ _478 pages_
 In this book you'll learn how to quickly retool between the iPhone and Android platforms and broaden the interest and audience of your app, without working with burdensome and error-prone compatibility layers and toolkits. You’ll learn the differences between and the relative strengths and weaknesses of each platform as you go. No magic intermediate layers of obfuscation—by the time you get to the end you'll be an expert at developing for any of the major smartphone platforms using each vendor's preferred toolset and approach.
 
 _http://my.safaribooksonline.com/book/programming/android/9781430231981?cid=1107-bibilio-android-link[Read in on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
