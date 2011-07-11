@@ -164,7 +164,7 @@ _July 2010_
 _$44.99 US_
 _383 pages_
 
-This book is what .NET C# developers need to enter the hot field of iPhone applications. Until the open source MonoTouch project, this field was limited to those familiar with Apple's programming languages. Now .NET and C# developers can join the party. Professional iPhone Programming with MonoTouch and .NET/C#is the first book to cover MonoTouch, preparing developers to take advantage of this lucrative opportunity. This book is designed to help you get up to speed with the iPhone, not to really teach you about the .NET Framework or C# language, which we assume you already know.
+This book is what .NET C# developers need to enter the hot field of iPhone applications. Until the open source MonoTouch project, this field was limited to those familiar with Apple's programming languages. Now .NET and C# developers can join the party. Professional iPhone Programming with MonoTouch and .NET/C# is the first book to cover MonoTouch, preparing developers to take advantage of this lucrative opportunity. This book is designed to help you get up to speed with the iPhone, not to really teach you about the .NET Framework or C# language, which we assume you already know.
 
 _http://my.safaribooksonline.com/book/programming/iphone/9780470637821?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
@@ -177,7 +177,7 @@ _February 2010_
 _$39.99 US_
 _882 pages_
 
-Whether you're a beginning programmer who wants to build an application for your iPhone or you're a professional developer looking to leverage the marketing power of the open iPhone SDK, this helpful guide has your needs covered. iPhone enthusiast and developer Neal Goldstein shows you the ins and outs of developing applications for the iPhone and iPod Touch and explains how to get your apps into the AppStore and market and sell them. You'll learn the basics of getting started, download the SDK, context-based design, and fill your toolbox. Clear, easy-to-understand steps walk you through programming with Objective C or Cocoa and show you how to develop games and graphics. Plus, you'll discover how to design specifically for mobile apps.
+Whether you're a beginning programmer who wants to build an application for your iPhone or you're a professional developer looking to leverage the marketing power of the open iPhone SDK, this helpful guide has your needs covered. iPhone enthusiast and developer Neal Goldstein shows you the ins and outs of developing applications for the iPhone and iPod Touch and explains how to get your apps into the AppStore and market and sell them. You'll learn the basics of getting started, download the SDK, context-based design, and fill your toolbox. Clear, easy-to-understand steps walk you through programming with Objective C or Cocoa, and show you how to develop games and graphics. Plus, you'll discover how to design specifically for mobile apps.
 
 _http://my.safaribooksonline.com/book/programming/iphone/9780470542934?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
@@ -189,7 +189,7 @@ _ISBN: 9780470568439_
 _November 2009_
 _432 pages_
 
-This book will help you create iPhone and iPad applications. Make the most of the new 3.1 OS and Apple's Xcode 3.2! Neal Goldstein shows you how to do this, and even illustrates the process with one of his own apps that's currently being sold. Even if you're not a programming pro, you can turn your bright idea into an app you can market, and Neal even shows you how to get it into the App Store!
+This book will help you create iPhone and iPad applications. Make the most of the 3.1 OS and Apple's Xcode 3.2. Neal Goldstein shows you how to do this, and even illustrates the process with one of his own apps that's currently being sold. Even if you're not a programming pro, you can turn your bright idea into an app you can market, and Neal even shows you how to get it into the App Store!
 
 _http://my.safaribooksonline.com/book/programming/iphone/9780470568439?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
