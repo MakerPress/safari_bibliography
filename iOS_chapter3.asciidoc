@@ -188,7 +188,7 @@ _December 2003_
 _$31.99_
 _576 pages_
 
-Programming in Objective-C is a concise, carefully written tutorial on the basics of Objective-C and object-oriented programming. The book makes no assumption about prior experience with object-oriented programming languages or with the C language (upon which Objective-C is based). And because of this, both novice and experienced programmers alike can use this book to quickly and effectively learn the fundamentals of Objective-C. Readers can also learn the concepts of object-oriented programming without having to first learn all of the intricacies of the underlying procedural language (C). This approach, combined with many small program examples and exercises at the end of each chapter, makes it ideally suited for either classroom use or self-study. 
+Programming in Objective-C is a concise, carefully written tutorial on the basics of Objective-C and object-oriented programming. The book makes no assumption about prior experience with object-oriented programming languages or with the C language (upon which Objective-C is based). And because of this, both novice and experienced programmers alike can use this book to quickly and effectively learn the fundamentals of Objective-C. Readers can also learn the concepts of object-oriented programming without having to first learn all of the intricacies of the underlying procedural language. This approach, combined with many small program examples and exercises at the end of each chapter, makes it ideally suited for either classroom use or self-study. 
 
 _http://my.safaribooksonline.com/book/programming/iphone/9780672325861?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
 
