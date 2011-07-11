@@ -365,3 +365,7 @@ _$39.99 US_
 _600 pages_
 
 You don't need programming experience to add interactive and visual effects to your web pages with JavaScript. This Missing Manual shows you how the jQuery library makes JavaScript programming fun, easy, and accessible to web designers at every level of experience. You'll quickly learn how to use jQuery to help your site run smoothly and look great across multiple web browsers. In this entertaining, jargon-free book, bestselling author David McFarland teaches you how to create dynamic web pages without typing a lot of code. 
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
