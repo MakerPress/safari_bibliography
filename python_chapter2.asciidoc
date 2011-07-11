@@ -180,3 +180,7 @@ _504 pages_
 Follow along as leading software engineer and professional trainer Wesley Chun teaches you how to expand your Python skills and go beyond the language and its syntax. Each chapter provides a quick dive or high-level intro into a variety of specific areas of application development. This book delivers hundreds of industrial-strength code snippets and examples (in Python 2 and 3), all targeted at professional developers, which contain not only a high-level intro, but also provide real-world insights for developing applications in Python. By using a relaxed, conversational, and fun writing style, the author is able to explain complex programming concepts in ways that are easy to understand. If you're a Python developer, this is an invaluable addition to your collection!
 
 _http://my.safaribooksonline.com/book/programming/python/9780132779371?cid=1107-bibilio-python-link[Read it on Safari Books Online]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
