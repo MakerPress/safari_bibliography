@@ -5,3 +5,5 @@ The story of Python is not just about it being ahead of its time in terms of syn
 Technology moves fast as always, but Python remains on the cutting edge. NoSQL data stores have become increasingly popular, and you can find first class support for using Python with any of these technologies. This is just further evidence of the continued popularity of Python and the vibrant community around it. This bibliography contains a wide selection of books about Python. These range from various introductory to advanced books, to many books on more specific topics in Python. Of course, web development is covered, but you might be surprised to see the wide variety of other types of development that are done using Python.
 
 Whether you are working on machine learning or just hacking in your spare time, Python's got something to offer for you.
+
+Safari Books Online provides full access to all of the resources in this bibliography. A subscription to our “cloud library” gives you unlimited use of more than 16,000 books and videos. For a free trial, go to _http://safaribooksonline.com/oscon11_.
