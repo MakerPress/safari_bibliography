@@ -25,3 +25,7 @@ _314 pages_
 This book provides concise and clear instruction on how to use the media APIs made available through Android to create dynamic apps, from gaining access to the camera to complex video capture. It also covers sound, graphics, painting, and more—everything you need to make your app come "alive." After reading this book, the app you create will showcase the best of multimedia that Android has to offer.
 
 _http://my.safaribooksonline.com/book/programming/android/9781430232674?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
