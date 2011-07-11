@@ -128,3 +128,7 @@ _187 pages_
 To provide students with a more effective treatment of this difficult topic, John Wiley and Sons, Inc. published Thinking Recursively by Eric Roberts. Since its publication in 1986, Thinking Recursively has become a classic in a field in which books quickly become obsolete. By focusing on effective problem-solving strategies that enable students to "think recursively," this text has helped many students over the conceptual hurdle that recursion so often represents. To celebrate the 20th anniversary of its initial publication, John Wiley and Sons is publishing Thinking Recursively with Java, making the book even more relevant to today's students.
 
 _http://my.safaribooksonline.com/book/programming/java/9780471701460?cid=1107-bibilio-java-link[Read it on Safari Books Online]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
