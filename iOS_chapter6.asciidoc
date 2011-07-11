@@ -51,3 +51,7 @@ _352 pages_
 Make your iPhone or iPad app stand out in the highly competitive App Store. Along with a technical overview, App Savvy focuses on the business, product, and marketing elements critical to pursuing, completing, and selling an app. This practical reference explains every step in the process, with guidelines for making your app unique, addressing budget items, and finding the right app developer.
 
 _http://my.safaribooksonline.com/book/programming/iphone/9781449389765?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
