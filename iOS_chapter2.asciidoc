@@ -203,3 +203,7 @@ _$19.99 US_
 _50 pages_
 
 This book looks at how to integrate iOS devices into distributed sensors network, both to make use of its own on-board sensors in such networks, but also as a hub. Beyond the discussion of basic client-server architectures, and making use of the existing wireless capabilities, this book examines how to connect iOS devices to microcontroller platforms via serial connections.
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
