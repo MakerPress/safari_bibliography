@@ -177,3 +177,7 @@ _192 pages_
 In this book, one of the most highly respected developers in the Java world peels away 15 years of additions and changes to reveal the very best parts of Java, and shows you how those parts alone will help you build better applications. You may not like some of the features this book reveals, but you'll actually write better code with them. Java: The Good Parts is essential for every Java developer, from beginners to advanced programmers.
 
 _http://my.safaribooksonline.com/book/programming/java/9780596803735?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
