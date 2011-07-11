@@ -240,3 +240,7 @@ _128 pages_
 Objective-C is easy to learn and has a simple elegance that is a welcome breath of fresh air after the abstruse and confusing C++. To help you master the fundamentals of this language, you'll want to keep this book close at hand. This small book contains a wealth of valuable information to speed you over the learning curve. In this pocket reference, author Andrew Duncan provides a quick and concise introduction to Objective-C for the experienced programmer. In addition to covering the essentials of Objective-C syntax, Andrew also covers important faces of the language such as memory management, the Objective-C runtime, dynamic loading, distributed objects, and exception handling. By providing important details in a succinct, well-organized format, these handy books deliver just what you need to complete the task at hand.
 
 _http://my.safaribooksonline.com/book/programming/iphone/0-596-00423-0?cid=1107-bibilio-ios-link[Read it on Safari Books Online]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
