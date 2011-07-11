@@ -268,7 +268,6 @@ _768 pages_
 JavaServer Pages (JSP) has built a huge following since the release of JSP 1.0 in 1999, providing Enterprise Java developers with a flexible tool for the development of dynamic web sites and web applications. While new point releases over the years, along with the introduction of the JSP Standard Tag Library (JSTL), have incrementally improved the rough areas of the first version of the JSP specification, JSP 2.0 takes this technology to new heights. This Third Edition is completely revised and updated to cover the JSP 2.0 and JSTL 1.1 specifications. It includes detailed coverage of the Expression Language (EL) incorporated into JSP 2.0, the JSTL 1.1 tag libraries and the new function library, the new tag file format that enables custom tag library development without Java code, the simplified Java tag library API, improvements in the JSP XML syntax, and more. 
 
 _http://my.safaribooksonline.com/book/programming/java/9780596005634?cid=1107-bibilio-java-link[Read in on Safari Online Books]_
-
 === Ajax on Java
 
 _O'Reilly Media_
@@ -281,3 +280,7 @@ _240 pages_
 This practical guide shows you how to make your Java web applications more responsive and dynamic by incorporating new Ajaxian features, including suggestion lists, drag-and-drop, and more. Java developers can choose between many different ways of incorporating Ajax, from building JavaScript into your applications "by hand" to using the new Google Web Toolkit (GWT). Ajax gives web developers the ability to build applications that are more interactive, more dynamic, more exciting and enjoyable for your users. If you're a Java developer and haven't tried Ajax, but would like to get started, this book is essential. Your users will be grateful.
 
 _http://my.safaribooksonline.com/book/programming/java/9780596101879?cid=1107-bibilio-java-link[Read it on Safari Online Books]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
