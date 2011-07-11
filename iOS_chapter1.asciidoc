@@ -125,7 +125,7 @@ _ISBN: 9780768695656_
 _October 2009_
 _696 pages_
 
-In just 24 lessons of one hour or less, this book will help beginning iPhone and mobile developers gain true mastery, so you can construct virtually any iPhone application. Coverage includes: preparing for iPhone development; navigating the development environment; mastering Objective-C and the MVC paradigm; using widgets and webviews; implementing multiple views; reading and writing data; building user interfaces; generating graphics; playing media; using maps; networking; using the touch interface; sensing motion; pushing application updates; debugging; optimization; distributing software via the App Store; and more. By the time you are finished you'll be comfortable enough to write real-world apps that sell.
+In just 24 lessons of one hour or less, this book will help beginning iPhone and mobile developers gain true mastery, so you can construct virtually any iPhone application. Coverage includes: preparing for iPhone development, navigating the development environment, mastering Objective-C and the MVC paradigm, using widgets and webviews and implementing multiple views. It also covers reading and writing data, how to build user interfaces and generate graphics, along with networking, sensing motion, pushing application updates, debugging and distributing software via the App Store. By the time you are finished you'll be comfortable enough to write real-world apps that sell.
 
 _http://my.safaribooksonline.com/book/programming/iphone/9780768695656?cid=1107-bibilio-ios-link[Read it on Safari Online Books]_
 
