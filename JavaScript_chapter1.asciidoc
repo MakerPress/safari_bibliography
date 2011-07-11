@@ -230,3 +230,7 @@ _June 2009_
 This video series is all you need to build world-class web applications. It begins with JavaScript basics, including control statements, functions, arrays, objects, events, CSS, DOM, and more. You’ll also master scripting with XML and RSS, and finish by learning to build the rich Ajax applications that are taking the Web by storm! Your instructor, Paul Deitel, delivers over 14 hours of world-class video training.  Paul teaches by analyzing complete working programs, not trivial code fragments. 
 
 _http://my.safaribooksonline.com/book/programming/javascript/9780137045167?cid=1107-bibilio-jscript-link[See it on Safari Books Online]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
