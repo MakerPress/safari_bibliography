@@ -5,3 +5,7 @@ After the browser became a worldwide instrument to access the World Wide Web, th
 Nowadays desktop and mobile web applications contain a fair amount of scripts so that writing performing and good JavaScript code is vital for the success of a web application. JavaScript is also now used on the server and not only client-side. 
 
 We have chosen a selection of the most useful books for JavaScript development in this bibliography. You can learn how to start programming with JavaScript and you can dig into most advanced topics such as performance, design patterns and best practices. You can find reference books on the most popular JavaScript libraries such as jQuery, YUI, Mootols, Dojo and ExtJS and how to enhance the user experience through DOM Scripting and AJAX. If you are writing mobile apps, you will want to read how to create applications with web technologies
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. A subscription to our “cloud library” gives you unlimited use of more than 16,000 books and videos. For a free trial, go to http://safaribooksonline.com/oscon11.
+****
