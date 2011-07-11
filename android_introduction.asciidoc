@@ -1,6 +1,6 @@
 == Android
 
-Android has played a very important role on the Open Source community. It is a prime example of a successful product that is based on open source – the Linux operating system, “open source” Java, and it has greatly contributed to both the Linux OS project and the Android project via the Open Handset Alliance. The result is enabling both enthutiasts as well as small-and-large 3rd-party vendors to take advantage of the Android open source projects for their own personal projects, for research and academia, and/or own full-blown Products. 
+Android has played a very important role in the open source community. Created by the Open Handset Alliance, Android is an open and free mobile platform based on the Linux operating system. 
 
 Today, Android is the top open source project for mobile devices, powering millions of mobile devices. But, it all started back in 2005, when a small, unknown at the time startup called Android Inc. was acquired by Google Inc. With Android, Google entered the mobile space. The talent-acquisition brought into Google their current employees including its co-founder and mobile technology visionary Andy Rubin who also had co-founded the successful Danger Inc., creators of the Sidekick. 
 
