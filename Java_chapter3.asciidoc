@@ -1,4 +1,4 @@
-== Advanced Java
+== Advanced Java Topics
 
 
 === Java Concurrency in Practice
