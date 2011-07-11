@@ -143,8 +143,6 @@ _November 2011_
 _$44.99 US_
 _325 pages_
 
-Forums, blogs and even the Apple Develop site are full of hard questions and murky answers. Navigating the iOS Dev Center, iOS Provisioning Portal, and iTunes Connect can be equally frustrating. When you're building an app, you don't want vague ideas and untested theory-you want real answers to real problems. You want iPhone in Practice.
-
 iPhone in Practice is a book written from the hard-won experience of expert mobile app developer Bear Cahill. In this unique hands-on guide, you'll explore seven real, working iPhone and iPad apps and uncover nearly 100 specific techniques to solve the specific problems you'll encounter over and over. You'll dig into the practical nuts and bolts of applying views, view controllers, table views and cells, audio, graphics, images, file structure, and so on-the foundations of almost all your apps. You'll also crack some of the more difficult issues that will set you apart from the pack.
 
 === iOS4 in Action
