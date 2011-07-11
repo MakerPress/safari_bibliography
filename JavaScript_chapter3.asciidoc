@@ -149,3 +149,7 @@ _57 pages_
 This book is about making web applications that work for everyone all of the time, even if you have JavaScript turned off, or you're using a mobile phone or a screen reader, or however you happen to be using the Web. It's about the separation of behavior (JavaScript), content (HTML), and presentation (CSS). This short cut will focus on the practical benefits of using Ajax and JavaScript unobtrusively and show you that unobtrusive web development and progressive enhancement benefit both web developers and users of the Web. You'll get to see many simple examples of building web interfaces that are unobtrusive. You'll quickly see that it is actually very easy to make web applications that everyone can use. When you're finished reading this short cut, you will be able to convince anyone why developing unobtrusively is the best way to build a site with JavaScript and Ajax.
 
 _http://my.safaribooksonline.com/book/web-development/ajax/9780596510244?cid=1107-biblio-jscript-link[Read it on Safari Books Online]_
+
+****
+Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to http://safaribooksonline.com/oscon11
+****
