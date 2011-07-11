@@ -131,6 +131,17 @@ This FT Press digital short provides you with a complete plan for selling your A
 
 _http://my.safaribooksonline.com/book/programming/android/9780132732055?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
 
+=== Android App Development & Design: Learn by Video
+
+_Peachpit_
+_By Ehrenstein video2brain_
+_ISBN: 9780132808781_
+_June 2011_
+
+This innovative product uses interactive video to give developer/designers a solid understanding of how to design apps that can run on many different Android-based devices, under Android versions up to 2.3. It introduces the process of programming an app's interaction with Activities and Services and explains how to access existing Android system components. It also looks at how to ensure that an app runs on as many Android devices, screen sizes, and form factors as possible. It explains how to package an app and publish it to the Android Marketplace. Experienced instructor Constantin Ehrenstein presents five hours of exceptional quality video tutorials, complete with lesson files, assessment quizzes, and review materials. 
+
+_http://my.safaribooksonline.com/book/programming/android/9780132808781?cid=1107-bibilio-android-link[See it on Safari Online Books]_
+
 === Programming Android
 
 _O'Reilly Media_
@@ -152,18 +163,6 @@ _$19.99 US_
 _30 pages_
 
 NFC, or Near Field Communication, is a protocol for the contactless exchange of data between devices (such as the Android-powered Nexus S) and/or certain kinds of tags. NFC also interoperates with certain RFID tags such as the Mifare tags. Where the fun begins is when you throw hobbyist hardware into the mix. The inexpensive ($30) SonMicro RFID reader/writer, when paired with an equally inexpensive antenna, gives you the ability to encode custom messages on RFID tags that you can later read by tapping the tags against your phone. This book shows how you can exchange data between Android, Arduino, and Processing using NFC and RFID.
-
-
-=== Android App Development & Design: Learn by Video
-
-_Peachpit_
-_By Ehrenstein video2brain_
-_ISBN: 9780132808781_
-_June 2011_
-
-This innovative product uses interactive video to give developer/designers a solid understanding of how to design apps that can run on many different Android-based devices, under Android versions up to 2.3. It introduces the process of programming an app's interaction with Activities and Services and explains how to access existing Android system components. It also looks at how to ensure that an app runs on as many Android devices, screen sizes, and form factors as possible. It explains how to package an app and publish it to the Android Marketplace. Experienced instructor Constantin Ehrenstein presents five hours of exceptional quality video tutorials, complete with lesson files, assessment quizzes, and review materials. 
-
-_http://my.safaribooksonline.com/book/programming/android/9780132808781?cid=1107-bibilio-android-link[See it on Safari Online Books]_
 
 === Using OpenGL ES 2.0 for Android Development: Develop and Design
 
