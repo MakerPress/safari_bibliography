@@ -7,4 +7,4 @@ The future of Android looks bright. From smartphones to tablets to TVs, to home 
 We have chosen a selection of popular books in this bibliography that span Android topics with the intent that you will be able to use it on your path. From basic Android core application concepts, the Java programming language on Android, to advanced topics that include advanced graphics, gaming and communications, we hope you will use these books to your advantage.
 
 android SDK lets you embed components that can be used in your native android apps, check out with android 3.0 ui across all platforms native development kit
- mobile web application development make money selling your apps.
+ mobile web application development make money selling your apps. 2d and 3d games
